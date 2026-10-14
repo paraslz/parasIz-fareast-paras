@@ -1,4 +1,4 @@
-// Operating cost per tonne FFB, with each line broken into its parts. Used by estate.html.
+// Operating cost per tonne FFB, with each line broken into its parts. Shared by estate.html and the Cheekah page.
 window.costTableHTML=function(cd,fmt,pill,pct){
  const NA="N/A",na=v=>v==null,f=(v,c)=>na(v)?NA:fmt(v,2)+(c?"*":""),vr=(a,b)=>na(a)||na(b)?NA:pill(pct(a,b),true);
  let h="",anyCalc=false;

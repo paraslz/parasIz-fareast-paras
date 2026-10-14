@@ -19,16 +19,19 @@ function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Ch
 const bare=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
 const clean=p=>String(p||"").replace(/\s*\([^)]*\bsee\b[^)]*\)/i,"").trim();
 const BP=()=>clean(D.blockPeriod||(D.kpi||{}).ffbPeriod)||"period not stated";
-const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/(\d{4})/,y=>y-1):"same period last year"};
+const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/FY(\d{4})\/(\d{2})/g,(m,a,b)=>`FY${a-1}/${String(b-1).padStart(2,"0")}`).replace(/\b(\d{4})\b/g,y=>y-1):"same period last year"};
 function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
- if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
+ if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!new RegExp("^"+(window.PSITE&&PSITE.fyStart>1?["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][PSITE.fyStart-1]:"Jan")+"[^–-]*[–-].*"+(window.PSITE&&PSITE.fyStart>1?["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][PSITE.fyStart-2]:"Dec")).test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
  if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
  return {...c,months:bare(c.period).replace(/\s*\d{4}$/,"")}}
-const MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const PS=window.PSITE||{},FS=PS.fyStart||1,CUR=PS.cur||2026;const MON0=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];const MON=MON0.slice(FS-1).concat(MON0.slice(0,FS-1));const YLAB=y=>FS===1?String(y):`FY${y-1}/${String(y).slice(2)}`;const YL=y=>y.label?String(y.label).replace(/\s*\(.*\)\s*$/,""):YLAB(+y.year);const FYN=FS===1?"":` Years are financial years (${MON[0]}–${MON[11]}).`;
 function FP(){const f=D.ffbProd;if(!f)return null;const ys=(f.years||[]).filter(y=>y.t!=null).slice(-8);
- let c=null;if(!f.combinedWith){const m=(f.monthly||{})["2026"]||[];let n=0,t=0;for(const v of m){if(v==null)break;n++;t+=v}
-  if(n)c={year:2026,to:n,t,src:f.monthlySrc};const y=f.ytd;if(y&&y.from===1&&(!c||y.to>=c.to))c={year:y.year,to:y.to,t:y.t,src:y.src}}
+ let c=null;if(!f.combinedWith){const m=(f.monthly||{})[String(CUR)]||[];let n=0,t=0;for(const v of m){if(v==null)break;n++;t+=v}
+  if(n)c={year:CUR,to:n,t,src:f.monthlySrc};const y=f.ytd;if(y&&y.from===1&&(!c||y.to>=c.to))c={year:y.year,to:y.to,t:y.t,src:y.src}}
  return {ys,c,f}}
+const AGEY=CUR;
+const AGEC={"Immature":"#9cc5a1","Young mature":"#5b9a68","Prime":"#2f6b45","Old":"#c08a2e","Over-aged":"#b04a3a","Replanting / no palms yet":"#b9b9b0","Year not stated":"#dcdcd4"};
+function AGE(){const A=window.ageProfile?ageProfile(D.blocks,AGEY):null;return A&&A.tot>0?A:null}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -37,15 +40,16 @@ const DEF={
   const cp=(D.costParts||[]).filter(c=>c.actual!=null);
   if(cp.length)out.push(new Chart($("ch2"),{type:"bar",data:{labels:cp.map(c=>c.name),datasets:[{label:"Actual",data:cp.map(c=>c.actual),backgroundColor:t.accent},{label:"Budget",data:cp.map(c=>c.budget),backgroundColor:t.line}]},options:{scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"RM per t"}}}}}));
   {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
-   const yrs=yh.map(y=>String(y.year));if(c)yrs.push(`${c.year} (${c.months})`);
+   const yrs=yh.map(YL);if(c)yrs.push(`${YLAB(c.year)} (${c.months})`);
    const n=yrs.length,at=v=>{const a=Array(n).fill(null);a[n-1]=v;return a};
    const ds=[{label:"Full year",data:yh.map(y=>y.yph).concat(c?[null]:[]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:t.accent}];
-   if(c){ds.push({label:`${c.year}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
-    if(c.prevSame!=null)ds.push({label:`${c.year-1}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
+   if(c){ds.push({label:`${YLAB(c.year)}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
+    if(c.prevSame!=null)ds.push({label:`${YLAB(c.year-1)}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
    if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
-  {const P=FP();if(P&&P.ys.length+(P.c?1:0)>0){const L=P.ys.map(y=>String(y.year)),V=P.ys.map(y=>y.t),col=P.ys.map(()=>t.accent);
-   if(P.c){L.push(`${P.c.year} (Jan–${MON[P.c.to-1]})`);V.push(P.c.t);col.push(t.fruit)}
+  {const P=FP();if(P&&P.ys.length+(P.c?1:0)>0){const L=P.ys.map(YL),V=P.ys.map(y=>y.t),col=P.ys.map(()=>t.accent);
+   if(P.c){L.push(`${YLAB(P.c.year)} (${MON[0]}–${MON[P.c.to-1]})`);V.push(P.c.t);col.push(t.fruit)}
    out.push(new Chart($("ch5"),{type:"bar",data:{labels:L,datasets:[{label:"FFB tonnes",data:V,backgroundColor:col}]},options:{plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${fmt(x.raw,0)} t`}}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"tonnes FFB"}}}}}))}}
+  {const A=AGE();if(A)out.push(new Chart($("chAge"),{type:"doughnut",data:{labels:A.rows.map(r=>r.k),datasets:[{data:A.rows.map(r=>r.ha),backgroundColor:A.rows.map(r=>AGEC[r.k]),borderColor:css("--panel"),borderWidth:2}]},options:{cutout:"55%",plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${x.label}: ${fmt(x.raw,0)} ha (${(x.raw/A.tot*100).toFixed(0)}%)`}}}}}))}
   return out},
  money(t){return[]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
@@ -86,13 +90,17 @@ function render(){
  {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
   if(yh.length+(c?1:0)<2)$("cB4").hidden=true;
   const last=yh.length?yh[yh.length-1].year:null;
-  $("ch4n").textContent=c?`The ${c.year} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${c.year-1}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}`
-   :(last?`No ${last+1} crop figure in the latest reports yet.`:"")}
+  $("ch4n").textContent=c?`The ${YLAB(c.year)} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${YLAB(c.year-1)}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}${FYN}`
+   :(last?`No ${YLAB(last+1)} crop figure in the latest reports yet.${FYN}`:"")}
  {const P=FP();if(!P||P.ys.length+(P.c?1:0)===0)$("cB5").hidden=true;else{const n=[];
-  if(P.c)n.push(`${P.c.year} covers Jan–${MON[P.c.to-1]} only (${fmt(P.c.t,0)} t), so it is not comparable with full years.`);
-  if(P.f.combinedNote)n.push(P.f.combinedNote);
-  const yrs=P.ys.map(y=>y.year);if(yrs.length>1){const miss=[];for(let y=yrs[0];y<=yrs[yrs.length-1];y++)if(!yrs.includes(y))miss.push(y);if(miss.length)n.push(`No full-year tonnage printed for ${miss.join(", ")}.`)}
-  n.push("Tonnes as printed in the PARAS reports.");$("ch5n").textContent=n.join(" ")}}
+  if(P.c)n.push(`${YLAB(P.c.year)} covers ${MON[0]}–${MON[P.c.to-1]} only (${fmt(P.c.t,0)} t), so it is not comparable with full years.`);
+  if(P.f.combinedNote)n.push(P.f.combinedNote);else if(P.f.combinedWith)n.push(`Tonnes include ${P.f.combinedWith}: the reports print only a combined figure.`);
+  const yrs=P.ys.map(y=>y.year);if(yrs.length>1){const miss=[];for(let y=yrs[0];y<=yrs[yrs.length-1];y++)if(!yrs.includes(y))miss.push(y);if(miss.length)n.push(`No full-year tonnage printed for ${miss.map(YLAB).join(", ")}.`)}
+  n.push("Tonnes as printed in the PARAS reports."+FYN);$("ch5n").textContent=n.join(" ")}}
+ {const A=AGE();if(!A)$("cB6").hidden=true;else{
+  $("ch6s").textContent=`Share of ${fmt(A.tot,0)} ha by palm age in ${AGEY}, from each block's planting year`;
+  $("ageT").innerHTML=A.rows.map(r=>`<tr><th scope="row"><span class="sw" style="background:${AGEC[r.k]}"></span>${esc(r.k)}${r.r?`<small>${r.r}</small>`:""}</th><td class="n">${fmt(r.ha,0)} ha</td><td class="n"><b>${(r.ha/A.tot*100).toFixed(0)}%</b></td></tr>`).join("");
+  $("ageN").textContent=A.notes.join(" ")}}
 
  // blocks
  const B=D.blocks||[];
@@ -107,7 +115,7 @@ function render(){
  $("bT").innerHTML=B.map(b=>{const ref=b.est!=null?b.est:b.prevYtd;return `<tr class="clk" tabindex="0" data-b="${esc(b.id)}"><td><b>${esc(b.id)}</b></td><td>${fmt(b.ha,2)}</td><td>${fmt(b.sph)}</td><td>${esc(b.planted||"–")}</td><td>${fmt(b.ytd,2)}</td><td>${fmt(b.est,2)}</td><td>${fmt(b.prevYtd,2)}</td><td>${pill(pct(b.ytd,ref))}</td></tr>`}).join("")||`<tr><td colspan="8" class="empty">No block data in the latest reports.</td></tr>`;
  document.querySelectorAll("#bT tr.clk").forEach(tr=>{const go=()=>{showBlock(tr.dataset.b);$("bP").scrollIntoView({behavior:"smooth",block:"start"})};tr.addEventListener("click",go);tr.addEventListener("keydown",e=>{if(e.key==="Enter")go()})});
  if(B.length)showBlock(B[0].id);else $("bP").innerHTML=`<p class="empty">No block data in the latest reports.</p>`;
- // money (standard layout, standard layout)
+ // money (standard layout, same as Cheekah Kemayan)
  const NA="N/A",na=v=>v==null;
  $("mS").textContent=k.cop!=null||k.ucHa!=null?`${clean(k.copPeriod)||"Period not stated"}${r.pa?" · "+r.pa.title:""}`:(r.pa?`${r.pa.title} · no cost section`:"No cost section");
  if(D.costDetail&&window.costTableHTML){const cd=D.costDetail,o=costTableHTML(cd,fmt,pill,pct);$("opT").innerHTML=o.html;costTableWire($("opT"));$("opN").textContent=(o.note?o.note+" ":"")+"Tap a line to hide or show its breakdown.";$("mS").textContent=`${cd.period||"Period not stated"} · ${cd.src||(r.pa&&r.pa.title)||""}`}
@@ -174,15 +182,15 @@ function blockYield(b){
  const h=b.yhist;if(!h||!h.years){c.hidden=true;return}
  const yrs=Object.keys(h.years).sort(),est={};(D.yieldHistory||[]).forEach(y=>{if(y.yph!=null)est[String(y.year)]=y.yph});
  const last=yrs[yrs.length-1];c.hidden=false;
- $("bYHs").textContent=`${b.id} t/ha by full year · ${last}: ${fmt(h.years[last],2)} t/ha`;
+ $("bYHs").textContent=`${b.id} t/ha by full year · ${YLAB(+last)}: ${fmt(h.years[last],2)} t/ha`;
  const ty=yrs.slice(-5);
- $("bYHh").innerHTML=`<tr><th>Year</th>${ty.map(y=>`<th>${y}</th>`).join("")}</tr>`;
+ $("bYHh").innerHTML=`<tr><th>${FS>1?"FY":"Year"}</th>${ty.map(y=>`<th>${FS>1?YLAB(+y).replace(/^FY\d\d/,""):y}</th>`).join("")}</tr>`;
  $("bYHb").innerHTML=`<tr><td>${esc(b.id)}</td>${ty.map(y=>`<td>${fmt(h.years[y],2)}</td>`).join("")}</tr>`+(ty.some(y=>est[y]!=null)?`<tr class="x"><td>Estate</td>${ty.map(y=>`<td>${est[y]!=null?fmt(est[y],2):"–"}</td>`).join("")}</tr>`:"");
- $("bYHn").textContent=h.src?`From ${h.src}.`:"";
+ $("bYHn").textContent=(h.src?`From ${h.src}.`:"")+FYN;
  if(!window.Chart)return;const t=T();
  const ds=[{label:b.id,data:yrs.map(y=>h.years[y]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.3,pointRadius:4,pointBackgroundColor:t.accent,borderWidth:2.5}];
  if(yrs.some(y=>est[y]!=null))ds.push({label:"Estate",data:yrs.map(y=>est[y]??null),borderColor:t.muted,borderDash:[5,4],pointRadius:0,fill:false,tension:.3,borderWidth:2});
- byChart=new Chart($("chBY"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:ds.length>1}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}});
+ byChart=new Chart($("chBY"),{type:"line",data:{labels:yrs.map(y=>YLAB(+y)),datasets:ds},options:{plugins:{legend:{display:ds.length>1}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}});
 }
 function showBlock(id){const b=(D.blocks||[]).find(x=>x.id===id);if(!b)return;curBlock=b;$("bSel").value=id;
  const ref=b.est!=null?b.est:b.prevYtd,refL=b.est!=null?"estimate":prevP(BP());
