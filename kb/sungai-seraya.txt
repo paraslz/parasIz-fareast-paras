@@ -101,21 +101,21 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] 2026 programme (Aug 2026): Required 941.50 t (RP 118.20, NK1 170.30, Mix A 208.00, Mix B 445.00), all received; applied 816.10 t (87%): RP 118.20 (100%), NK1 170.30 (100%), Mix A 124.70 (printed 100%), Mix B 402.90 (90%) (Agro Table 4) (Agro 2/2026)
+[manuring] 2026 programme to Aug (t): Required 941.50 t (RP 118.20, NK1 170.30, Mix A 208.00, Mix B 445.00), all received; applied 816.10 t (87%): RP 118.20 (100%), NK1 170.30 (100%), Mix A 124.70 (printed 100%), Mix B 402.90 (90%) (Agro Table 4) (Agro 2/2026)
 [manuring] Outstanding: H1 programme incl. sub-soil in B1, B2, C3, C4 completed; 42.10 t Mix B (July, P07B and P08F) outstanding, to finish by end-Sep 2026; Mix A Sep (P09C, P10D) and Oct (P07B, P08F) to come (Agro Table 5) (Agro 2/2026)
 [manuring] Quality: Mix B in P10D2 by Timac acceptable, 25–30 bags/worker/day; on terraces broadcast away from path and terrace lip; a staff member assigned to check manuring, keep this up. Fertiliser stores acceptable (Agro 2/2026)
-[manuring] EFB: P08F1 408.26 t on 13.61 of 15.00 ha at 30 t/ha (91%); keep applying EFB consistently (Agro Table 6) (Agro 2/2026)
+[manuring] EFB P08F1 (Sep 2026): P08F1 408.26 t on 13.61 of 15.00 ha at 30 t/ha (91%); keep applying EFB consistently (Agro Table 6) (Agro 2/2026)
 [manuring] 2026 outlook: 2026 programme expected to finish within the year if delivery and manpower hold; programme reviewed at the H1 2027 visit (Agro 2/2026)
 [manuring] H1 2026 programme to Jun: Jan Mix B 148.20 t; Feb NK1 75.80 t and Mix B 120.00 t; Mar RP 118.20 t; Apr Mix A 124.70 t all completed. May Mix B 69.30 t delivered, not applied; Jun Mix B 65.40 t not delivered; Jun NK1 42.30 t delivered, not applied. Total 763.90 t required, 698.50 delivered, 586.90 applied (PA 2/2026)
 [manuring] Delay: Late delivery and extra time for sub-soil application in low-lying and terrace areas; expedite before monsoon (PA 2/2026)
 [manuring] Worker productivity: 2.50 kg/palm 26 bags/day RM2.60/bag RM67.60; 1.50 kg 24 bags RM2.80 RM67.20 (semi-mechanised); sub-soil 9.00 kg 21 bags RM3.20, 7.00 kg 19 bags RM3.50; target 30 bags/day semi-mechanised (PA 2/2026)
-[manuring] 2025 result: RP 126.20, NK1 246.00, Mix C 261.40, Mix B 489.80 = 1,123.40 t, 100% applied (completed Nov 2025, Mix B delayed mid-year) (Agro 1/2026)
+[manuring] 2025 result (t): RP 126.20, NK1 246.00, Mix C 261.40, Mix B 489.80 = 1,123.40 t, 100% applied (completed Nov 2025, Mix B delayed mid-year) (Agro 1/2026)
 [manuring] Cost: Manuring RM811.76/ha, 8% under budget due to delay (PA 2/2026)
 [spraying] Rounds (Aug 2026): Inter-row 2 of 3 budgeted rounds done; circle 1 of 3 done, round 2 in progress (Agro 4.4.1) (Agro 2/2026)
 [spraying] Chemicals: Inter-row: Garlon Mix and Ankayu (triclopyr butoxyethyl) for broadleaf weeds; circle: Supremo (glyphosate-isopropylammonium) (Agro 2/2026)
 [spraying] Harvesting paths: Strip spraying of paths stopped to let soft grasses regrow on lateritic soil; suppress only where weeds hinder evacuation (Agro 2/2026)
 [spraying] Condition: Weeds generally acceptable and well controlled; all sub-blocks Good for inter-row and circle; access good for machines (Sep 2026) (Agro 2/2026)
-[spraying] Jun 2026: Circle 870.90 of 997.30 ha (87%), selective 1,220.50 of 1,429.20 ha (85%); slightly behind but satisfactory (PA 2/2026)
+[spraying] Weeding to Jun 2026 (ha): Circle 870.90 of 997.30 ha (87%), selective 1,220.50 of 1,429.20 ha (85%); slightly behind but satisfactory (PA 2/2026)
 [spraying] Productivity: Circle 6.00 ha/manday RM14.00/ha RM84.00/day; selective 5.00 ha/manday RM15.00/ha RM75.00/day; both by mist blower (PA 2/2026)
 [spraying] Advice: Contractor should use CDA for circle spraying instead of mist blower; keep soft grasses and Nephrolepis; sodium chlorate spot spraying controlled Stenochlaena and Tetracera (PA 2/2026)
 [pests] Rat (Agro, Sep 2026): Census only in Feb 2026 (P07B 15%, P08F 7%, P09C 14%, P10D 8%), followed by one baiting round; 2nd round under way Sep 2026 with Tornado (brodifacoum 0.003%). Census on schedule without fail; platform check at 20% threshold for palms over 15 years, 10% for younger palms; bait sub-blocks above threshold (Agro 2/2026)
@@ -128,10 +128,10 @@ ESTATE-WIDE FIELD NOTES
 [pests] Ganoderma: Palm stand fell 7% (115,553 to 107,312 palms, 133 to 123 SPH) mainly from Ganoderma (Agro 2/2025). Mounding stopped in P02A, P02E (over 20 years); continue below 20 years; debole infested palms (PA 2/2026)
 [harvesting] Crop recovery (Sep 2026): Intervals 14–16 days (table 11–18), 16 rounds Jan–Aug 2026 (100%); no over-ripe bunches, a few unripe on platforms; loose fruit collection acceptable, keep collecting to prevent volunteer palms (Agro 2/2026)
 [harvesting] Mechanisation (Aug 2026): Crawler 1 unit, 4 workers, 11.66 t/machine-day, 2.88 t/worker-day; Badang 1, 4, 12.60, 3.23; Timac 5, 26, 13.48, 2.58; total 7 machines, 34 workers (Agro Table 8) (Agro 2/2026)
-[harvesting] Jan–Jun 2026: Below 15 days, 12.35 rounds; Timac 618.70 ha 11.34 t/machine-day; Badang P08F 11.39; crawler 113.00 ha 9.94 (PA 2/2026)
+[harvesting] Mechanisation Jan–Jun 2026: Below 15 days, 12.35 rounds; Timac 618.70 ha 11.34 t/machine-day; Badang P08F 11.39; crawler 113.00 ha 9.94 (PA 2/2026)
 [pruning] Sep 2026: Progressive pruning 100%, no under-pruning; premature frond snapping across estate, not clearly Ganoderma (possibly water stress): monitor, cut only dry fronds (Agro 2/2026)
-[nutrients] Leaf analysis Feb 2026: 16 sub-blocks: N high 50%, normal 31%, ML in E1, F3, low in E2; P ML in 56% (all P02A, P02E); K normal-high everywhere; Mg low in B4 (6%), ML 50%, normal 38%, high 6% (56% below normal); Ca 88% normal; B 94% normal. Palm vigour satisfactory; mild B and K symptoms (Agro 2/2026)
-[yield] Jan–Aug 2026: 11,428.26 t, 13.12 t/ha vs 15.44 t/ha Jan–Aug 2025 (-15%), below the 13,000 t to-date estimate; fall Feb–May, recovery from June, put down to seasonal factors (also seen at neighbouring estates) (Agro 2/2026)
+[nutrients] Leaf analysis Feb 2026 (16 sub-blocks): 16 sub-blocks: N high 50%, normal 31%, ML in E1, F3, low in E2; P ML in 56% (all P02A, P02E); K normal-high everywhere; Mg low in B4 (6%), ML 50%, normal 38%, high 6% (56% below normal); Ca 88% normal; B 94% normal. Palm vigour satisfactory; mild B and K symptoms (Agro 2/2026)
+[yield] Jan–Aug 2026 estate: 11,428.26 t, 13.12 t/ha vs 15.44 t/ha Jan–Aug 2025 (-15%), below the 13,000 t to-date estimate; fall Feb–May, recovery from June, put down to seasonal factors (also seen at neighbouring estates) (Agro 2/2026)
 
 BLOCK P02A (126.4 ha, planted 2002, Mature)
 Manuring progress (to Aug 2026 (Agro 2/2026 Tables 4–5 and 3.1–3.2, by programme month)):
@@ -183,7 +183,8 @@ Harvesting:
 Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): A1: N 2.64 (N), P 0.153 (ML), K 1.00 (N), Mg 0.24 (ML), Ca 0.65 (H), B 13.85 (N). A2: N 2.71 (H), P 0.155 (ML), K 1.00 (N), Mg 0.27 (N), Ca 0.59 (N), B 13.65 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): A1: N 2.64 (N), P 0.153 (ML), K 1.00 (N), Mg 0.24 (ML), Ca 0.65 (H), B 13.85 (N). A2: N 2.71 (H), P 0.155 (ML), K 1.00 (N), Mg 0.27 (N), Ca 0.59 (N), B 13.65 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): A1: N 2.54 (ML), P 0.174 (H), K 0.98 (N), Mg 0.30 (H), Ca 0.69 (H), B 15.71. A2: N 2.58 (ML), P 0.176, K 1.02, Mg 0.34, Ca 0.63, B 14.46 (Agro 2/2025)
   - Symptoms: K deficiency symptoms in a few palms in A1 (Sep 2025); mild K/Mg deficiency in localised laterite/sandy areas estate-wide (Mar 2026) (Agro 2/2025)
   - Phosphorus: All of P02A and P02E moderately low in P (Feb 2026) (Agro 2/2026)
@@ -244,7 +245,8 @@ Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
   - Hilly terrain: Stack cut fronds along the contour in P02E to cut runoff and erosion (PA 2/2026)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): E1: N 2.55 (ML), P 0.153 (ML), K 1.04 (N), Mg 0.25 (ML), Ca 0.62 (H), B 13.91 (N). E2: N 2.50 (L, lowest in estate), P 0.155 (ML), K 1.04 (N), Mg 0.26 (N), Ca 0.58 (N), B 12.54 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): E1: N 2.55 (ML), P 0.153 (ML), K 1.04 (N), Mg 0.25 (ML), Ca 0.62 (H), B 13.91 (N). E2: N 2.50 (L, lowest in estate), P 0.155 (ML), K 1.04 (N), Mg 0.26 (N), Ca 0.58 (N), B 12.54 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): E1: N 2.51 (ML), P 0.161, K 0.98, Mg 0.29 (H), Ca 0.67, B 13.93. E2: N 2.50 (ML), P 0.163, K 1.02, Mg 0.29, Ca 0.63, B 14.00 (Agro 2/2025)
   - Symptoms (Sep 2026): K deficiency symptoms on some palms in hilly lateritic parts despite normal leaf K (photos 33–34) (Agro 2/2026)
   - Phosphorus: All of P02A and P02E moderately low in P (Feb 2026) (Agro 2/2026)
@@ -320,7 +322,8 @@ Harvesting:
 Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): B1: N 2.63 (N), P 0.161 (N), K 1.00 (N), Mg 0.28 (N), Ca 0.59, B 13.26. B2: N 2.63 (N), P 0.156 (ML), K 0.96 (N), Mg 0.29 (H), Ca 0.54, B 12.01. B3: N 2.75 (H), P 0.160 (N), K 1.12 (H), Mg 0.24 (ML), Ca 0.55, B 12.93. B4: N 2.87 (H), P 0.164 (N), K 1.18 (H), Mg 0.21 (L, only low-Mg block in estate), Ca 0.57, B 13.59 (Ca and B normal) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): B1: N 2.63 (N), P 0.161 (N), K 1.00 (N), Mg 0.28 (N), Ca 0.59, B 13.26. B2: N 2.63 (N), P 0.156 (ML), K 0.96 (N), Mg 0.29 (H), Ca 0.54, B 12.01. B3: N 2.75 (H), P 0.160 (N), K 1.12 (H), Mg 0.24 (ML), Ca 0.55, B 12.93. B4: N 2.87 (H), P 0.164 (N), K 1.18 (H), Mg 0.21 (L, only low-Mg block in estate), Ca 0.57, B 13.59 (Ca and B normal) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): B1: N 2.72 (H), K 0.90 (ML), Mg 0.37. B2: N 2.46 (deficient, lowest), K 0.88 (ML), Mg 0.36. B3: N 2.65, K 1.06 (H). B4: N 2.59 (ML), K 1.18 (H). P high in B2–B4 (Agro 2/2025)
   - Boron symptoms (Sep 2026): Scattered crinkled fronds suggesting B deficiency, mainly old fronds (photos captioned P08F) (Agro 2/2026)
 Field:
@@ -392,7 +395,8 @@ Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
   - Frond snapping: Premature frond snapping in parts of P08F and P10D from water stress (Jun–Aug 2025 rain under 100 mm/month); remove only dry hanging fronds (Agro 2/2025)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): F1: N 2.87 (H), P 0.163 (N), K 1.18 (H), Mg 0.23 (ML), Ca 0.55, B 12.01. F2: N 2.83 (H), P 0.163 (N), K 1.18 (H), Mg 0.23 (ML), Ca 0.56, B 13.32. F3: N 2.59 (ML), P 0.159 (ML), K 1.04 (N), Mg 0.25 (ML), Ca 0.59, B 11.75 (Ca and B normal) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): F1: N 2.87 (H), P 0.163 (N), K 1.18 (H), Mg 0.23 (ML), Ca 0.55, B 12.01. F2: N 2.83 (H), P 0.163 (N), K 1.18 (H), Mg 0.23 (ML), Ca 0.56, B 13.32. F3: N 2.59 (ML), P 0.159 (ML), K 1.04 (N), Mg 0.25 (ML), Ca 0.59, B 11.75 (Ca and B normal) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): F1: N 2.61, K 1.16 (H), Mg 0.29. F2: N 2.50 (ML), K 1.16, Mg 0.29. F3: N 2.51 (ML), K 1.14, Mg 0.26 (N), Ca 0.56 (Agro 2/2025)
 Field:
   - Palm density: F1 50.60 ha 5,410 palms 107 SPH (lowest in estate, mostly hilly); F2 54.90 / 6,412 / 117; F3 33.70 / 3,671 / 109 (2026 census from drone mapping, Agro 2/2026 Table 3; unchanged from Agro 1/2026) (Agro 2/2026)
@@ -465,7 +469,8 @@ Harvesting:
 Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): C1: N 2.67 (N), P 0.156 (ML), K 1.00 (N), Mg 0.27 (N), Ca 0.58, B 13.85. C2: N 2.66 (N), P 0.159 (ML), K 1.02 (N), Mg 0.27 (N), Ca 0.54, B 12.14. C3: N 2.71 (H), P 0.163 (N), K 0.98 (N), Mg 0.28 (N), Ca 0.58, B 11.75 (Ca and B normal). C4 not sampled (lab sheet labels C1–C3 as 'P01/C') (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): C1: N 2.67 (N), P 0.156 (ML), K 1.00 (N), Mg 0.27 (N), Ca 0.58, B 13.85. C2: N 2.66 (N), P 0.159 (ML), K 1.02 (N), Mg 0.27 (N), Ca 0.54, B 12.14. C3: N 2.71 (H), P 0.163 (N), K 0.98 (N), Mg 0.28 (N), Ca 0.58, B 11.75 (Ca and B normal). C4 not sampled (lab sheet labels C1–C3 as 'P01/C') (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): C1: N 2.66, K 1.10 (H). C2: N 2.59 (ML), K 1.02. C3: N 2.57 (ML), K 0.98. C4: N 2.75 (H), K 0.96. Mg 0.29–0.35 (H); P high (Agro 2/2025)
   - Symptoms: K deficiency symptoms in a few palms in C3 (Sep 2025) (Agro 2/2025)
   - Boron symptoms (Sep 2026): Scattered crinkled fronds suggesting B deficiency, mainly old fronds (photos captioned P08F) (Agro 2/2026)
@@ -536,7 +541,8 @@ Pruning:
   - Sep 2026: Pruning and sanitation rated Good in all sub-blocks; progressive pruning 100% complete, no under-pruning (Agro 2/2026)
   - Frond snapping: Premature frond snapping in P10D from water stress (Jun–Aug 2025); remove only dry hanging fronds (Agro 2/2025)
 Nutrients:
-  - Leaf analysis (Feb 2026 sampling): D1: N 2.73 (H), P 0.159 (ML), K 1.06 (H), Mg 0.24 (ML), Ca 0.57 (N), B 16.08 (H). D2: N 2.72 (H), P 0.160 (N), K 1.08 (H), Mg 0.24 (ML), Ca 0.56 (N), B 12.73 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 N, P, K (% DM): D1: N 2.73 (H), P 0.159 (ML), K 1.06 (H), Mg 0.24 (ML), Ca 0.57 (N), B 16.08 (H). D2: N 2.72 (H), P 0.160 (N), K 1.08 (H), Mg 0.24 (ML), Ca 0.56 (N), B 12.73 (N) (Agro Table 9; lab results 14 Mar 2026) (Agro 2/2026)
+  - Leaf Feb 2026 Mg, Ca, B: Mg and Ca in % DM, B in ppm; same samples as the N, P, K table above. (Agro 2/2026)
   - Leaf analysis (Mar 2025 sampling): D1: N 2.55 (ML), K 1.14 (H), Mg 0.25 (ML, below range). D2: N 2.57 (ML), K 1.12, Mg 0.27 (Agro 2/2025)
 Field:
   - Palm density: D1 55.20 ha 6,682 palms 121 SPH; D2 60.00 ha 7,817 palms 130 SPH (2026 census from drone mapping, Agro 2/2026 Table 3; unchanged from Agro 1/2026) (Agro 2/2026)

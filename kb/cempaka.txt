@@ -119,7 +119,7 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] 2026 monthly programme to Jul (PA Table 10): Jan Mix B 36.15 t (100%); Feb Mix B 52.80 (100%); Mar Kie 10.30 (100%) and Mix B 36.15 (100%); Apr RP 46.95 (100%); May Mix B 52.80 t, 52.30 applied (99%); Jun RP 41.30 t, 24.00 applied (58%); Jul Mix B 36.15, Aug Mix B 52.80, Oct Mix B 92.80 to come. Printed total 406.70 t required, 276.45 delivered, 258.65 applied = 64%. Delay due to fertiliser delivery (PA 2/2026)
+[manuring] 2026 programme to Jul (PA Table 10): Jan Mix B 36.15 t (100%); Feb Mix B 52.80 (100%); Mar Kie 10.30 (100%) and Mix B 36.15 (100%); Apr RP 46.95 (100%); May Mix B 52.80 t, 52.30 applied (99%); Jun RP 41.30 t, 24.00 applied (58%); Jul Mix B 36.15, Aug Mix B 52.80, Oct Mix B 92.80 to come. Printed total 406.70 t required, 276.45 delivered, 258.65 applied = 64%. Delay due to fertiliser delivery (PA 2/2026)
 [manuring] Mature summary to Jul 2026 (Agro Table 4): Mixture B 212.90 of 310.30 t (69%); kieserite 10.30 of 10.30 (100%); RP 88.25 of 88.25 (100%); total 311.45 of 408.85 t (76%). 97.40 t Mix B still to be received (Agro 2/2026)
 [manuring] Advice: Keep any delay under two months; monitor stock and delivery schedules and report delays to the Agronomist (Agro 2/2026)
 [manuring] Worker output: 1.50 kg dose: 24 bags/day at RM3.00/bag = RM72.00/day; 2.00 kg dose: 30 bags/day at RM2.40/bag = RM72.00/day (manual) (PA 2/2026)
@@ -186,7 +186,7 @@ Pests & diseases:
 Yield:
   - Jan–Jul 2026: 1,439.48 t FFB = 8.59 t/ha; 5.46 bunches/palm, average bunch weight 11.23 kg (PA 2/2026)
   - Jan–Jul 2026 vs Jan–Jul 2025: 8.59 vs 13.63 t/ha (−37%). Agronomist: decline due to seasonal and crop factors, not field upkeep or harvesting; promising bunch formation seen, increase expected in second half of 2026 (Agro 2/2026)
-  - 2025 full year: 27.75 t/ha vs 20.72 t/ha in 2024 (+33.9%); 4,651.78 t on 167.64 ha (Agro 1/2026)
+  - 2025 crop: 27.75 t/ha vs 20.72 t/ha in 2024 (+33.9%); 4,651.78 t on 167.64 ha (Agro 1/2026)
   - Jan–Jun 2025: 1,760.54 t = 10.50 t/ha, bunch weight 10.12 kg; Jan–Jun 2024 7.73 t/ha (+35.9%) (Agro 2/2025)
   - Jan–Sep 2025: 19.87 t/ha vs budget 15.39 and 13.86 same period 2024 (PA 2/2025)
 Harvesting:
@@ -200,9 +200,7 @@ Pruning:
   - Standard (Aug 2026): Pruning standard generally satisfactory; restacking of cut fronds needs improvement (PA 2/2026)
   - 2025 progressive pruning: 1,341.12 ha done of 2,011.68 ha programme = 67% (PA 1/2026 Appendix 6) (PA 1/2026)
 Nutrients:
-  - Foliar C1 (Mar 2026): N 2.87 H, P 0.166 N, K 1.24 H, Mg 0.29 H, Ca 0.61 H (% dry matter); B 16.88 H ppm (Agro 2/2026)
-  - Foliar C2 (Mar 2026): N 2.92 H, P 0.174 H, K 1.24 H, Mg 0.28 N, Ca 0.60 N (% dry matter); B 15.69 H ppm (Agro 2/2026)
-  - Foliar C3 (Mar 2026): N 2.89 H, P 0.165 N, K 1.48 H, Mg 0.26 N, Ca 0.47 ML (% dry matter); B 14.98 N ppm (Agro 2/2026)
+  - Foliar Mar 2026 (% DM; B ppm): N 2.87 H, P 0.166 N, K 1.24 H, Mg 0.29 H, Ca 0.61 H (% dry matter); B 16.88 H ppm | N 2.92 H, P 0.174 H, K 1.24 H, Mg 0.28 N, Ca 0.60 N (% dry matter); B 15.69 H ppm | N 2.89 H, P 0.165 N, K 1.48 H, Mg 0.26 N, Ca 0.47 ML (% dry matter); B 14.98 N ppm (Agro 2/2026)
   - Leaf symptoms: Deficiency symptoms seen in P18C and P22B (not widespread); kieserite 750 g added in the 2027 programme (Agro 2/2026)
 Field:
   - Palm census (drone, H1 2026): 23,430 palms, 140/ha vs 23,804 (142/ha) previously, −2% (Agro 2/2026)
@@ -255,7 +253,7 @@ Pests & diseases:
 Yield:
   - Jan–Jul 2026: 518.58 t FFB; PA table prints 4.09 t/ha (518.58 ÷ 104.08 = 4.98); 9.32 bunches/palm, bunch weight 3.61 kg (PA 2/2026)
   - Jan–Jul 2026 vs Jan–Jul 2025: 4.98 vs 2.30 t/ha (+117%) (Agro 2/2026)
-  - 2025 (scout harvesting): B1 48.70 ha: 137.29 t = 2.82 t/ha vs estimate 177.00 t / 3.63 t/ha (−22.3%); B2 55.38 ha: 228.94 t = 4.13 t/ha vs 203.00 t / 3.67 (+12.5%). B1 below expectation due to crop recovery and access (Agro 1/2026)
+  - 2025 scout harvesting: B1 48.70 ha: 137.29 t = 2.82 t/ha vs estimate 177.00 t / 3.63 t/ha (−22.3%); B2 55.38 ha: 228.94 t = 4.13 t/ha vs 203.00 t / 3.67 (+12.5%). B1 below expectation due to crop recovery and access (Agro 1/2026)
   - Jan–Jun 2025: 196.05 t = 1.88 t/ha vs estimate 1.73 (+8.7%), bunch weight 2.12 kg (Agro 2/2025)
 Harvesting:
   - Monthly intervals Jan–Jul 2026: Jan 15-16, Feb 14-17, Mar 12-18, Apr 11-14, May 15-16, Jun 13-17, Jul 14-16 days (Agro 2/2026)
@@ -266,8 +264,7 @@ Pruning:
   - Progressive pruning 2026: 104.08 of 208.16 ha programme (2 rounds) = 50%; pruning generally acceptable (Agro 2/2026)
   - Pruning Jan 2026: Inconsistent pruning in B1 and B2; prune only when the lowest bunch is at least 3 ft above ground and keep at least 2 fronds below it (Agro 1/2026)
 Nutrients:
-  - Foliar B1 (Mar 2026): N 3.18 H, P 0.172 H, K 1.64 H, Mg 0.30 ML, Ca 0.39 L (% dry matter); B 12.82 N ppm (Agro 2/2026)
-  - Foliar B2 (Mar 2026): N 2.92 H, P 0.169 N, K 1.34 H, Mg 0.29 L, Ca 0.49 ML (% dry matter); B 14.39 N ppm (Agro 2/2026)
+  - Foliar Mar 2026 (% DM; B ppm): N 3.18 H, P 0.172 H, K 1.64 H, Mg 0.30 ML, Ca 0.39 L (% dry matter); B 12.82 N ppm | N 2.92 H, P 0.169 N, K 1.34 H, Mg 0.29 L, Ca 0.49 ML (% dry matter); B 14.39 N ppm (Agro 2/2026)
   - Mg and Ca: Mg moderately low to low in P22 with some deficiency symptoms (not widespread); extra kieserite in 2027. Ca moderately low in P22, to be rechecked at next foliar sampling (Agro 2/2026)
 Field:
   - Palm census (drone, H1 2026): 15,379 palms, 148/ha (no change) (Agro 2/2026)
@@ -317,7 +314,7 @@ Pests & diseases:
 Yield:
   - Jan–Jul 2026: 91.64 t FFB = 2.11 t/ha; 4.67 bunches/palm, bunch weight 3.71 kg. Low because of lower stand and many unproductive supply palms (PA 2/2026)
   - Jan–Jul 2026 vs Jan–Jul 2025: 2.11 vs 0.96 t/ha (+120%) (Agro 2/2026)
-  - 2025 (scout harvesting): 75.33 t = 1.74 t/ha vs estimate 158.00 t / 3.64 t/ha (−52.2%), due to crop recovery problems and poor access (Agro 1/2026)
+  - 2025 scout harvesting: 75.33 t = 1.74 t/ha vs estimate 158.00 t / 3.64 t/ha (−52.2%), due to crop recovery problems and poor access (Agro 1/2026)
   - Jan–Jun 2025: 35.61 t = 0.82 t/ha vs estimate 1.80 (−54.4%), bunch weight 2.21 kg; earlier access and labour problems (Agro 2/2025)
 Harvesting:
   - Monthly intervals Jan–Jul 2026: Jan 16-16, Feb 14-18, Mar 14-18, Apr 11-15, May 15-18, Jun 13-17, Jul 14-15 days (Agro 2/2026)
@@ -349,7 +346,7 @@ Manuring progress:
   - 2026 to Jul: Compound 74.70 t received and applied (100%); Mixture B 79.60 t required, none received (0%); RP 49.85 t received, none applied (0%) (Agro 2/2026)
   - RP delayed: 2 rounds of compound at 1.50 kg/palm done; RP at 2.00 kg/palm due but delayed. Palms grew well with no deficiency signs (PA 2/2026)
   - Deadline: Complete outstanding June programmes by August at the latest (no more than two months late) (Agro 2/2026)
-  - 2025: Immature manuring completed 100% (348.60 t: Mix B 130.80, compound 116.80, kieserite 10.90, RP 90.10) (Agro 1/2026)
+  - Immature manuring 2025: Immature manuring completed 100% (348.60 t: Mix B 130.80, compound 116.80, kieserite 10.90, RP 90.10) (Agro 1/2026)
 Spraying & weeding:
   - Circle weeding behind: 2nd round started with VOP eradication in all sub-blocks; circles generally acceptable (Agro 2/2026)
   - Spray drift: Do not use a mist blower; drift onto lower fronds and inflorescences causes phytotoxicity (PA 2/2026)

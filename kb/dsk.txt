@@ -79,23 +79,23 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] 2026 to Aug: RP 310.1 mt, Mix B 865.96, kieserite 27.6, NK2 184.77 = 1,388.43 mt programme, delivered and applied (100%) (Agro Table 4) (Agro 2/2026)
-[manuring] Jan–Jun 2026 by month (PA Table 9): Jan Mix B 234.10 + NK2 37.15; Feb Mix B 39.55 + NK2 94.25; Mar RP 310.10; Apr Mix B 392.35; May Mix B 31.65 + kieserite 27.60; Jun NK2 29.75 = 1,196.50 mt, all completed (PA 2/2026)
-[manuring] Worker output (PA Table 10): Broadcast 25 bags/day at RM2.70, RM67.50/day; subsoiling 8.00 kg/palm 18 bags/day at RM4.30, RM77.40/day (PA 2/2026)
+[manuring] 2026 to Aug by material (mt): RP 310.1 mt, Mix B 865.96, kieserite 27.6, NK2 184.77 = 1,388.43 mt programme, delivered and applied (100%) (Agro Table 4) (Agro 2/2026)
+[manuring] Jan–Jun 2026 by month (mt): Jan Mix B 234.10 + NK2 37.15; Feb Mix B 39.55 + NK2 94.25; Mar RP 310.10; Apr Mix B 392.35; May Mix B 31.65 + kieserite 27.60; Jun NK2 29.75 = 1,196.50 mt, all completed (PA 2/2026)
+[manuring] Worker output: Broadcast 25 bags/day at RM2.70, RM67.50/day; subsoiling 8.00 kg/palm 18 bags/day at RM4.30, RM77.40/day (PA 2/2026)
 [manuring] Placement on terraces: For palms 7 years and older, apply near the circle edge in the inner half of the inward slope zone; avoid terrace edges and drains; avoid waterlogged soil (Agro 3.4–3.7) (Agro 2/2026)
-[manuring] 2025: Programme completed Nov/Dec 2025: RP 352.70, Mix B 1,051.40 of 1,062.40, NK2 103.15 mt = 1,507.25 of 1,518.25 mt (Agro 1/2026 Table 5); PA Appendix 3: 1,818.20 mt applied incl. extra 40.45 mt NK2 in Aug (Agro 1/2026)
+[manuring] 2025 by material (mt): Programme completed Nov/Dec 2025: RP 352.70, Mix B 1,051.40 of 1,062.40, NK2 103.15 mt = 1,507.25 of 1,518.25 mt (Agro 1/2026 Table 5); PA Appendix 3: 1,818.20 mt applied incl. extra 40.45 mt NK2 in Aug (Agro 1/2026)
 [manuring] Cost: Manuring RM701.62/ha vs RM934.06 budget Jan–Jun 2026 (part of fertiliser not yet charged); 2025 RM1,556.54/ha vs RM1,430.31 (PA 2/2026)
 [spraying] Ground cover (Sep 2026): No significant improvement since Jan 2026: sparse vegetation and bare soil dominant; untidy inter-rows reduced, no over-spraying seen (Agro 4.4) (Agro 2/2026)
-[spraying] Estate totals to Jun 2026: Circle 1,931.46 ha done vs 1,806.93 programme to date (4,256.99 for year); selective 2,235.36 vs 2,333.76 (PA Tables 7–8) (PA 2/2026)
+[spraying] Estate totals to Jun 2026 (ha): Circle 1,931.46 ha done vs 1,806.93 programme to date (4,256.99 for year); selective 2,235.36 vs 2,333.76 (PA Tables 7–8) (PA 2/2026)
 [spraying] Sprayer output: Circle 6 ha/day, RM12.00/ha, RM72.00/day (CDA); selective 5 ha/day, RM14.00/ha, RM70.00/day (mist blower) (PA 2/2026)
 [spraying] Recommended programme (Agro 1/2026): 3 rounds selective inter-row (Ally/Garlon by mist blower); 2 rounds circle with glyphosate by low-volume nozzle; 1 round spot spraying; glyphosate potassium for bracken and VOPs (Agro 1/2026)
 [pests] Rats: Estate average 21% (Apr 2026) and 17% (Jun 2026) after one baiting round in May 2026; continue systematic baiting in one direction, second full round where above 10% (Agro 2/2026)
 [pests] Barn owls: 124 boxes (1 per 11 ha), 87% occupied, 104 cleaned (PA Jun 2026); Agro Sep 2026: 120 boxes, 68% (down from 87%) (Agro 2/2026)
 [pests] Elephants: Elephant damage to fronds along jungle boundaries; patrols and burning EPB along boundary; attacks reduced (PA) (PA 2/2026)
 [pests] Ganoderma signs: Significant number of palms with premature frond snapping and multiple unopened spears, possible early Ganoderma (Agro 4.3.3) (Agro 2/2026)
-[field] Drains (Jan–Jun 2026): Desilted 22.65 ch (4×3×2 ft), 266.72 ch (5×4×3), 213.46 ch (8×6×4), 94.63 ch (12×8×6) = 574 ch; backhoe 103 hrs (PA Table 13) (PA 2/2026)
+[field] Drains Jan–Jun 2026 (chains): Desilted 22.65 ch (4×3×2 ft), 266.72 ch (5×4×3), 213.46 ch (8×6×4), 94.63 ch (12×8×6) = 574 ch; backhoe 103 hrs (PA Table 13) (PA 2/2026)
 [field] Roads: Graded 5,532 ch vs 6,000 budget; crusher run 0 of 1,100 mt (PA); Agro: 84.90 mt crusher run used by Aug 2026 (PA 2/2026)
-[field] Soils: Bungor 45.03%, Rengam 20.96%, steep land/Melaka 13.17%, Tebok/Tawar 9.63%, organic clay muck 8.47%, Gajah Mati 2.72% (DOA soil report, Agro 5.8) (Agro 2/2026)
+[field] Soils (DOA soil report): Bungor 45.03%, Rengam 20.96%, steep land/Melaka 13.17%, Tebok/Tawar 9.63%, organic clay muck 8.47%, Gajah Mati 2.72% (DOA soil report, Agro 5.8) (Agro 2/2026)
 [field] Low-lying and peat: 237.40 ha (17.98%) low-lying, most floods under one week; 89.50 ha (6.78%) peat (Agro 2/2026)
 
 BLOCK P12A (215.1 ha, planted 2012, Mature)
@@ -103,8 +103,7 @@ Spraying progress (Jan–Jun 2026):
   - Circle spraying: 100% (worked out) — 430.20 of 430.20 ha · 2nd round completed (PA 2/2026)
   - Selective spraying: 100% (worked out) — 430.20 of 430.20 ha · 2nd round completed (PA 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Ground cover (Sep 2026): Sparse ground in P12A2–P12A6; incomplete weed kill in P12A1; localized bare ground in P12A3 (Jan 2026) (Agro 2/2026)
 Fertiliser programme (next year) 2027:
   - Jan, Mix B: 2,500 g/palm (all sub-blocks) (Agro 2/2026)
@@ -132,9 +131,8 @@ Fertiliser programme (previous year) 2025:
   - Oct, Mix B: 2,250 g/palm (all sub-blocks) (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 21% (Apr 2026), 15% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 6.3%, 12.0%, 12.5%, 14.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 21% (Apr 2026), 15% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 215.1 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 6.3%, 12.0%, 12.5%, 14.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 18 boxes installed of 18 required, 13 occupied = 72%. Agro Sep 2026: 18 boxes, 67% occupancy (Agro 2/2026)
 Yield:
   - Jan–Jun 2026: 9.67 t/ha; BPP 11.95, ABW 15.38 kg, SPH 136 (PA Table 19). Estate 8.99 t/ha vs budget 9.78 and 9.63 same period 2025 (PA 2/2026)
@@ -144,8 +142,7 @@ Yield:
   - Yield history (t/ha): 2017 10.73, 2018 17.53, 2019 14.83, 2020 20.97, 2021 19.68, 2022 20.43, 2023 15.60, 2024 24.01, 2025 25.16 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 2,079.22 t with 1,583 man-days = 1.31 t/man-day; rate RM36.00/t; earnings RM47.28/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 13-15, 14-15, 14-15, 10-15, 14-15, 11-15, 13-15, 11-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 12-17, 12-18, 14-19, 15-19, 12-17, 11-17, 13-17, 14-20, 10-19, 14-19, 13-17, 17-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 13-15, 14-15, 14-15, 10-15, 14-15, 11-15, 13-15, 11-15 days by month (Agro Table 5) | 12-17, 12-18, 14-19, 15-19, 12-17, 11-17, 13-17, 14-20, 10-19, 14-19, 13-17, 17-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
   - Flood debris (Jan 2026): Low-lying P12A5 and P12A6 prone to flooding; stacked fronds scatter into weeded circles after floods; budget from one circle round could fund circle raking after floods (Agro 1/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
@@ -167,8 +164,7 @@ Spraying progress (Jan–Jun 2026):
 Manuring progress:
   - EFB (Aug 2026): B3: 323.08 mt on 2.20 ha = 149 mt/ha, 5% of 47.70 ha; 50 mt/ha is sufficient (Agro Table 9). 2025: B3 573.42 mt on 11.47 ha at 50 mt/ha (24%) for lateritic poor-vigour patch (Agro 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
 Fertiliser programme (next year) 2027:
   - Jan, Mix B: 2,500 g/palm (all sub-blocks) (Agro 2/2026)
   - Mar, RP: 1,500 g/palm (all sub-blocks) (Agro 2/2026)
@@ -192,9 +188,8 @@ Fertiliser programme (previous year) 2025:
   - Oct, Mix B: 2,250 g/palm (all sub-blocks) (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 21% (Apr 2026), 15% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 6.5%, 5.6%, 7.0%, 7.5% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 21% (Apr 2026), 15% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 183.6 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 6.5%, 5.6%, 7.0%, 7.5% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 18 boxes installed of 18 required, 14 occupied = 78%. Agro Sep 2026: 18 boxes, 67% occupancy (Agro 2/2026)
 Yield:
   - Jan–Jun 2026: 11.82 t/ha; BPP 12.01, ABW 16.53 kg, SPH 136 (PA Table 19). Estate 8.99 t/ha vs budget 9.78 and 9.63 same period 2025 (PA 2/2026)
@@ -204,8 +199,7 @@ Yield:
   - Yield history (t/ha): 2017 5.03, 2018 15.61, 2019 16.61, 2020 21.76, 2021 18.82, 2022 22.16, 2023 18.73, 2024 29.22, 2025 30.43 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 2,169.52 t with 1,126 man-days = 1.93 t/man-day; rate RM34.00/t; earnings RM65.51/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 13-15, 14-15, 14-15, 14-15, 14-15, 14-15, 14-15, 13-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 10-18, 10-18, 15-17, 11-19, 10-18, 11-19, 13-17, 15-19, 13-18, 11-16, 15-17, 16-21 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 13-15, 14-15, 14-15, 14-15, 14-15, 14-15, 14-15, 13-15 days by month (Agro Table 5) | 10-18, 10-18, 15-17, 11-19, 10-18, 11-19, 13-17, 15-19, 13-18, 11-16, 15-17, 16-21 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
 Nutrients:
@@ -224,8 +218,7 @@ Spraying progress (Jan–Jun 2026):
   - Circle spraying: 100% (worked out) — 225.80 of 225.80 ha · 1st round completed (PA 2/2026)
   - Selective spraying: 100% (worked out) — 451.60 of 451.60 ha · 2nd round completed (PA 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Ground cover (Sep 2026): Sparse ground in P13C1 and P13C2 (Agro 2/2026)
 Fertiliser programme (next year) 2027:
   - Jan, Mix B: 2,500 g/palm (all sub-blocks) (Agro 2/2026)
@@ -250,9 +243,8 @@ Fertiliser programme (previous year) 2025:
   - Oct, Mix B: 2,250 g/palm (all sub-blocks) (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 24% (Apr 2026), 18% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 9.0%, 15.0%, 15.5%, 16.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 24% (Apr 2026), 18% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 225.8 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 9.0%, 15.0%, 15.5%, 16.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 18 boxes installed of 18 required, 14 occupied = 78%. Agro Sep 2026: 18 boxes, 61% occupancy (Agro 2/2026)
   - Elephants: Elephant pulling fronds in P13C (PA photo 6) (PA 2/2026)
 Yield:
@@ -263,8 +255,7 @@ Yield:
   - Yield history (t/ha): 2017 10.72, 2018 16.16, 2019 14.13, 2020 21.82, 2021 20.11, 2022 24.81, 2023 16.83, 2024 25.75, 2025 28.32 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 2,173.02 t with 1,471 man-days = 1.48 t/man-day; rate RM34.00/t; earnings RM50.23/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 14-15, 14-15, 14-15, 14-15, 13-15, 13-18, 13-15, 13-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 15-18, 11-18, 11-17, 13-17, 15-18, 13-18, 13-19, 14-18, 14-18, 14-18, 14-17, 16-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 14-15, 14-15, 14-15, 14-15, 13-15, 13-18, 13-15, 13-15 days by month (Agro Table 5) | 15-18, 11-18, 11-17, 13-17, 15-18, 13-18, 13-19, 14-18, 14-18, 14-18, 14-17, 16-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
   - Ripeness check (Sep 2026): P13C3 14% over-ripe (Agro 4.1.2) (Agro 2/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (PA 1/2026 Appendix 5: 209.20 of 225.80 ha) (Agro 2/2026)
@@ -280,8 +271,7 @@ Spraying progress (Jan–Jun 2026):
   - Circle spraying: 100% (worked out) — 115.80 of 115.80 ha · 1st round completed (PA 2/2026)
   - Selective spraying: 100% (worked out) — 115.80 of 115.80 ha · 1st round completed (PA 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
 Fertiliser programme (next year) 2027:
   - Feb, NK2: 2,500 g/palm (D1, D2); D3 2,000 g (Agro 2/2026)
   - Mar, RP: 1,500 g/palm (D1, D2); D3 2,000 g (Agro 2/2026)
@@ -306,9 +296,8 @@ Fertiliser programme (previous year) 2025:
   - Oct, Mix B: 2,000 g/palm (all sub-blocks) (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 20% (Apr 2026), 19% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 19.0%, 11.0%, 11.5%, 12.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 20% (Apr 2026), 19% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 115.8 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 19.0%, 11.0%, 11.5%, 12.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 11 boxes installed of 11 required, 11 occupied = 100%. Agro Sep 2026: 11 boxes, 82% occupancy (Agro 2/2026)
 Yield:
   - Jan–Jun 2026: 8.26 t/ha; BPP 10.89, ABW 14.85 kg, SPH 136 (PA Table 19). Estate 8.99 t/ha vs budget 9.78 and 9.63 same period 2025 (PA 2/2026)
@@ -318,8 +307,7 @@ Yield:
   - Yield history (t/ha): 2017 5.06, 2018 8.78, 2019 9.71, 2020 18.30, 2021 15.68, 2022 19.56, 2023 15.29, 2024 22.29, 2025 21.79 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 956.74 t with 729 man-days = 1.31 t/man-day; rate RM34.50/t; earnings RM45.28/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 14-15, 12-15, 14-15, 13-15, 14-15, 14-15, 14-15, 14-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 15-17, 11-18, 10-14, 14-16, 15-17, 14-18, 14-16, 14-16, 13-20, 15-17, 14-17, 14-17 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 14-15, 12-15, 14-15, 13-15, 14-15, 14-15, 14-15, 14-15 days by month (Agro Table 5) | 15-17, 11-18, 10-14, 14-16, 15-17, 14-18, 14-16, 14-16, 13-20, 15-17, 14-17, 14-17 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
 Field:
@@ -338,8 +326,7 @@ Spraying progress (Jan–Jun 2026):
 Manuring progress:
   - EFB (Aug 2026): E2: 137.21 mt on 5.02 ha = 27 mt/ha, 13% of 37.50 ha; neat application (Agro Table 9, photos 47–48). PA: EFB on terraces in P14E (Agro 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Weeds (Jan 2026): Higher density of undesirable weeds in P14E1 (Agro 1/2026)
 Fertiliser programme (next year) 2027:
   - Mar, RP: 2,000 g/palm (all sub-blocks) (Agro 2/2026)
@@ -367,9 +354,8 @@ Fertiliser programme (previous year) 2025:
   - Note: 8.00* = 8,000 g Mix B per palm by subsoil application (PA: 8.00 kg/palm subsoiling, 18 bags/man-day). (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 21% (Apr 2026), 17% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 8.0%, 6.5%, 8.0%, 9.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 21% (Apr 2026), 17% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 124.53 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 8.0%, 6.5%, 8.0%, 9.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 14 boxes installed of 14 required, 13 occupied = 93%. Agro Sep 2026: 12 boxes, 83% occupancy (Agro 2/2026)
 Yield:
   - Jan–Jun 2026: 7.42 t/ha; BPP 9.19, ABW 16.74 kg, SPH 130 (PA Table 19). Estate 8.99 t/ha vs budget 9.78 and 9.63 same period 2025 (PA 2/2026)
@@ -379,8 +365,7 @@ Yield:
   - Yield history (t/ha): 2017 2.64, 2018 6.80, 2019 8.46, 2020 13.64, 2021 13.16, 2022 16.75, 2023 13.40, 2024 16.84, 2025 18.79 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 923.89 t with 873 man-days = 1.06 t/man-day; rate RM40.50/t; earnings RM42.86/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 14-15, 14-15, 13-15, 13-15, 12-15, 14-15, 14-15, 14-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 13-15, 13-16, 12-18, 13-18, 13-15, 14-15, 15-19, 11-19, 13-19, 15-19, 11-17, 14-18 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 14-15, 14-15, 13-15, 13-15, 12-15, 14-15, 14-15, 14-15 days by month (Agro Table 5) | 13-15, 13-16, 12-18, 13-18, 13-15, 14-15, 15-19, 11-19, 13-19, 15-19, 11-17, 14-18 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
 Field:
@@ -397,8 +382,7 @@ Spraying progress (Jan–Jun 2026):
   - Circle spraying: 100% (worked out) — 161.40 of 161.40 ha · 1st round completed (PA 2/2026)
   - Selective spraying: 70% (worked out) — 224.40 of 322.80 ha · 2nd round in progress (PA 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (4th inter-row round also 100%) (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (4th inter-row round also 100%) (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Ferns (Sep 2026): Mixed bracken (Stenochlaena, Dicranopteris) and Nephrolepis on terrace slopes in P16F3; spot-spray bracken, keep Nephrolepis. Jan 2026: higher weed density in P16F2, P16F3; bare ground in P16F3 (Agro 2/2026)
 Fertiliser programme (next year) 2027:
   - Feb, NK2: 2,500 g/palm (F1, F2, F3, F4, F6); F5 2,000 g (Agro 2/2026)
@@ -428,9 +412,8 @@ Fertiliser programme (previous year) 2025:
   - Oct, Mix B: 2,000 g/palm (F1, F4, F5, F6); not for F2, F3 (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 23% (Apr 2026), 18% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 6.5%, 4.8%, 5.5%, 3.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 23% (Apr 2026), 18% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 161.4 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 6.5%, 4.8%, 5.5%, 3.0% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 19 boxes installed of 19 required, 18 occupied = 95%. Agro Sep 2026: 19 boxes, 47% occupancy (Agro 2/2026)
   - Barn owls: Lowest occupancy: 47% (Sep 2026) (Agro 2/2026)
 Yield:
@@ -441,8 +424,7 @@ Yield:
   - Yield history (t/ha): 2017 0.00, 2018 1.22, 2019 2.75, 2020 7.04, 2021 8.93, 2022 10.60, 2023 9.77, 2024 18.96, 2025 20.66 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 1,057.03 t with 1,106 man-days = 0.96 t/man-day; rate RM53.00/t; earnings RM50.65/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 14-15, 14-15, 14-15, 13-15, 14-15, 13-15, 14-15, 14-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 13-11, 13-19, 10-19, 14-18, 13-11, 13-17, 13-19, 14-17, 13-21, 14-19, 14-18, 14-18 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 14-15, 14-15, 14-15, 13-15, 14-15, 13-15, 14-15, 14-15 days by month (Agro Table 5) | 13-11, 13-19, 10-19, 14-18, 13-11, 13-17, 13-19, 14-17, 13-21, 14-19, 14-18, 14-18 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
   - Productivity: Lowest: 0.96 t/man-day at RM53.00/t, earnings RM50.65/day (Jan–Jun 2026); manual harvesting only (no crawler) (PA 2/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
@@ -461,8 +443,7 @@ Spraying progress (Jan–Jun 2026):
 Manuring progress:
   - Application faults (Sep 2026): Lumpy fertiliser and placement outside the recommended zone on terraces in P15I4 (photos 3–6) (Agro 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (4th inter-row round also 100%) (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (4th inter-row round also 100%) (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Ferns (Sep 2026): Mixed bracken and Nephrolepis on terrace slopes in P15I4; fewer weeds in P15I2 than Jan 2026; over-spraying in P15I3 (Jan 2026) (Agro 2/2026)
 Fertiliser programme (next year) 2027:
   - Mar, RP: 1,750 g/palm (all sub-blocks) (Agro 2/2026)
@@ -490,9 +471,8 @@ Fertiliser programme (previous year) 2025:
   - Note: 8.00* = 8,000 g Mix B per palm by subsoil application (PA: 8.00 kg/palm subsoiling, 18 bags/man-day). (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 22% (Apr 2026), 19% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 9.6%, 7.3%, 7.5%, 6.4% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 22% (Apr 2026), 19% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 168.5 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 9.6%, 7.3%, 7.5%, 6.4% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 15 boxes installed of 15 required, 15 occupied = 100%. Agro Sep 2026: 15 boxes, 67% occupancy (Agro 2/2026)
   - Elephants (Jan 2026): Foliage damage by elephants in P15I2; night patrol, two mobile cannons; one siren unit suggested (Agro 1/2026)
 Yield:
@@ -503,8 +483,7 @@ Yield:
   - Yield history (t/ha): 2017 1.32, 2018 4.16, 2019 5.47, 2020 11.16, 2021 9.31, 2022 14.17, 2023 13.14, 2024 17.01, 2025 19.88 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 1,170.17 t with 855 man-days = 1.37 t/man-day; rate RM41.00/t; earnings RM56.11/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 13-15, 14-15, 13-15, 11-15, 14-15, 14-15, 14-15, 13-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 13-18, 10-17, 15-19, 12-18, 13-18, 15-17, 12-19, 10-19, 11-20, 16-19, 13-15, 17-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 13-15, 14-15, 13-15, 11-15, 14-15, 14-15, 14-15, 13-15 days by month (Agro Table 5) | 13-18, 10-17, 15-19, 12-18, 13-18, 15-17, 12-19, 10-19, 11-20, 16-19, 13-15, 17-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)
 Field:
@@ -518,8 +497,7 @@ Spraying progress (Jan–Jun 2026):
   - Circle spraying: 100% (worked out) — 228.60 of 228.60 ha · 2nd round completed (PA 2/2026)
   - Selective spraying: 100% (worked out) — 228.60 of 228.60 ha · 2nd round completed (PA 2/2026)
 Spraying & weeding:
-  - Weeding to Aug 2026: Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) (Agro 2/2026)
-  - Weeding 2025: Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 1/2026)
+  - Weeding rounds done (% of budget): Inter-row rounds 1–2 100%; circle rounds 1–2 100%; rounds 3–4 not yet (Agro Table 10) | Inter-row 3 rounds 100%, circle 3 rounds 100% (Agro 1/2026 Table 10) (Agro 2/2026 · Agro 1/2026)
   - Blanket spraying (Sep 2026): Mist blower hose outlet used without nozzle in P14J1 (blanket spraying); fewer weeds in P14J2 than Jan 2026; over-spraying of soft vegetation in P14J3 (Jan 2026) (Agro 2/2026)
 Fertiliser programme (next year) 2027:
   - Jan, NK2: 2,000 g/palm (J1, J3); J2 2,500 g (Agro 2/2026)
@@ -543,9 +521,8 @@ Fertiliser programme (previous year) 2025:
   - Sep, Mix B: 2,250 g/palm (all sub-blocks) (Agro 1/2025)
   - Note: Revised 2025 programme, Agro 1/2025 (visit 4 Mar 2025) Appendix 1; replaces the 2025 programme in Agro 2/2024. 2025 programme completed by Dec 2025 (PA: Nov). (Agro 1/2025)
 Pests & diseases:
-  - Rat damage 2026: 20% (Apr 2026), 16% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 2/2026)
+  - Rat damage census 2025–2026: May, Jun, Sep, Oct 2025: 8.7%, 6.6%, 7.0%, 5.6% (Agro 1/2026 Table 11); only one baiting round, May 2025 | 20% (Apr 2026), 16% (Jun 2026, after May baiting); threshold 10% (Agro Table 11) (Agro 1/2026 · Agro 2/2026)
   - Rat baiting 2026: One round with Brodifacoum 0.005% on 114.3 ha = 100% (PA Table 11) (PA 2/2026)
-  - Rat damage 2025: May, Jun, Sep, Oct 2025: 8.7%, 6.6%, 7.0%, 5.6% (Agro 1/2026 Table 11); only one baiting round, May 2025 (Agro 1/2026)
   - Barn owls: PA Jun 2026: 11 boxes installed of 11 required, 10 occupied = 91%. Agro Sep 2026: 9 boxes, 100% occupancy (Agro 2/2026)
 Yield:
   - Jan–Jun 2026: 10.89 t/ha; BPP 13.25, ABW 15.1 kg, SPH 130 (PA Table 19). Estate 8.99 t/ha vs budget 9.78 and 9.63 same period 2025 (PA 2/2026)
@@ -555,8 +532,7 @@ Yield:
   - Yield history (t/ha): 2017 4.08, 2018 9.81, 2019 11.02, 2020 19.27, 2021 19.87, 2022 24.17, 2023 21.39, 2024 25.46, 2025 27.33 (PA 1/2026 Appendix 6) (PA 1/2026)
 Harvesting:
   - Harvesters Jan–Jun 2026: 1,244.98 t with 683 man-days = 1.82 t/man-day; rate RM37.00/t; earnings RM67.44/day (PA Table 17). Estate 1.40 t/man-day, RM52.57/day (PA 2/2026)
-  - Harvest interval Jan–Aug 2026: 13-15, 14-15, 13-15, 13-15, 14-15, 13-15, 14-15, 13-15 days by month (Agro Table 5) (Agro 2/2026)
-  - Harvest interval 2025: 13-16, 12-18, 15-17, 15-16, 13-16, 13-15, 12-19, 10-17, 12-20, 14-19, 14-19, 15-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 1/2026)
+  - Harvest interval by month (days): 13-15, 14-15, 13-15, 13-15, 14-15, 13-15, 14-15, 13-15 days by month (Agro Table 5) | 13-16, 12-18, 15-17, 15-16, 13-16, 13-15, 12-19, 10-17, 12-20, 14-19, 14-19, 15-20 days, Jan–Dec (Agro 1/2026 Table 6) (Agro 2/2026 · Agro 1/2026)
   - Ripeness check (Sep 2026): P14J2 14% over-ripe; a third check printed as "P12J3" 16% (photos labelled P14J3) (Agro 2/2026)
 Pruning:
   - Progressive pruning: 100% to Aug 2026 (Agro Table 8) and to Jun 2026 (PA Table 15); 2025 100% (Agro 2/2026)

@@ -181,7 +181,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 100% (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P05A1 acceptable; P05A3 slightly unacceptable (moderately more dry hanging fronds) (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P05/A, % dry matter (B ppm): A1 N 2.64, P 0.165, K 1.08, Mg 0.29, Ca 0.43, B 12.60; A2 N 2.64, P 0.170, K 1.14, Mg 0.31, Ca 0.47, B 11.68; A3 N 2.57, P 0.172, K 1.04, Mg 0.32, Ca 0.51, B 11.41. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P05/A, % dry matter (B ppm): A1 N 2.64, P 0.165, K 1.08, Mg 0.29, Ca 0.43, B 12.60; A2 N 2.64, P 0.170, K 1.14, Mg 0.31, Ca 0.47, B 11.68; A3 N 2.57, P 0.172, K 1.04, Mg 0.32, Ca 0.51, B 11.41. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: A1 Mg 0.29, Ca 0.43, B 12.60; A2 Mg 0.31, Ca 0.47, B 11.68; A3 Mg 0.32, Ca 0.51, B 11.41 (Agro 2/2026)
 Field:
   - Area: 189.5 ha as at Aug 2026 (Agro Table 1); 189.5 ha in PA 1/2026 area statement (Dec 2025); 189.5 ha in PA 2/2026 area statement (Jul 2026). Sub-blocks: A1 62.6, A2 59.6, A3 67.3 (Agro 2/2026)
   - Palm census 2025: 26,701 palms on 189.5 ha, SPH 141 (previous 143) (Agro Table 3) (Agro 2/2026)
@@ -247,7 +248,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 100% (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P06B1, P06B3, P06B4, P06B5 acceptable; P06B2 slightly unacceptable (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P05/B, % dry matter (B ppm): B1 N 2.55, P 0.173, K 1.24, Mg 0.27, Ca 0.42, B 11.55; B2 N 2.70, P 0.170, K 1.24, Mg 0.24, Ca 0.38, B 13.72; B3 N 2.58, P 0.166, K 1.24, Mg 0.25, Ca 0.43, B 12.27; B4 N 2.62, P 0.162, K 1.18, Mg 0.26, Ca 0.43, B 11.35; B5 N 2.54, P 0.160, K 1.08, Mg 0.28, Ca 0.39, B 10.76. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P05/B, % dry matter (B ppm): B1 N 2.55, P 0.173, K 1.24, Mg 0.27, Ca 0.42, B 11.55; B2 N 2.70, P 0.170, K 1.24, Mg 0.24, Ca 0.38, B 13.72; B3 N 2.58, P 0.166, K 1.24, Mg 0.25, Ca 0.43, B 12.27; B4 N 2.62, P 0.162, K 1.18, Mg 0.26, Ca 0.43, B 11.35; B5 N 2.54, P 0.160, K 1.08, Mg 0.28, Ca 0.39, B 10.76. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: B1 Mg 0.27, Ca 0.42, B 11.55; B2 Mg 0.24, Ca 0.38, B 13.72; B3 Mg 0.25, Ca 0.43, B 12.27; B4 Mg 0.26, Ca 0.43, B 11.35; B5 Mg 0.28, Ca 0.39, B 10.76 (Agro 2/2026)
   - Vigour (Jan 2026): P06B5: marked difference between greener upper and weaker lower leaves along high water-table collection drains, more lower-frond desiccation (Agro 1/2026)
   - Leaf Mg (Aug 2026): Mg deficiency highest in P06 and P08 blocks (estate: 51% moderately low, 18% low) (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P06B1 (Agro 4.2.10 photos) (Agro 2/2026)
@@ -317,7 +319,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 395.00 of 411.50 ha (96%), balance 16.50 ha (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): Acceptable in P06C1, P06C2, P06C5, P06C6, P06C7, P06C8; slightly more dry hanging fronds in P06C4; slightly unacceptable in P06C3 (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P06/C, % dry matter (B ppm): C1 N 2.71, P 0.161, K 1.14, Mg 0.25, Ca 0.43, B 12.14; C2 N 2.64, P 0.150, K 1.08, Mg 0.26, Ca 0.47, B 13.79; C3 N 2.64, P 0.157, K 1.16, Mg 0.22, Ca 0.43, B 13.26; C4 N 2.67, P 0.157, K 1.24, Mg 0.23, Ca 0.41, B 13.79; C5 N 2.72, P 0.160, K 1.28, Mg 0.22, Ca 0.39, B 11.88; C6 N 2.66, P 0.167, K 1.28, Mg 0.23, Ca 0.39, B 11.55; C7 N 2.76, P 0.162, K 1.22, Mg 0.24, Ca 0.38, B 12.40; C8 N 2.75, P 0.164, K 1.18, Mg 0.24, Ca 0.38, B 12.67. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P06/C, % dry matter (B ppm): C1 N 2.71, P 0.161, K 1.14, Mg 0.25, Ca 0.43, B 12.14; C2 N 2.64, P 0.150, K 1.08, Mg 0.26, Ca 0.47, B 13.79; C3 N 2.64, P 0.157, K 1.16, Mg 0.22, Ca 0.43, B 13.26; C4 N 2.67, P 0.157, K 1.24, Mg 0.23, Ca 0.41, B 13.79; C5 N 2.72, P 0.160, K 1.28, Mg 0.22, Ca 0.39, B 11.88; C6 N 2.66, P 0.167, K 1.28, Mg 0.23, Ca 0.39, B 11.55; C7 N 2.76, P 0.162, K 1.22, Mg 0.24, Ca 0.38, B 12.40; C8 N 2.75, P 0.164, K 1.18, Mg 0.24, Ca 0.38, B 12.67. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: C1 Mg 0.25, Ca 0.43, B 12.14; C2 Mg 0.26, Ca 0.47, B 13.79; C3 Mg 0.22, Ca 0.43, B 13.26; C4 Mg 0.23, Ca 0.41, B 13.79; C5 Mg 0.22, Ca 0.39, B 11.88; C6 Mg 0.23, Ca 0.39, B 11.55; C7 Mg 0.24, Ca 0.38, B 12.40; C8 Mg 0.24, Ca 0.38, B 12.67 (Agro 2/2026)
   - Leaf Mg (Aug 2026): Mg deficiency highest in P06 and P08 blocks (estate: 51% moderately low, 18% low) (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P06C8 (Agro 4.2.10 photos) (Agro 2/2026)
 Field:
@@ -386,7 +389,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 100% (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P06D2 acceptable; P06D4 and P06D6 slightly more dry hanging fronds (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P06/D, % dry matter (B ppm): D1 N 2.76, P 0.161, K 1.18, Mg 0.25, Ca 0.44, B 12.73; D2 N 2.64, P 0.157, K 1.22, Mg 0.23, Ca 0.44, B 13.33; D3 N 2.59, P 0.156, K 1.20, Mg 0.23, Ca 0.44, B 12.14; D4 N 2.64, P 0.149, K 1.20, Mg 0.23, Ca 0.44, B 12.73; D5 N 2.75, P 0.154, K 1.24, Mg 0.24, Ca 0.42, B 12.54; D6 N 2.76, P 0.156, K 1.28, Mg 0.24, Ca 0.40, B 12.60; D7 N 2.69, P 0.155, K 1.22, Mg 0.25, Ca 0.38, B 12.01; D8 N 2.67, P 0.159, K 1.28, Mg 0.24, Ca 0.33, B 12.34. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P06/D, % dry matter (B ppm): D1 N 2.76, P 0.161, K 1.18, Mg 0.25, Ca 0.44, B 12.73; D2 N 2.64, P 0.157, K 1.22, Mg 0.23, Ca 0.44, B 13.33; D3 N 2.59, P 0.156, K 1.20, Mg 0.23, Ca 0.44, B 12.14; D4 N 2.64, P 0.149, K 1.20, Mg 0.23, Ca 0.44, B 12.73; D5 N 2.75, P 0.154, K 1.24, Mg 0.24, Ca 0.42, B 12.54; D6 N 2.76, P 0.156, K 1.28, Mg 0.24, Ca 0.40, B 12.60; D7 N 2.69, P 0.155, K 1.22, Mg 0.25, Ca 0.38, B 12.01; D8 N 2.67, P 0.159, K 1.28, Mg 0.24, Ca 0.33, B 12.34. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: D1 Mg 0.25, Ca 0.44, B 12.73; D2 Mg 0.23, Ca 0.44, B 13.33; D3 Mg 0.23, Ca 0.44, B 12.14; D4 Mg 0.23, Ca 0.44, B 12.73; D5 Mg 0.24, Ca 0.42, B 12.54; D6 Mg 0.24, Ca 0.40, B 12.60; D7 Mg 0.25, Ca 0.38, B 12.01; D8 Mg 0.24, Ca 0.33, B 12.34 (Agro 2/2026)
   - Leaf Mg (Aug 2026): Mg deficiency highest in P06 and P08 (51% moderately low, 18% low estate-wide) (Agro 2/2026)
 Field:
   - Area: 414.8 ha as at Aug 2026 (Agro Table 1); 414.8 ha in PA 1/2026 area statement (Dec 2025); 414.8 ha in PA 2/2026 area statement (Jul 2026). Sub-blocks: D1 51.3, D2 47.9, D3 54.7, D4 57.1, D5 46.3, D6 48.9, D7 51.2, D8 57.4 (Agro 2/2026)
@@ -456,7 +460,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 100% (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): Acceptable in P06E1–E6 and P06E8 (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P07/E, % dry matter (B ppm): E1 N 2.64, P 0.156, K 1.24, Mg 0.22, Ca 0.37, B 11.22; E2 N 2.50, P 0.147, K 1.20, Mg 0.23, Ca 0.39, B 14.05; E3 N 2.51, P 0.147, K 1.20, Mg 0.22, Ca 0.39, B 11.48; E4 N 2.52, P 0.146, K 1.20, Mg 0.24, Ca 0.37, B 10.03; E5 N 2.61, P 0.155, K 1.14, Mg 0.27, Ca 0.37, B 13.66; E6 N 2.63, P 0.149, K 1.12, Mg 0.29, Ca 0.38, B 13.13; E7 N 2.67, P 0.155, K 1.12, Mg 0.28, Ca 0.37, B 13.53; E8 N 2.64, P 0.159, K 1.16, Mg 0.28, Ca 0.38, B 14.98. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P07/E, % dry matter (B ppm): E1 N 2.64, P 0.156, K 1.24, Mg 0.22, Ca 0.37, B 11.22; E2 N 2.50, P 0.147, K 1.20, Mg 0.23, Ca 0.39, B 14.05; E3 N 2.51, P 0.147, K 1.20, Mg 0.22, Ca 0.39, B 11.48; E4 N 2.52, P 0.146, K 1.20, Mg 0.24, Ca 0.37, B 10.03; E5 N 2.61, P 0.155, K 1.14, Mg 0.27, Ca 0.37, B 13.66; E6 N 2.63, P 0.149, K 1.12, Mg 0.29, Ca 0.38, B 13.13; E7 N 2.67, P 0.155, K 1.12, Mg 0.28, Ca 0.37, B 13.53; E8 N 2.64, P 0.159, K 1.16, Mg 0.28, Ca 0.38, B 14.98. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: E1 Mg 0.22, Ca 0.37, B 11.22; E2 Mg 0.23, Ca 0.39, B 14.05; E3 Mg 0.22, Ca 0.39, B 11.48; E4 Mg 0.24, Ca 0.37, B 10.03; E5 Mg 0.27, Ca 0.37, B 13.66; E6 Mg 0.29, Ca 0.38, B 13.13; E7 Mg 0.28, Ca 0.37, B 13.53; E8 Mg 0.28, Ca 0.38, B 14.98 (Agro 2/2026)
   - Leaf Mg (Aug 2026): Mg deficiency highest in P06 and P08 blocks (estate: 51% moderately low, 18% low) (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P06E4, P06E8, P06E5, P06E1 (Agro 4.2.10 photos) (Agro 2/2026)
 Field:
@@ -523,7 +528,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 359.30 of 375.30 ha (96%), balance 16.00 ha (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P07F2 acceptable (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P07/F, % dry matter (B ppm): F1 N 2.61, P 0.157, K 1.28, Mg 0.25, Ca 0.36, B 13.53; F2 N 2.66, P 0.159, K 1.26, Mg 0.24, Ca 0.40, B 14.45; F5 N 2.62, P 0.154, K 1.22, Mg 0.27, Ca 0.41, B 15.37; F6 N 2.59, P 0.152, K 1.18, Mg 0.29, Ca 0.43, B 13.86; F7 N 2.60, P 0.150, K 1.16, Mg 0.28, Ca 0.43, B 16.83. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P07/F, % dry matter (B ppm): F1 N 2.61, P 0.157, K 1.28, Mg 0.25, Ca 0.36, B 13.53; F2 N 2.66, P 0.159, K 1.26, Mg 0.24, Ca 0.40, B 14.45; F5 N 2.62, P 0.154, K 1.22, Mg 0.27, Ca 0.41, B 15.37; F6 N 2.59, P 0.152, K 1.18, Mg 0.29, Ca 0.43, B 13.86; F7 N 2.60, P 0.150, K 1.16, Mg 0.28, Ca 0.43, B 16.83. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: F1 Mg 0.25, Ca 0.36, B 13.53; F2 Mg 0.24, Ca 0.40, B 14.45; F5 Mg 0.27, Ca 0.41, B 15.37; F6 Mg 0.29, Ca 0.43, B 13.86; F7 Mg 0.28, Ca 0.43, B 16.83 (Agro 2/2026)
   - Vigour (Jan 2026): P07F5 upper leaves greener than older lower leaves (photos 18–21) (Agro 1/2026)
   - Leaf N (Aug 2026): Some N deficiency mainly in P07 and P08 (estate 71% High/Normal) (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P07F5 (Agro 4.2.10 photos) (Agro 2/2026)
@@ -591,7 +597,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 100%, 2nd round 318.40 of 354.29 ha (90%), balance 35.89 ha (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P07G1, G2, G6, G7 acceptable; P07G5 slightly more dry hanging fronds (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P08/G, % dry matter (B ppm): G1 N 2.55, P 0.140, K 1.16, Mg 0.23, Ca 0.41, B 17.29; G2 N 2.67, P 0.136, K 1.18, Mg 0.23, Ca 0.40, B 11.22; G3 N 2.57, P 0.142, K 1.20, Mg 0.22, Ca 0.38, B 11.55; G4 N 2.72, P 0.145, K 1.18, Mg 0.22, Ca 0.39, B 12.60; G5 N 2.57, P 0.151, K 1.24, Mg 0.22, Ca 0.37, B 11.48; G6 N 2.67, P 0.144, K 1.22, Mg 0.22, Ca 0.36, B 11.22; G7 N 2.69, P 0.147, K 1.14, Mg 0.25, Ca 0.39, B 10.16. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P08/G, % dry matter (B ppm): G1 N 2.55, P 0.140, K 1.16, Mg 0.23, Ca 0.41, B 17.29; G2 N 2.67, P 0.136, K 1.18, Mg 0.23, Ca 0.40, B 11.22; G3 N 2.57, P 0.142, K 1.20, Mg 0.22, Ca 0.38, B 11.55; G4 N 2.72, P 0.145, K 1.18, Mg 0.22, Ca 0.39, B 12.60; G5 N 2.57, P 0.151, K 1.24, Mg 0.22, Ca 0.37, B 11.48; G6 N 2.67, P 0.144, K 1.22, Mg 0.22, Ca 0.36, B 11.22; G7 N 2.69, P 0.147, K 1.14, Mg 0.25, Ca 0.39, B 10.16. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: G1 Mg 0.23, Ca 0.41, B 17.29; G2 Mg 0.23, Ca 0.40, B 11.22; G3 Mg 0.22, Ca 0.38, B 11.55; G4 Mg 0.22, Ca 0.39, B 12.60; G5 Mg 0.22, Ca 0.37, B 11.48; G6 Mg 0.22, Ca 0.36, B 11.22; G7 Mg 0.25, Ca 0.39, B 10.16 (Agro 2/2026)
   - Vigour (Jan 2026): P07G5 palms along the main drain more vigorous, similar upper and lower leaves (photos 22–23) (Agro 1/2026)
   - Leaf N (Aug 2026): Some N deficiency mainly in P07 and P08 (estate 71% High/Normal) (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P07G7 (Agro 4.2.10 photos) (Agro 2/2026)
@@ -661,7 +668,8 @@ Pruning:
   - Progressive pruning 2025: 1st round 129.90 ha 100%, 2nd round 129.90 ha 100% (Agro 1/2026 Table 9) (Agro 1/2026)
   - Quality (Aug 2026): P08H1 acceptable (Agro 2/2026)
 Nutrients:
-  - Leaf analysis (samples Jan 2026): Lab label P08/H, % dry matter (B ppm): H1 N 2.70, P 0.164, K 1.16, Mg 0.24, Ca 0.45, B 12.67. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf N, P, K Jan 2026 (% dry matter): Lab label P08/H, % dry matter (B ppm): H1 N 2.70, P 0.164, K 1.16, Mg 0.24, Ca 0.45, B 12.67. Lab report 28 Feb 2026, samples received 31 Jan 2026 (Agro 2/2026 Appendix 2) (Agro 2/2026)
+  - Leaf Mg, Ca, B Jan 2026: Mg, Ca, B per sub-block: H1 Mg 0.24, Ca 0.45, B 12.67 (Agro 2/2026)
   - Leaf P (Aug 2026): P08 particularly affected by P deficiency: 75% of samples rated Low; Mg deficiency highest in P06 and P08; some N deficiency in P07 and P08 (Agro 2/2026)
   - Vigour Jan 2025 → Aug 2026: Marked improvement in palm vigour shown for P08H1 (Agro 4.2.10 photos) (Agro 2/2026)
 Field:

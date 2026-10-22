@@ -94,7 +94,7 @@ FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] 2026 to Feb: Required 415.25 t (B/F 2025 15.00 t: Comp 25 3.90, Mix B 11.10); delivered 32.00 t, applied 7.00 t. Jan NK2 132.35 t req, 32.00 delivered, 7.00 applied (in progress); Feb NK2 183.85, Mix B 47.35, Compound 25 29.00, Compound 44 22.80 t not started. Delayed by heavy rain Nov 2025–Feb 2026 and flooding (PA 1/2026)
+[manuring] 2026 to Feb manuring: Required 415.25 t (B/F 2025 15.00 t: Comp 25 3.90, Mix B 11.10); delivered 32.00 t, applied 7.00 t. Jan NK2 132.35 t req, 32.00 delivered, 7.00 applied (in progress); Feb NK2 183.85, Mix B 47.35, Compound 25 29.00, Compound 44 22.80 t not started. Delayed by heavy rain Nov 2025–Feb 2026 and flooding (PA 1/2026)
 [manuring] 2025 result (PA): 1st half required 557.25 t, applied 569.65 t (B/F 2024 116.67 t); 2nd half 358.30 t applied; grand total required 915.55, applied 927.95 t; all completed; balance 104.27 t to offset next requirement (PA 1/2026)
 [manuring] 2025 result (Agro): Programme 851.25 t: Mix A 325.80, Mix B 135.30, RP 41.20, Comp 25 9.35, NK2 339.60 — all 100% by Nov 2025; Mix B delayed in P21A, P21B, P22C, P24F2, P22D in H1 by flooding (Agro 1/2026)
 [manuring] Method and earnings: Badang/MBI semi-mechanised application, 35–40 bags per worker per day (above 2 t/day); RM2.00 or RM2.50 per bag, average RM75.00/day (PA 1/2026)
@@ -103,9 +103,8 @@ ESTATE-WIDE FIELD NOTES
 [manuring] Placement: Rainfall 25.4 mm per rainy day, 3,535 mm a year (5-yr average), 12 rain days/month: keep recommended frond stacking (two palm rows wide) and correct placement (Agro 1/2026)
 [manuring] Priority after delays: Apply first to young mature (4–7 yr) and prime (8–19 yr) palms before over-mature (20+ yr) (Agro 1/2026)
 [manuring] New planting / supply: 600 g CRF (20:6:14:3) + 500 g RP in planting hole, then none up to 9 months (Agro 1/2026)
-[spraying] 2025 circle & path: 4,293.51 of 4,381.80 ha (98%), 3.11 of 3.22 rounds; only P94M11 short (flooding). RM30.00/ha/round contract (PA 1/2026)
-[spraying] 2025 selective: 4,381.80 ha (100%; text says 4,407.80 ha) at RM75.00/ha/round (PA 1/2026)
-[spraying] Feb 2026: Circle & path 456.80 ha = 77.20% of to-date programme; selective 980.54 ha = 86.63% (PA 1/2026)
+[spraying] Estate weeding 2025: 4,293.51 of 4,381.80 ha (98%), 3.11 of 3.22 rounds; only P94M11 short (flooding). RM30.00/ha/round contract | 4,381.80 ha (100%; text says 4,407.80 ha) at RM75.00/ha/round (PA 1/2026)
+[spraying] Weeding Feb 2026: Circle & path 456.80 ha = 77.20% of to-date programme; selective 980.54 ha = 86.63% (PA 1/2026)
 [spraying] Sprayer productivity 2025: Circle CDA 14.00 RM/ha, 5.0 ha/day, RM70.00/day; selective mist blower 15.00 RM/ha, 5.0 ha/day, RM75.00/day (PA 1/2026)
 [spraying] Weeding cost 2025: RM223.20/ha vs budget RM249.12 (−10%) (PA 1/2026)
 [spraying] Agro weeding status: 2025: inter-row and circle 3 rounds 100% in all mature fields. As of Feb 2026 inter-row rd 1 41% total; no circle rounds (Agro 1/2026)
@@ -117,8 +116,8 @@ ESTATE-WIDE FIELD NOTES
 [pests] Beneficial plants: 2,875 chains existing; 107.50 chains (Turnera subulata, Antigonon leptopus) planted in 2025 vs 640 programmed; add Cassia cobanensis (PA 1/2026)
 [pests] Pest & disease cost 2025: RM90.52/ha vs RM111.85 (−19%) (PA 1/2026)
 [other] Floods: Three floods mid-Dec 2025 to mid-Jan 2026 hit 363.00 ha mature and 446.00 ha immature; about 800 ha low-lying with water entering from five inlets; outlet Sungai Rompin. Agro lists 318 ha flood-prone (45% of 710.10 ha) (PA 1/2026)
-[other] Drains: 2025 desilting 470.54 of 1,400 chains (PA) / 1,460 (Agro); 2024 1,322 of 2,740; 2023 716.65 of 1,340. Cost RM71.96/ha vs 81.47 (PA 1/2026)
-[other] Roads: 2025 grading 2,291 of 4,810 chains; no lateriting; cost RM98.51/ha vs 153.32. Hanging-type side drains with outlets above road surface seen (PA 1/2026)
+[other] Drains desilted (chains): 2025 desilting 470.54 of 1,400 chains (PA) / 1,460 (Agro); 2024 1,322 of 2,740; 2023 716.65 of 1,340. Cost RM71.96/ha vs 81.47 (PA 1/2026)
+[other] Roads 2025: 2025 grading 2,291 of 4,810 chains; no lateriting; cost RM98.51/ha vs 153.32. Hanging-type side drains with outlets above road surface seen (PA 1/2026)
 [other] Mechanisation 2025: MBI 9 machines/29 workers 8.22 t/day per machine, 2.29 per worker; Timac 4/14 10.22 and 3.19; Badang 1/3 8.25 and 3.02. Recommend 1 machine per 140 ha and 5 harvesters per machine (PA 1/2026)
 [other] Harvesting 2025: Average interval 15 days, 23.58 rounds in 12 months; 70% FFB direct to Sawira POM, 30% via ramp to Merchong POM (PA 1/2026)
 [other] P22E1/E2: 72.22 + 12.78 ha abandoned after floods; to be categorised unplantable (PA 1/2026)
@@ -131,8 +130,7 @@ Spraying progress (Jan–Feb 2026):
   - Selective rd 1: 100% — 375.60 ha (PA 1/2026)
   - Inter-row rd 1 (Agro): 73% — Agro Table 14 (Agro 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 3 of 3 rounds, 1,126.80 ha (100%) at RM30.00/ha/round (PA 1/2026)
-  - Selective 2025: 3 of 3 rounds, 1,126.80 ha (100%) at RM75.00/ha/round (PA 1/2026)
+  - Weeding rounds 2025: 3 of 3 rounds, 1,126.80 ha (100%) at RM30.00/ha/round | 3 of 3 rounds, 1,126.80 ha (100%) at RM75.00/ha/round (PA 1/2026)
   - Ground cover (Mar 2026): K3, K4, K6, K9: substantial sparse patches between soft vegetation clumps; K5, K7 acceptable soft grasses. Incomplete weed kill seen in P94K6 (photos 40-41) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - Feb: NK2 2,500 g (K3, K4, K5, K6, K7, K8, K9) (Agro 1/2026)
@@ -151,15 +149,14 @@ Pests & diseases:
   - Beneficial plants: 654.00 chains planted 2015/2016; 2025 programme 100.00 chains, 20.00 chains planted (PA 1/2026)
 Yield:
   - Jan–Dec 2025 vs 2024: 17 t/ha in 2025 vs 19.79 t/ha in 2024 (−2.79 t/ha), 375.6 ha. Estate (Agro Table 19): 16.88 vs 19.5 (Agro 1/2026)
-  - Jan–Oct 2025 by sub-block (YPH / ABW kg / bunches per palm): K3 13.8/21.7/5.0 (2024 13.8/21.7/5.0); K4 15.1/22.7/5.2 (19.4/22.7/6.7); K5 15.4/22.2/5.5 (18.0/22.2/6.4); K6 15.3/22.2/5.4 (16.7/22.2/5.9); K7 11.5/22.7/4.0 (17.3/22.7/6.0); K8 14.3/22.7/4.9 (17.7/22.7/6.1); K9 15.0/21.7/5.4 (15.8/21.7/5.7); P94K 14.3/22.3/5.0 vs 16.9/22.3/6.0 in Jan–Oct 2024 (SPH 127) (Agro 2/2025)
+  - Jan–Oct 2025 by sub-block: K3 13.8/21.7/5.0 (2024 13.8/21.7/5.0); K4 15.1/22.7/5.2 (19.4/22.7/6.7); K5 15.4/22.2/5.5 (18.0/22.2/6.4); K6 15.3/22.2/5.4 (16.7/22.2/5.9); K7 11.5/22.7/4.0 (17.3/22.7/6.0); K8 14.3/22.7/4.9 (17.7/22.7/6.1); K9 15.0/21.7/5.4 (15.8/21.7/5.7); P94K 14.3/22.3/5.0 vs 16.9/22.3/6.0 in Jan–Oct 2024 (SPH 127) (Agro 2/2025)
   - Jan–Aug 2025: 4,394.47 t = 11.70 t/ha (375.60 ha); Jan–Aug 2024 4,892.71 t = 13.03 t/ha; 2025 annual estimate 6,300 t (PA 2/2025)
   - Flood impact: Flooding in Mar and mid-Apr 2025 left most of P94K, P95S and P96Y inaccessible for about 40 days, hindering crop evacuation (Agro 1/2026)
 Harvesting:
-  - Interval 2025 (days): Jan 15-17, Feb 14-16, Mar 13-15, Apr 13-18, May 15-19, Jun 14-16, Jul 13-15, Aug 15-16, Sep 15-16, Oct 16-17, Nov 17-15, Dec 16-17 (Agro 1/2026)
-  - Interval 2026 (days): Jan 15-16, Feb 15-18 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 15-17, Feb 14-16, Mar 13-15, Apr 13-18, May 15-19, Jun 14-16, Jul 13-15, Aug 15-16, Sep 15-16, Oct 16-17, Nov 17-15, Dec 16-17 | Jan 15-16, Feb 15-18 (Agro 1/2026)
   - Ripeness at visit (3 Mar 2026): Freshly harvested bunches: P94K5 5% overripe, P94K8 8% overripe, P94K9 10% overripe; overripe bunches remain the main yield loss, no improvement since last visit (Agro 1/2026)
 Pruning:
-  - 2025 progressive pruning: 375.48 of 375.60 ha (100%), balance 0.12 ha, RM160/ha (PA 1/2026)
+  - Pruning 2025: 375.48 of 375.60 ha (100%), balance 0.12 ha, RM160/ha (PA 1/2026)
   - Quality (Mar 2026): Improved vs previous visit but not yet satisfactory: sporadic dry hanging fronds in K9, K7, K5, K6, K4, K3; slight under-pruning in K7 and K5 (photos 18-23) (Agro 1/2026)
 Field:
   - Sub-blocks: K3 53.90, K4 39.60, K5 64.70, K6 42.20, K7 57.30, K8 62.80, K9 55.10 ha (Agro 1/2026)
@@ -177,8 +174,7 @@ Spraying progress (Jan–Feb 2026):
   - Selective · 94M: 70% — 165.83 of 240.50 ha (PA 1/2026)
   - Selective · M11: 100% — 50.00 of 88.20 ha, printed 100% (PA 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 94M: 3 rounds, 616.80 ha (100%); 94M11: 2 of 3 rounds, 176.58 of 264.87 ha (67%) due to flooding (PA 1/2026)
-  - Selective 2025: 94M 616.80 ha and 94M11 264.87 ha, 3 rounds (100%) (PA 1/2026)
+  - Weeding rounds 2025: 94M: 3 rounds, 616.80 ha (100%); 94M11: 2 of 3 rounds, 176.58 of 264.87 ha (67%) due to flooding | 94M 616.80 ha and 94M11 264.87 ha, 3 rounds (100%) (PA 1/2026)
   - Feb 2026 programme note: PA prints 94M circle 98.90 ha done (40%) with no programme shown, and 94M11 88.20 ha (100%); selective 94M11 printed 100% but only 50.00 of 88.20 ha done (PA 1/2026)
   - Ground cover (Mar 2026): M1, M11, M3, M2 sparse patches; M4, M5 acceptable soft grasses. Weeds at vacant points in P94M4 should be eradicated during selective spray (photos 38-39) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -198,14 +194,13 @@ Pests & diseases:
   - Beneficial plants: 1,052 chains planted 2015/2016; 2025 programme 200.00 chains, none planted (PA 1/2026)
 Yield:
   - Jan–Dec 2025 vs 2024: 20.41 t/ha vs 22.26 t/ha (−1.85); Agro table area 534.8 ha (old area). PA 1/2026 8.2 prints P94M 20.50 t/ha as second-highest field (Agro 1/2026)
-  - Jan–Oct 2025 by sub-block (YPH / ABW kg / bunches per palm): M1 18.7/22.7/6.6 (2024 19.6/22.7/6.9); M2 18.2/22.2/6.5 (20.3/22.3/7.3); M3 16.1/22.7/5.7 (14.9/22.7/5.3); M4 17.4/21.7/6.4 (16.5/21.7/6.1); M5 16.1/21.7/5.9 (17.4/21.7/6.4); M11 16.4/22.7/5.8 (14.5/22.7/5.1); P94M 17.0/22.4/6.1 vs 16.5/22.4/5.9 (SPH 125) (Agro 2/2025)
+  - Jan–Oct 2025 by sub-block: M1 18.7/22.7/6.6 (2024 19.6/22.7/6.9); M2 18.2/22.2/6.5 (20.3/22.3/7.3); M3 16.1/22.7/5.7 (14.9/22.7/5.3); M4 17.4/21.7/6.4 (16.5/21.7/6.1); M5 16.1/21.7/5.9 (17.4/21.7/6.4); M11 16.4/22.7/5.8 (14.5/22.7/5.1); P94M 17.0/22.4/6.1 vs 16.5/22.4/5.9 (SPH 125) (Agro 2/2025)
   - Jan–Aug 2025: 94M 240.50 ha: 3,336.77 t = 13.87 t/ha (Aug 2024 3,379.36 t, 9.01 t/ha), estimate 4,950 t. Far East Division 94M11 88.29 ha: 1,204.27 t = 13.64 t/ha (Aug 2024 1,083.01 t, 11.42), estimate 1,550 t (PA 2/2025)
 Harvesting:
-  - Interval 2025 (days): Jan 16-19, Feb 13-15, Mar 12-14, Apr 12-15, May 15-16, Jun 15-16, Jul 15-17, Aug 14-16, Sep 15-16, Oct 14-17, Nov 14-17, Dec 16-18 (Agro 1/2026)
-  - Interval 2026 (days): Jan 16-18, Feb 14-17 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 16-19, Feb 13-15, Mar 12-14, Apr 12-15, May 15-16, Jun 15-16, Jul 15-17, Aug 14-16, Sep 15-16, Oct 14-17, Nov 14-17, Dec 16-18 | Jan 16-18, Feb 14-17 (Agro 1/2026)
   - Ripeness at visit: P94M4 8% overripe (Mar 2026); Nov 2025: M4 5%, M3 10% overripe (Agro 1/2026)
 Pruning:
-  - 2025 progressive pruning: 94M 117.40 of 117.40 ha; 94M (LSG) 122.72 of 123.10 ha; 94M11 88.21 of 88.29 ha (all 100%) (PA 1/2026)
+  - Pruning 2025: 94M 117.40 of 117.40 ha; 94M (LSG) 122.72 of 123.10 ha; 94M11 88.21 of 88.29 ha (all 100%) (PA 1/2026)
   - Quality (Mar 2026): M1, M11, M4, M3, M2, M5 improved, slightly above acceptable but dry hanging fronds in patches (Agro 1/2026)
 Field:
   - Sub-blocks: M1 51.40, M2 47.50, M3 53.60, M4 22.00, M5 66.00, M11 88.29 ha (Agro); PA splits 94M 117.40, 94M (LSG, Sg Gayung Division) 123.10, 94M11 (Sg Marung / Far East Division) 88.29 (Agro 1/2026)
@@ -219,8 +214,7 @@ Manuring progress (to Feb 2026):
 Spraying progress (Jan–Feb 2026):
   - Selective rd 1: 100% — 155.91 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 3 rounds, 467.73 ha (100%) (PA 1/2026)
-  - Selective 2025: 3 rounds, 467.73 ha (100%) (PA 1/2026)
+  - Weeding rounds 2025: 3 rounds, 467.73 ha (100%) | 3 rounds, 467.73 ha (100%) (PA 1/2026)
   - Ground cover (Mar 2026): S4, S3 substantial sparse patches between soft vegetation clumps (photos 28-31) (Agro 1/2026)
 Fertiliser programme (this year) 2026:
   - Feb: NK2 2,000 g (Agro 1/2026)
@@ -238,14 +232,13 @@ Pests & diseases:
   - Beneficial plants: 354 chains existing; 2025 programme 102.00, planted 50.00 chains (PA 1/2026)
 Yield:
   - Jan–Dec 2025 vs 2024: 15.95 vs 19.95 t/ha (−4.00) (Agro 1/2026)
-  - Jan–Oct 2025 by sub-block (YPH / ABW / bunches): S1 15.3/20.4/5.9 (2024 15.2/20.4/5.8); S3 11.4/20.8/4.3 (14.0/20.8/5.2); S4 14.5/20.4/5.5 (17.4/20.4/6.6); P95S 13.9/20.5/5.3 vs 15.9/20.5/6.1 (Agro 2/2025)
+  - Jan–Oct 2025 by sub-block: S1 15.3/20.4/5.9 (2024 15.2/20.4/5.8); S3 11.4/20.8/4.3 (14.0/20.8/5.2); S4 14.5/20.4/5.5 (17.4/20.4/6.6); P95S 13.9/20.5/5.3 vs 15.9/20.5/6.1 (Agro 2/2025)
   - Jan–Aug 2025: 1,736.80 t = 11.14 t/ha (Aug 2024 2,178.53 t, 13.97); estimate 2,650 t (PA 2/2025)
 Harvesting:
-  - Interval 2025 (days): Jan 16-17, Feb 13-18, Mar 14-20, Apr 15-21, May 16-19, Jun 18-19, Jul 13-15, Aug 16-17, Sep 14-17, Oct 15-16, Nov 14-15, Dec 17-14 (over 20 days in H1 due to flooding) (Agro 1/2026)
-  - Interval 2026 (days): Jan 18-23, Feb 15-19 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 16-17, Feb 13-18, Mar 14-20, Apr 15-21, May 16-19, Jun 18-19, Jul 13-15, Aug 16-17, Sep 14-17, Oct 15-16, Nov 14-15, Dec 17-14 (over 20 days in H1 due to flooding) | Jan 18-23, Feb 15-19 (Agro 1/2026)
   - Extended harvesting: P95S, P95T and P96Y, low-lying flood-prone fields, had extended harvesting in 2025 (PA 1/2026)
 Pruning:
-  - 2025 progressive pruning: 155.83 of 155.91 ha (100%) (PA 1/2026)
+  - Pruning 2025: 155.83 of 155.91 ha (100%) (PA 1/2026)
   - Quality (Mar 2026): S4, S3 improved; slight under-pruning in P95S4 (photos 18-23) (Agro 1/2026)
 Field:
   - Sub-blocks: S1 45.60, S3 38.40, S4 71.91 ha (Agro 1/2026)
@@ -261,8 +254,7 @@ Spraying progress (Jan–Feb 2026):
   - Selective rd 1: 100% — 74.40 ha (PA 1/2026)
   - Inter-row rd 1 (Agro): 80% — Agro Table 14 (Agro 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 3 rounds, 223.20 ha (100%) (PA 1/2026)
-  - Selective 2025: 3 rounds, 223.20 ha (100%) (PA 1/2026)
+  - Weeding rounds 2025: 3 rounds, 223.20 ha (100%) | 3 rounds, 223.20 ha (100%) (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - Feb: NK2 2,000 g (Agro 1/2026)
   - Sep: NK2 2,000 g (Agro 1/2026)
@@ -280,10 +272,9 @@ Yield:
   - Jan–Oct 2025: 13.4 t/ha, ABW 20.0 kg, 5.4 bunches/palm vs 14.5 / 20.1 / 5.8 in 2024 (Agro 2/2025)
   - Jan–Aug 2025: 800.98 t = 10.77 t/ha (Aug 2024 819.45 t, 11.01); estimate 1,300 t; one of the two lowest fields (PA 2/2025)
 Harvesting:
-  - Interval 2025 (days): Jan 14-18, Feb 17-18, Mar 14-20, Apr 13-21, May 15-16, Jun 17-18, Jul 14-16, Aug 15-17, Sep 14-16, Oct 16-17, Nov 14-16, Dec 12-19 (Agro 1/2026)
-  - Interval 2026 (days): Jan 18-16, Feb 15-16 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 14-18, Feb 17-18, Mar 14-20, Apr 13-21, May 15-16, Jun 17-18, Jul 14-16, Aug 15-17, Sep 14-16, Oct 16-17, Nov 14-16, Dec 12-19 | Jan 18-16, Feb 15-16 (Agro 1/2026)
 Pruning:
-  - 2025 progressive pruning: 95 T5 74.38 of 74.40 ha (100%) (PA 1/2026)
+  - Pruning 2025: 95 T5 74.38 of 74.40 ha (100%) (PA 1/2026)
 Field:
   - Area: 74.40 ha in PA; Agro updated to 69.10 ha (Feb 2026) after 5.30 ha of T5 went into PR26H (Agro 1/2026)
   - Palm census: 9,300 palms; SPH 125 vs 136 (Feb 2019) (Agro 1/2026)
@@ -299,8 +290,7 @@ Spraying progress (Jan–Feb 2026):
   - Selective rd 1: 30% — 28.00 of 85.30 ha (PA 1/2026)
   - Inter-row rd 1 (Agro): 32% — Agro Table 14 (Agro 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 96Y 1,006.20 ha and 96Y8 79.80 ha, 3 rounds (100%) (PA 1/2026)
-  - Selective 2025: 3 rounds (100%) (PA 1/2026)
+  - Weeding rounds 2025: 96Y 1,006.20 ha and 96Y8 79.80 ha, 3 rounds (100%) | 3 rounds (100%) (PA 1/2026)
   - Circle raking 2025: Done in all fields except P96Y (undergoing replanting) (PA 1/2026)
   - Ground cover (Mar 2026): Y1, Y2 acceptable soft grasses (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -320,15 +310,14 @@ Pests & diseases:
   - Beneficial plants: 496 chains existing; 2025 programme 150.00, none planted (PA 1/2026)
 Yield:
   - Jan–Dec 2025 vs 2024: 15.09 vs 16.66 t/ha (−1.57), 362.0 ha (Agro 1/2026)
-  - Jan–Oct 2025 by sub-block (YPH / ABW / bunches): Y1 16.7/20.8/6.3 (2024 16.6/20.8/6.2); Y2 15.6/19.0/6.4 (19.1/20.0/7.5); Y3 11.3/20.0/4.4; Y4 10.5/20.8/3.9 (16.0); Y5 15.2/19.4/6.1; Y6 12.1/20.8/4.5; Y7 9.6/20.4/3.7 (12.6); Y8 15.7/20.4/6.0 (18.9); P96Y 12.9/20.2/5.0 vs 14.8/20.4/5.7 (Agro 2/2025)
+  - Jan–Oct 2025 by sub-block: Y1 16.7/20.8/6.3 (2024 16.6/20.8/6.2); Y2 15.6/19.0/6.4 (19.1/20.0/7.5); Y3 11.3/20.0/4.4; Y4 10.5/20.8/3.9 (16.0); Y5 15.2/19.4/6.1; Y6 12.1/20.8/4.5; Y7 9.6/20.4/3.7 (12.6); Y8 15.7/20.4/6.0 (18.9); P96Y 12.9/20.2/5.0 vs 14.8/20.4/5.7 (Agro 2/2025)
   - Jan–Aug 2025: 96Y 335.40 ha: 3,425.65 t = 10.21 t/ha (Aug 2024 3,852.15 t, 11.49), estimate 5,700 t; 96Y8 (Far East Division) 26.60 ha: 295.49 t = 11.11 t/ha (407.18 t, 15.31), estimate 440 t (PA 2/2025)
 Harvesting:
-  - Interval 2025 (days): Jan 16-19, Feb 15-18, Mar 15-23, Apr 12-25, May 14-15, Jun 15-16, Jul 14-17, Aug 16-17, Sep 17-15, Oct 15-17, Nov 16-17, Dec 16-17 (Agro 1/2026)
-  - Interval 2026 (days): Jan 15-23, Feb 15-19 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 16-19, Feb 15-18, Mar 15-23, Apr 12-25, May 14-15, Jun 15-16, Jul 14-17, Aug 16-17, Sep 17-15, Oct 15-17, Nov 16-17, Dec 16-17 | Jan 15-23, Feb 15-19 (Agro 1/2026)
   - Rotten bunches: Heap of rotten bunches in P96Y2 (photo 17); knock out loose fruit from excessively overripe bunches and discard EFB in field (Agro 1/2026)
   - Ripeness Nov 2025: Y4 8%, Y1 8%, Y7 5% overripe (Agro 2/2025)
 Pruning:
-  - 2025 progressive pruning: 96Y 327.40 of 335.40 ha (98%), balance 8.00; 96Y8 26.60 ha (100%) (PA 1/2026)
+  - Pruning 2025: 96Y 327.40 of 335.40 ha (98%), balance 8.00; 96Y8 26.60 ha (100%) (PA 1/2026)
   - Quality (Mar 2026): Y1, Y2 improved; slight under-pruning seen in P96Y1 and P96Y2 (photos 18-23) (Agro 1/2026)
 Field:
   - Area: 362.00 ha in 2025 (96Y 335.40 + 96Y8 26.60); from Jan 2026 85.30 ha (Y1 47.30 + Y2 38.00) remain mature (Agro 1/2026)
@@ -343,8 +332,7 @@ Manuring progress (to Feb 2026):
 Spraying progress (Jan–Feb 2026):
   - Circle & path rd 1: 0% — 0 of 18.80 ha (PA 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 3 rounds, 56.40 ha (100%) (PA 1/2026)
-  - Selective 2025: 3 rounds, 56.40 ha (100%) (PA 1/2026)
+  - Weeding rounds 2025: 3 rounds, 56.40 ha (100%) | 3 rounds, 56.40 ha (100%) (PA 1/2026)
   - Feb 2026: PA: circle programme 18.80 ha, not done; selective 18.80 ha done with no programme shown (PA 1/2026)
   - Ground cover (Mar 2026): Acceptable soft grasses (Agro 1/2026)
 Fertiliser programme (this year) 2026:
@@ -368,10 +356,9 @@ Yield:
   - Jan–Oct 2025: 23.0 t/ha, ABW 16.7 kg, 11.5 bunches/palm vs 23.9 / 16.5 / 12.0 (Agro 2/2025)
   - Jan–Aug 2025: 336.37 t = 17.89 t/ha (Aug 2024 360.80 t, 19.19); estimate 500 t (PA 2/2025)
 Harvesting:
-  - Interval 2025 (days): Jan 14-15, Feb 13-15, Mar 13-17, Apr 12-15, May 13-15, Jun 15-17, Jul 13-15, Aug 17, Sep 14-15, Oct 14-16, Nov 14, Dec 15-13 (Agro 1/2026)
-  - Interval 2026 (days): Jan 16-17, Feb 15-16 (Agro 1/2026)
+  - Harvest interval by month (days): Jan 14-15, Feb 13-15, Mar 13-17, Apr 12-15, May 13-15, Jun 15-17, Jul 13-15, Aug 17, Sep 14-15, Oct 14-16, Nov 14, Dec 15-13 | Jan 16-17, Feb 15-16 (Agro 1/2026)
 Pruning:
-  - 2025: 18.80 ha (100%), RM130/ha (PA 1/2026)
+  - Pruning 2025: 18.80 ha (100%), RM130/ha (PA 1/2026)
   - Quality (Mar 2026): Improved; slight under-pruning in P05W (photos 18-23) (Agro 1/2026)
 Nutrients:
   - Foliar (samples 15 Mar 2025): P05/W: N 2.59%, P 0.164%, K 1.00%, Mg 0.29%, Ca 0.56%, B 12.46 ppm (Appendix 2) (Agro 1/2026)
@@ -388,8 +375,7 @@ Spraying progress (Jan–Feb 2026):
   - Selective rd 1: 100% — 112.00 ha (PA 1/2026)
   - Inter-row rd 1 (Agro): 100% — Agro Table 14 (Agro 1/2026)
 Spraying & weeding:
-  - Circle & path 2025: 5 of 5 rounds, 540.00 ha (100%) (PA 1/2026)
-  - Selective 2025: 5 rounds, 540.00 ha (100%) (PA 1/2026)
+  - Weeding rounds 2025: 5 of 5 rounds, 540.00 ha (100%) | 5 rounds, 540.00 ha (100%) (PA 1/2026)
 Fertiliser programme (this year) 2026:
   - Main palms: Mix B 1,750 g Feb, 1,500 g May, RP 2,000 g Jun, Mix B 1,500 g Aug and Nov (May, Aug, Nov revised from 1,750 g) (Agro 1/2026)
   - Supply palms planted 2024: Comp B 1,000 g Feb, 1,200 g May, RP 2,000 g Jun, Comp B 1,200 g Aug and Nov (Agro 1/2026)
@@ -411,7 +397,7 @@ Harvesting:
   - Interval 2026 (days): Jan 15-16, Feb 13-16 (Agro 1/2026)
   - Interval 2025 to Oct (days): Jan 14-16 … Oct 16-17 (Agro 2/2025)
 Pruning:
-  - 2025: 108.00 ha (100%), RM75/ha (PA 1/2026)
+  - Pruning 2025: 108.00 ha (100%), RM75/ha (PA 1/2026)
   - Over-pruning: Notable over-pruning in P21A, P21B and P22D (only one subtending frond) noted in Apr 2025 (Agro 1/2025)
 Nutrients:
   - Foliar (samples 15 Mar 2025): P21/B1: N 2.68%, P 0.179%, K 1.30%, Mg 0.24%, Ca 0.54%, B 13.96 ppm; P21/B2: N 2.93%, P 0.178%, K 1.34%, Mg 0.28%, Ca 0.48%, B 13.82 ppm (Agro 1/2026)

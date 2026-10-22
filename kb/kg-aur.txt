@@ -139,9 +139,7 @@ Pests & diseases:
   - Ganoderma census: 34,349 palm stands: 100 unproductive, 5 dead/collapsed, 10 vacant points = 0.33% (Aug 2026); 2025: 110 Ganoderma palms, 10 collapsed, 0.35%. Infected palms toppled in B1 (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 9.85 t/ha vs 11.21 t/ha (-12.1%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 3.14 t/ha vs 2.78 t/ha (13%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 22.81 t/ha vs 22.39 t/ha (2%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 15.23 t/ha vs 17.51 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 3.14 t/ha vs 2.78 t/ha (13%). Estate 3.82 vs 2.98 t/ha (+28%) | 22.81 t/ha vs 22.39 t/ha (2%). Estate 26.96 vs 26.65 t/ha | 15.23 t/ha vs 17.51 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
   - Comment: Underperformed in 2025 at 22.81 t/ha (tall palms) (Agro 1/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 14-17, 15-17, 13-19, 11-14, 14-15, 14-18, 14-16 (Agro 2/2026)
@@ -196,9 +194,7 @@ Pests & diseases:
   - Ganoderma census: 39,050 palm stands: 14 unproductive, 3 dead/collapsed = 0.04% (Aug 2026); 2025: 10 palms, 2 collapsed, 0.03% (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 14.1 t/ha vs 12.39 t/ha (13.8%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.74 t/ha vs 3.08 t/ha (54%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 27.02 t/ha vs 26.03 t/ha (4%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 13.65 t/ha vs 14.38 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.74 t/ha vs 3.08 t/ha (54%). Estate 3.82 vs 2.98 t/ha (+28%) | 27.02 t/ha vs 26.03 t/ha (4%). Estate 26.96 vs 26.65 t/ha | 13.65 t/ha vs 14.38 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 13-18, 13-18, 13-17, 13-16, 15-18, 11-15, 11-18 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -212,11 +208,8 @@ Pruning:
   - Condition: Palms generally free of excess fronds, pruning up to date (Aug 2026); in Mar 2026 cutting of dried fronds was in progress and localised under-pruning was seen (Agro 2/2026)
 Nutrients:
   - Leaf 2026: No 2026 leaf sample printed for this block (Appendix 2) (Agro 2/2026)
-  - Leaf A1 (Apr 2025): N 2.63 (N), P 0.168 (N), K 1.18 (H), Mg 0.26 (N), Ca 0.53, B 15.50 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf A2 (Apr 2025): N 2.52 (ML), P 0.173 (H), K 1.14 (H), Mg 0.28 (N), Ca 0.52, B 15.65 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf A3 (Apr 2025): N 2.71 (H), P 0.173, K 1.14, Mg 0.27 (N), Ca 0.53, B 16.30 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf A4 (Apr 2025): N 2.61 (N), P 0.171, K 1.10, Mg 0.29 (H), Ca 0.55, B 16.80 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf A5 (Apr 2025): N 2.73 (H), P 0.170, K 1.08, Mg 0.31 (H), Ca 0.56, B 15.75 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: N, P, K: N 2.63 (N), P 0.168 (N), K 1.18 (H), Mg 0.26 (N), Ca 0.53, B 15.50 (N normal, H high, ML marginally low, D deficient) | N 2.52 (ML), P 0.173 (H), K 1.14 (H), Mg 0.28 (N), Ca 0.52, B 15.65 (N normal, H high, ML marginally low, D deficient) | N 2.71 (H), P 0.173, K 1.14, Mg 0.27 (N), Ca 0.53, B 16.30 (N normal, H high, ML marginally low, D deficient) | N 2.61 (N), P 0.171, K 1.10, Mg 0.29 (H), Ca 0.55, B 16.80 (N normal, H high, ML marginally low, D deficient) | N 2.73 (H), P 0.170, K 1.08, Mg 0.31 (H), Ca 0.56, B 15.75 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: A1 Mg 0.26 (N), Ca 0.53, B 15.50; A2 Mg 0.28 (N), Ca 0.52, B 15.65; A3 Mg 0.27 (N), Ca 0.53, B 16.30; A4 Mg 0.29 (H), Ca 0.55, B 16.80; A5 Mg 0.31 (H), Ca 0.56, B 15.75 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 141 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
   - Replanting: A1, A2, A5 (146.90 ha) 2030; A3, A4 (128.10 ha) 2031 (Agro Aug 2026); one year later than Agro 1/2026 (Agro 2/2026)
@@ -263,9 +256,7 @@ Pests & diseases:
   - Visit observation (Aug 2026): Rat-damaged bunches in C2 (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 13.2 t/ha vs 15.41 t/ha (-14.3%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.86 t/ha vs 3.45 t/ha (41%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 31.3 t/ha vs 28.41 t/ha (10%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 18.61 t/ha vs 19.38 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.86 t/ha vs 3.45 t/ha (41%). Estate 3.82 vs 2.98 t/ha (+28%) | 31.3 t/ha vs 28.41 t/ha (10%). Estate 26.96 vs 26.65 t/ha | 18.61 t/ha vs 19.38 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 10-20, 12-20, 13-18, 10-15, 15-18, 14-17, 13-16 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -278,16 +269,10 @@ Pruning:
   - Pruning 2025: Progressive 10 rounds, 2,587.00 ha (100%) (PA 1/2026)
   - Condition: Palms generally free of excess fronds, pruning up to date (Aug 2026); in Mar 2026 cutting of dried fronds was in progress and localised under-pruning was seen (Agro 2/2026)
 Nutrients:
-  - Leaf C1 (Apr 2026): N 2.69%, P 0.17%, K 1.04%, Mg 0.27%, Ca 0.68%, B 17.17 ppm (Agro 2/2026)
-  - Leaf C2 (Apr 2026): N 2.59%, P 0.168%, K 1.06%, Mg 0.29%, Ca 0.67%, B 14.75 ppm (Agro 2/2026)
-  - Leaf C3 (Apr 2026): N 2.57%, P 0.159%, K 1.02%, Mg 0.28%, Ca 0.57%, B 13.03 ppm (Agro 2/2026)
-  - Leaf C4 (Apr 2026): N 2.69%, P 0.158%, K 1.28%, Mg 0.24%, Ca 0.59%, B 12.76 ppm (Agro 2/2026)
-  - Leaf C5 (Apr 2026): N 2.72%, P 0.17%, K 1.08%, Mg 0.29%, Ca 0.59%, B 14.39 ppm (Agro 2/2026)
-  - Leaf C1 (Apr 2025): N 2.66 (N), P 0.174, K 1.06, Mg 0.31 (H), Ca 0.55, B 14.32 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf C2 (Apr 2025): N 2.70 (H), P 0.174, K 1.08, Mg 0.33 (H), Ca 0.55, B 14.18 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf C3 (Apr 2025): N 2.74 (H), P 0.174, K 1.18, Mg 0.29 (H), Ca 0.53, B 14.21 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf C4 (Apr 2025): N 2.83 (H), P 0.177, K 1.28, Mg 0.29 (H), Ca 0.56, B 16.80 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf C5 (Apr 2025): N 2.70 (H), P 0.171, K 1.10, Mg 0.30 (H), Ca 0.58, B 15.79 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.69%, P 0.17%, K 1.04%, Mg 0.27%, Ca 0.68%, B 17.17 ppm | N 2.59%, P 0.168%, K 1.06%, Mg 0.29%, Ca 0.67%, B 14.75 ppm | N 2.57%, P 0.159%, K 1.02%, Mg 0.28%, Ca 0.57%, B 13.03 ppm | N 2.69%, P 0.158%, K 1.28%, Mg 0.24%, Ca 0.59%, B 12.76 ppm | N 2.72%, P 0.17%, K 1.08%, Mg 0.29%, Ca 0.59%, B 14.39 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: C1 Mg 0.27, Ca 0.68, B 17.17; C2 Mg 0.29, Ca 0.67, B 14.75; C3 Mg 0.28, Ca 0.57, B 13.03; C4 Mg 0.24, Ca 0.59, B 12.76; C5 Mg 0.29, Ca 0.59, B 14.39 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.66 (N), P 0.174, K 1.06, Mg 0.31 (H), Ca 0.55, B 14.32 (N normal, H high, ML marginally low, D deficient) | N 2.70 (H), P 0.174, K 1.08, Mg 0.33 (H), Ca 0.55, B 14.18 (N normal, H high, ML marginally low, D deficient) | N 2.74 (H), P 0.174, K 1.18, Mg 0.29 (H), Ca 0.53, B 14.21 (N normal, H high, ML marginally low, D deficient) | N 2.83 (H), P 0.177, K 1.28, Mg 0.29 (H), Ca 0.56, B 16.80 (N normal, H high, ML marginally low, D deficient) | N 2.70 (H), P 0.171, K 1.10, Mg 0.30 (H), Ca 0.58, B 15.79 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: C1 Mg 0.31 (H), Ca 0.55, B 14.32; C2 Mg 0.33 (H), Ca 0.55, B 14.18; C3 Mg 0.29 (H), Ca 0.53, B 14.21; C4 Mg 0.29 (H), Ca 0.56, B 16.80; C5 Mg 0.30 (H), Ca 0.58, B 15.79 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 132 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
   - Replanting: C5 replant 2029 with P00B3 (134.50 ha) (Agro Aug 2026); was 2028 in Agro 1/2026 (Agro 2/2026)
@@ -336,9 +321,7 @@ Pests & diseases:
   - Visit observation (Mar 2026): Older rat damage seen; census over 20% in Feb 2026 (Agro 1/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 12.49 t/ha vs 14.38 t/ha (-13.1%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.08 t/ha vs 3.29 t/ha (24%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 28.4 t/ha vs 30.5 t/ha (-7%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 17.15 t/ha vs 20.96 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.08 t/ha vs 3.29 t/ha (24%). Estate 3.82 vs 2.98 t/ha (+28%) | 28.4 t/ha vs 30.5 t/ha (-7%). Estate 26.96 vs 26.65 t/ha | 17.15 t/ha vs 20.96 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 14-18, 13-18, 11-18, 12-15, 13-15, 13-16, 13-17 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -349,16 +332,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 2,964.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf D1 (Apr 2026): N 2.61%, P 0.158%, K 1.06%, Mg 0.23%, Ca 0.66%, B 11.57 ppm (Agro 2/2026)
-  - Leaf D2 (Apr 2026): N 2.6%, P 0.159%, K 1.16%, Mg 0.18%, Ca 0.63%, B 12.83 ppm (Agro 2/2026)
-  - Leaf D3 (Apr 2026): N 2.61%, P 0.16%, K 1.24%, Mg 0.16%, Ca 0.6%, B 12.7 ppm (Agro 2/2026)
-  - Leaf D4 (Apr 2026): N 2.7%, P 0.171%, K 1.34%, Mg 0.18%, Ca 0.53%, B 14.39 ppm (Agro 2/2026)
-  - Leaf D5 (Apr 2026): N 2.66%, P 0.16%, K 1.32%, Mg 0.15%, Ca 0.52%, B 15.01 ppm (Agro 2/2026)
-  - Leaf D1 (Apr 2025): N 2.74 (H), P 0.177, K 1.12, Mg 0.24 (ML), Ca 0.58, B 14.28 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf D2 (Apr 2025): N 2.61 (N), P 0.173, K 1.18, Mg 0.23 (ML), Ca 0.55, B 15.94 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf D3 (Apr 2025): N 2.75 (H), P 0.177, K 1.24, Mg 0.22 (D), Ca 0.55, B 16.01 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf D4 (Apr 2025): N 2.64 (N), P 0.177, K 1.22, Mg 0.20 (D), Ca 0.54, B 14.35 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf D5 (Apr 2025): N 2.60 (N), P 0.179, K 1.18, Mg 0.20 (D), Ca 0.58, B 12.82 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.61%, P 0.158%, K 1.06%, Mg 0.23%, Ca 0.66%, B 11.57 ppm | N 2.6%, P 0.159%, K 1.16%, Mg 0.18%, Ca 0.63%, B 12.83 ppm | N 2.61%, P 0.16%, K 1.24%, Mg 0.16%, Ca 0.6%, B 12.7 ppm | N 2.7%, P 0.171%, K 1.34%, Mg 0.18%, Ca 0.53%, B 14.39 ppm | N 2.66%, P 0.16%, K 1.32%, Mg 0.15%, Ca 0.52%, B 15.01 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: D1 Mg 0.23, Ca 0.66, B 11.57; D2 Mg 0.18, Ca 0.63, B 12.83; D3 Mg 0.16, Ca 0.6, B 12.7; D4 Mg 0.18, Ca 0.53, B 14.39; D5 Mg 0.15, Ca 0.52, B 15.01 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.74 (H), P 0.177, K 1.12, Mg 0.24 (ML), Ca 0.58, B 14.28 (N normal, H high, ML marginally low, D deficient) | N 2.61 (N), P 0.173, K 1.18, Mg 0.23 (ML), Ca 0.55, B 15.94 (N normal, H high, ML marginally low, D deficient) | N 2.75 (H), P 0.177, K 1.24, Mg 0.22 (D), Ca 0.55, B 16.01 (N normal, H high, ML marginally low, D deficient) | N 2.64 (N), P 0.177, K 1.22, Mg 0.20 (D), Ca 0.54, B 14.35 (N normal, H high, ML marginally low, D deficient) | N 2.60 (N), P 0.179, K 1.18, Mg 0.20 (D), Ca 0.58, B 12.82 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: D1 Mg 0.24 (ML), Ca 0.58, B 14.28; D2 Mg 0.23 (ML), Ca 0.55, B 15.94; D3 Mg 0.22 (D), Ca 0.55, B 16.01; D4 Mg 0.20 (D), Ca 0.54, B 14.35; D5 Mg 0.20 (D), Ca 0.58, B 12.82 (Agro 2/2025)
   - Symptoms: Slight K deficiency in D1 (Mar 2026); 2025 mild Mg deficiency in D1, D2 (Agro 1/2026)
 Field:
   - Palm census (Aug 2026): Current SPH 136 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
@@ -416,9 +393,7 @@ Pests & diseases:
   - Visit observation (Mar 2026): Older rat damage seen; census over 20% in Feb 2026 (Agro 1/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 13.48 t/ha vs 13.58 t/ha (-0.7%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.64 t/ha vs 3.35 t/ha (38%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 27.3 t/ha vs 28.98 t/ha (-6%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 16.3 t/ha vs 19.9 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.64 t/ha vs 3.35 t/ha (38%). Estate 3.82 vs 2.98 t/ha (+28%) | 27.3 t/ha vs 28.98 t/ha (-6%). Estate 26.96 vs 26.65 t/ha | 16.3 t/ha vs 19.9 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 16-21, 16-21, 10-14, 13-16, 15-15, 15-19, 15-18 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -430,12 +405,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 1,747.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf G1 (Apr 2026): N 2.69%, P 0.169%, K 1.2%, Mg 0.21%, Ca 0.62%, B 11.4 ppm (Agro 2/2026)
-  - Leaf G2 (Apr 2026): N 2.62%, P 0.166%, K 1.1%, Mg 0.2%, Ca 0.52%, B 10.95 ppm (Agro 2/2026)
-  - Leaf G3 (Apr 2026): N 2.74%, P 0.174%, K 1.06%, Mg 0.24%, Ca 0.69%, B 13.48 ppm (Agro 2/2026)
-  - Leaf G1 (Apr 2025): N 2.61 (N), P 0.174, K 1.08, Mg 0.26 (N), Ca 0.58, B 14.78 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf G2 (Apr 2025): N 2.76 (H), P 0.175, K 1.26, Mg 0.26 (N), Ca 0.51, B 12.55 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf G3 (Apr 2025): N 2.66 (N), P 0.179, K 1.26, Mg 0.27 (N), Ca 0.59, B 15.14 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.69%, P 0.169%, K 1.2%, Mg 0.21%, Ca 0.62%, B 11.4 ppm | N 2.62%, P 0.166%, K 1.1%, Mg 0.2%, Ca 0.52%, B 10.95 ppm | N 2.74%, P 0.174%, K 1.06%, Mg 0.24%, Ca 0.69%, B 13.48 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: G1 Mg 0.21, Ca 0.62, B 11.4; G2 Mg 0.2, Ca 0.52, B 10.95; G3 Mg 0.24, Ca 0.69, B 13.48 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.61 (N), P 0.174, K 1.08, Mg 0.26 (N), Ca 0.58, B 14.78 (N normal, H high, ML marginally low, D deficient) | N 2.76 (H), P 0.175, K 1.26, Mg 0.26 (N), Ca 0.51, B 12.55 (N normal, H high, ML marginally low, D deficient) | N 2.66 (N), P 0.179, K 1.26, Mg 0.27 (N), Ca 0.59, B 15.14 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: G1 Mg 0.26 (N), Ca 0.58, B 14.78; G2 Mg 0.26 (N), Ca 0.51, B 12.55; G3 Mg 0.27 (N), Ca 0.59, B 15.14 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 147 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
   - Flooding: Flood-prone in the first and last quarters, floods lasting two weeks to one month; keep outlet drains clear; desilting only 627 chains (25% of annual programme) by Jul 2026 (Agro 2/2026)
@@ -476,9 +449,7 @@ Pests & diseases:
   - Barn owl boxes (Aug 2026): 11 required, 7 installed, 7 occupied (100.0%) (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 13.38 t/ha vs 15.72 t/ha (-14.9%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.09 t/ha vs 3.4 t/ha (20%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 33.14 t/ha vs 32.33 t/ha (3%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 18.98 t/ha vs 22.94 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.09 t/ha vs 3.4 t/ha (20%). Estate 3.82 vs 2.98 t/ha (+28%) | 33.14 t/ha vs 32.33 t/ha (3%). Estate 26.96 vs 26.65 t/ha | 18.98 t/ha vs 22.94 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 13-17, 13-17, 16-17, 14-15, 14-15, 15-19, 13-15 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -489,10 +460,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 1,103.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf R1 (Apr 2026): N 2.68%, P 0.171%, K 1.14%, Mg 0.22%, Ca 0.59%, B 14.22 ppm (Agro 2/2026)
-  - Leaf R2 (Apr 2026): N 2.7%, P 0.176%, K 1.28%, Mg 0.2%, Ca 0.53%, B 14.45 ppm (Agro 2/2026)
-  - Leaf R1 (Apr 2025): N 2.86 (H), P 0.180, K 1.18, Mg 0.26 (N), Ca 0.58, B 15.79 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf R2 (Apr 2025): N 2.66 (N), P 0.174, K 1.20, Mg 0.27 (N), Ca 0.57, B 15.29 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.68%, P 0.171%, K 1.14%, Mg 0.22%, Ca 0.59%, B 14.22 ppm | N 2.7%, P 0.176%, K 1.28%, Mg 0.2%, Ca 0.53%, B 14.45 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: R1 Mg 0.22, Ca 0.59, B 14.22; R2 Mg 0.2, Ca 0.53, B 14.45 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.86 (H), P 0.180, K 1.18, Mg 0.26 (N), Ca 0.58, B 15.79 (N normal, H high, ML marginally low, D deficient) | N 2.66 (N), P 0.174, K 1.20, Mg 0.27 (N), Ca 0.57, B 15.29 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: R1 Mg 0.26 (N), Ca 0.58, B 15.79; R2 Mg 0.27 (N), Ca 0.57, B 15.29 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 143 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
 
@@ -549,9 +520,7 @@ Pests & diseases:
   - Visit observation (Aug 2026): Signs of rat attack on palms in E1 (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 11.78 t/ha vs 15.18 t/ha (-22.4%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 3.37 t/ha vs 2.86 t/ha (18%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 29.92 t/ha vs 28.35 t/ha (6%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 18.01 t/ha vs 20.26 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 3.37 t/ha vs 2.86 t/ha (18%). Estate 3.82 vs 2.98 t/ha (+28%) | 29.92 t/ha vs 28.35 t/ha (6%). Estate 26.96 vs 26.65 t/ha | 18.01 t/ha vs 20.26 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 14-17, 14-17, 16-18, 15-17, 15-15, 15-17, 14-14 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -563,10 +532,10 @@ Pruning:
   - Pruning 2025: Progressive 10 rounds, 1,221.00 ha (100%) (PA 1/2026)
   - Condition: Slightly under-pruned in localised sections of E2 (Aug 2026) (Agro 2/2026)
 Nutrients:
-  - Leaf E1 (Apr 2026): N 2.72%, P 0.171%, K 1.1%, Mg 0.23%, Ca 0.61%, B 16.4 ppm (Agro 2/2026)
-  - Leaf E2 (Apr 2026): N 2.7%, P 0.169%, K 1.04%, Mg 0.22%, Ca 0.64%, B 16.26 ppm (Agro 2/2026)
-  - Leaf E1 (Apr 2025): N 2.68 (N), P 0.177, K 1.14, Mg 0.22 (D), Ca 0.58, B 15.29 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf E2 (Apr 2025): N 2.72 (H), P 0.179, K 1.14, Mg 0.25 (ML), Ca 0.59, B 14.32 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.72%, P 0.171%, K 1.1%, Mg 0.23%, Ca 0.61%, B 16.4 ppm | N 2.7%, P 0.169%, K 1.04%, Mg 0.22%, Ca 0.64%, B 16.26 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: E1 Mg 0.23, Ca 0.61, B 16.4; E2 Mg 0.22, Ca 0.64, B 16.26 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.68 (N), P 0.177, K 1.14, Mg 0.22 (D), Ca 0.58, B 15.29 (N normal, H high, ML marginally low, D deficient) | N 2.72 (H), P 0.179, K 1.14, Mg 0.25 (ML), Ca 0.59, B 14.32 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: E1 Mg 0.22 (D), Ca 0.58, B 15.29; E2 Mg 0.25 (ML), Ca 0.59, B 14.32 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 139 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
   - Flooding: Flood-prone in the first and last quarters, floods lasting two weeks to one month; keep outlet drains clear; desilting only 627 chains (25% of annual programme) by Jul 2026 (Agro 2/2026)
@@ -611,9 +580,7 @@ Pests & diseases:
   - Visit census (Aug 2026): Block M 10/72 = 13%; rat signs on palms in M; Feb 2026 bunch damage clearly seen (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 12.55 t/ha vs 16.36 t/ha (-23.3%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.32 t/ha vs 3.84 t/ha (13%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 36.46 t/ha vs 30.79 t/ha (18%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 19.86 t/ha vs 20.48 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.32 t/ha vs 3.84 t/ha (13%). Estate 3.82 vs 2.98 t/ha (+28%) | 36.46 t/ha vs 30.79 t/ha (18%). Estate 26.96 vs 26.65 t/ha | 19.86 t/ha vs 20.48 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 11-15, 11-15, 16-18, 15-15, 11-11, 13-13, 15-15 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -624,8 +591,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 97.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf M (Apr 2026): N 2.71%, P 0.166%, K 1.2%, Mg 0.18%, Ca 0.59%, B 11.64 ppm (Agro 2/2026)
-  - Leaf M (Apr 2025): N 2.69 (N), P 0.173, K 1.16, Mg 0.27 (N), Ca 0.56, B 15.14 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.71%, P 0.166%, K 1.2%, Mg 0.18%, Ca 0.59%, B 11.64 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: M Mg 0.18, Ca 0.59, B 11.64 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.69 (N), P 0.173, K 1.16, Mg 0.27 (N), Ca 0.56, B 15.14 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: M Mg 0.27 (N), Ca 0.56, B 15.14 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 129 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
 
@@ -665,9 +634,7 @@ Pests & diseases:
   - Visit observation (Mar 2026): Rat damage clearly seen on bunches (Agro 1/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 11.23 t/ha vs 7.12 t/ha (57.7%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 3.53 t/ha vs 2.15 t/ha (64%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 17.7 t/ha vs 21.36 t/ha (-17%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 8.88 t/ha vs 13.34 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 3.53 t/ha vs 2.15 t/ha (64%). Estate 3.82 vs 2.98 t/ha (+28%) | 17.7 t/ha vs 21.36 t/ha (-17%). Estate 26.96 vs 26.65 t/ha | 8.88 t/ha vs 13.34 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
   - Comment: Low 2025 yield (17.70 t/ha) put down to incomplete crop recovery from high water table/flooding and the lowest cumulative harvesting rounds; no serious flooding in 2026 and yield improved (+57.7% to Jul) (Agro 2/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 14-15, 14-15, 15-15, 14-15, 13-16, 15-17, 13-18 (Agro 2/2026)
@@ -681,8 +648,10 @@ Pruning:
   - Pruning 2025: Progressive 10 rounds, 584.60 ha (100%) (PA 1/2026)
   - Condition: Slightly under-pruned in localised sections of H (Aug 2026) (Agro 2/2026)
 Nutrients:
-  - Leaf H1 (Apr 2026): N 2.72%, P 0.158%, K 1.18%, Mg 0.19%, Ca 0.48%, B 10.71 ppm (Agro 2/2026)
-  - Leaf H1 (Apr 2025): N 2.71 (H), P 0.179, K 1.10, Mg 0.30 (H), Ca 0.59, B 15.29 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.72%, P 0.158%, K 1.18%, Mg 0.19%, Ca 0.48%, B 10.71 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: H1 Mg 0.19, Ca 0.48, B 10.71 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.71 (H), P 0.179, K 1.10, Mg 0.30 (H), Ca 0.59, B 15.29 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: H1 Mg 0.30 (H), Ca 0.59, B 15.29 (Agro 2/2025)
   - Symptoms: Mild Mg deficiency in sub-block H (2025) (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 135 (7,903 palms; previous 8,301, 142 SPH, -5%); census data outdated, drone census due H2 2026 (Agro 2/2026)
@@ -730,9 +699,7 @@ Pests & diseases:
   - Visit observation (Aug 2026): Rat-damaged bunches and signs on palms in K2 (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 13.59 t/ha vs 14.52 t/ha (-6.4%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.47 t/ha vs 2.21 t/ha (102%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 30.75 t/ha vs 30.95 t/ha (-1%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 17.37 t/ha vs 20.76 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.47 t/ha vs 2.21 t/ha (102%). Estate 3.82 vs 2.98 t/ha (+28%) | 30.75 t/ha vs 30.95 t/ha (-1%). Estate 26.96 vs 26.65 t/ha | 17.37 t/ha vs 20.76 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 11-21, 11-21, 13-18, 13-14, 15-16, 12-14, 13-18 (Agro 2/2026)
   - Harvesting rounds to Jul 2026: 14 rounds, 100% of target (estate 14) (Agro 2/2026)
@@ -744,14 +711,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 1,793.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf K1 (Apr 2026): N 2.67%, P 0.159%, K 1.24%, Mg 0.18%, Ca 0.58%, B 18.62 ppm (Agro 2/2026)
-  - Leaf K2 (Apr 2026): N 2.97%, P 0.199%, K 1.48%, Mg 0.2%, Ca 0.73%, B 20.5 ppm (Agro 2/2026)
-  - Leaf K3 (Apr 2026): N 2.66%, P 0.163%, K 1.28%, Mg 0.19%, Ca 0.5%, B 13.83 ppm (Agro 2/2026)
-  - Leaf K4 (Apr 2026): N 2.39%, P 0.165%, K 1.18%, Mg 0.2%, Ca 0.57%, B 13.13 ppm (Agro 2/2026)
-  - Leaf K1 (Apr 2025): N 2.70 (H), P 0.173, K 1.16, Mg 0.24 (ML), Ca 0.58, B 15.43 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf K2 (Apr 2025): N 2.78 (H), P 0.173, K 1.18, Mg 0.22 (D), Ca 0.60, B 15.21 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf K3 (Apr 2025): N 2.53 (ML), P 0.170, K 1.18, Mg 0.23 (ML), Ca 0.61, B 14.06 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf K4 (Apr 2025): N 2.70 (H), P 0.168 (N), K 1.22, Mg 0.23 (ML), Ca 0.60, B 16.51 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.67%, P 0.159%, K 1.24%, Mg 0.18%, Ca 0.58%, B 18.62 ppm | N 2.97%, P 0.199%, K 1.48%, Mg 0.2%, Ca 0.73%, B 20.5 ppm | N 2.66%, P 0.163%, K 1.28%, Mg 0.19%, Ca 0.5%, B 13.83 ppm | N 2.39%, P 0.165%, K 1.18%, Mg 0.2%, Ca 0.57%, B 13.13 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: K1 Mg 0.18, Ca 0.58, B 18.62; K2 Mg 0.2, Ca 0.73, B 20.5; K3 Mg 0.19, Ca 0.5, B 13.83; K4 Mg 0.2, Ca 0.57, B 13.13 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.70 (H), P 0.173, K 1.16, Mg 0.24 (ML), Ca 0.58, B 15.43 (N normal, H high, ML marginally low, D deficient) | N 2.78 (H), P 0.173, K 1.18, Mg 0.22 (D), Ca 0.60, B 15.21 (N normal, H high, ML marginally low, D deficient) | N 2.53 (ML), P 0.170, K 1.18, Mg 0.23 (ML), Ca 0.61, B 14.06 (N normal, H high, ML marginally low, D deficient) | N 2.70 (H), P 0.168 (N), K 1.22, Mg 0.23 (ML), Ca 0.60, B 16.51 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: K1 Mg 0.24 (ML), Ca 0.58, B 15.43; K2 Mg 0.22 (D), Ca 0.60, B 15.21; K3 Mg 0.23 (ML), Ca 0.61, B 14.06; K4 Mg 0.23 (ML), Ca 0.60, B 16.51 (Agro 2/2025)
 Field:
   - Palm census (Aug 2026): Current SPH 146 (unchanged from previous census); census data outdated, drone census due H2 2026 (Agro 2/2026)
   - Flooding: Flood-prone in the first and last quarters, floods lasting two weeks to one month; keep outlet drains clear; desilting only 627 chains (25% of annual programme) by Jul 2026 (Agro 2/2026)
@@ -813,9 +776,7 @@ Pests & diseases:
   - Visit census (Aug 2026): Block J1 5/32 = 16%; rat-damaged bunches in J1, J2 (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 10.85 t/ha vs 13.01 t/ha (-16.6%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.61 t/ha vs 2.91 t/ha (59%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 27.06 t/ha vs 34.96 t/ha (-23%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 15.08 t/ha vs 19.01 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.61 t/ha vs 2.91 t/ha (59%). Estate 3.82 vs 2.98 t/ha (+28%) | 27.06 t/ha vs 34.96 t/ha (-23%). Estate 26.96 vs 26.65 t/ha | 15.08 t/ha vs 19.01 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
   - Block split: The yield tables split 16J (112.8 ha, J1–J2) and 14J3 (L) (27.5 ha, J3); most other tables print P14J3 & P16J together (140.3 ha) (Agro 2/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 16-18, 16-18, 10-16, 12-15, 12-15, 14-15, 12-15 (Agro 2/2026)
@@ -829,10 +790,10 @@ Pruning:
   - Pruning 2025: Progressive 10 rounds, 1,128.00 ha (100%) (PA 1/2026)
   - Condition: Slightly under-pruned in localised sections of J1 (Aug 2026) (Agro 2/2026)
 Nutrients:
-  - Leaf J1 (Apr 2026): N 2.81%, P 0.174%, K 1.3%, Mg 0.19%, Ca 0.62%, B 19.94 ppm (Agro 2/2026)
-  - Leaf J2 (Apr 2026): N 2.83%, P 0.161%, K 1.3%, Mg 0.19%, Ca 0.5%, B 13.69 ppm (Agro 2/2026)
-  - Leaf J1 (Apr 2025): N 2.87 (H), P 0.170, K 1.24, Mg 0.23 (ML), Ca 0.60, B 13.10 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf J2 (Apr 2025): N 2.74 (H), P 0.177, K 1.26, Mg 0.26 (N), Ca 0.59, B 13.25 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.81%, P 0.174%, K 1.3%, Mg 0.19%, Ca 0.62%, B 19.94 ppm | N 2.83%, P 0.161%, K 1.3%, Mg 0.19%, Ca 0.5%, B 13.69 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: J1 Mg 0.19, Ca 0.62, B 19.94; J2 Mg 0.19, Ca 0.5, B 13.69 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.87 (H), P 0.170, K 1.24, Mg 0.23 (ML), Ca 0.60, B 13.10 (N normal, H high, ML marginally low, D deficient) | N 2.74 (H), P 0.177, K 1.26, Mg 0.26 (N), Ca 0.59, B 13.25 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: J1 Mg 0.23 (ML), Ca 0.60, B 13.10; J2 Mg 0.26 (N), Ca 0.59, B 13.25 (Agro 2/2025)
   - Symptoms: Slight K deficiency in J2 (Mar 2026; photos labelled J1 and D2) (Agro 1/2026)
 Field:
   - Palm census (Aug 2026): Current SPH 136 (P14J3 & P16J 140.3 ha, 19,081 palms); census data outdated, drone census due H2 2026 (Agro 2/2026)
@@ -872,9 +833,7 @@ Pests & diseases:
   - Barn owl boxes (Aug 2026): 5 required, 5 installed, 5 occupied (100.0 (P14J3 (L), 46.50 ha)%) (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 13.59 t/ha vs 11.32 t/ha (20.1%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 4.59 t/ha vs 3.0 t/ha (53%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 26.51 t/ha vs 28.11 t/ha (-6%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 13.86 t/ha vs 17.4 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 4.59 t/ha vs 3.0 t/ha (53%). Estate 3.82 vs 2.98 t/ha (+28%) | 26.51 t/ha vs 28.11 t/ha (-6%). Estate 26.96 vs 26.65 t/ha | 13.86 t/ha vs 17.4 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
   - Block split: The yield tables split 16J (112.8 ha, J1–J2) and 14J3 (L) (27.5 ha, J3); most other tables print P14J3 & P16J together (140.3 ha) (Agro 2/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 16-18, 16-18, 10-16, 12-15, 12-15, 14-15, 12-15 (printed for 16J) (Agro 2/2026)
@@ -886,8 +845,10 @@ Pruning:
   - Pruning to Jul 2026: Progressive pruning 100% (Agro Table 11) (Agro 2/2026)
   - Pruning 2025: Progressive 10 rounds, 275.00 ha (100%) (PA 1/2026)
 Nutrients:
-  - Leaf J3 (Apr 2026): N 2.73%, P 0.167%, K 1.2%, Mg 0.26%, Ca 0.61%, B 14.52 ppm (Agro 2/2026)
-  - Leaf J3 (Apr 2025): N 2.64 (N), P 0.179, K 1.24, Mg 0.29 (N), Ca 0.58, B 15.21 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.73%, P 0.167%, K 1.2%, Mg 0.26%, Ca 0.61%, B 14.52 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: J3 Mg 0.26, Ca 0.61, B 14.52 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.64 (N), P 0.179, K 1.24, Mg 0.29 (N), Ca 0.58, B 15.21 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: J3 Mg 0.29 (N), Ca 0.58, B 15.21 (Agro 2/2025)
   - Symptoms: Reduced vigour with mild K deficiency in low-lying sections of J3 (Aug 2026) (Agro 2/2026)
 Field:
   - Palm census (Aug 2026): Current SPH 136 (P14J3 & P16J 140.3 ha, 19,081 palms); census data outdated, drone census due H2 2026 (Agro 2/2026)
@@ -940,9 +901,7 @@ Pests & diseases:
   - Visit census (Aug 2026): Block F3 17/62 = 27%; F1 5/40 = 13%; fresh rat damage in F1 and F3; bait immediately (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 5.44 t/ha vs 4.15 t/ha (31.1%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 1.24 t/ha vs 0.43 t/ha (188%). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
-  - 2025 vs 2024 (full year): 9.72 t/ha vs 5.42 t/ha (79%). Estate 26.96 vs 26.65 t/ha (Agro 1/2026)
-  - Jan–Aug 2025 vs Jan–Aug 2024: 5.41 t/ha vs 3.64 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 2/2025)
+  - Other periods: block vs estate (t/ha): 1.24 t/ha vs 0.43 t/ha (188%). Estate 3.82 vs 2.98 t/ha (+28%) | 9.72 t/ha vs 5.42 t/ha (79%). Estate 26.96 vs 26.65 t/ha | 5.41 t/ha vs 3.64 t/ha. Estate 15.72 vs 18.10 t/ha (-13.17%) (Agro 1/2026 · Agro 2/2025)
   - Comment: 2025: 775.00 t, 9.72 t/ha, still below expectation (weeds, flooding, delayed maturity). Upward trend in 2026; expected to exceed 15 t/ha by end-2026 (Agro 2/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 11-15, 11-15, 15-19, 13-16, 15-16, 12-15, 12-17 (Agro 2/2026)
@@ -957,12 +916,10 @@ Pruning:
   - Condition: Slightly under-pruned in localised sections of F3 (Aug 2026) (Agro 2/2026)
   - Over-pruning: Slight over-pruning still seen, especially F1; keep at least two whorls of fronds below the lowest bunch (Agro 2/2026)
 Nutrients:
-  - Leaf F1 (Apr 2026): N 2.81%, P 0.164%, K 1.24%, Mg 0.28%, Ca 0.51%, B 15.22 ppm (Agro 2/2026)
-  - Leaf F2 (Apr 2026): N 2.84%, P 0.163%, K 1.3%, Mg 0.26%, Ca 0.55%, B 15.33 ppm (Agro 2/2026)
-  - Leaf F3 (Apr 2026): N 2.9%, P 0.182%, K 1.3%, Mg 0.31%, Ca 0.66%, B 25.86 ppm (Agro 2/2026)
-  - Leaf F1 (Apr 2025): N 2.48 (D), P 0.170, K 1.24, Mg 0.31 (ML), Ca 0.56, B 15.73 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf F2 (Apr 2025): N 2.52 (D), P 0.165 (N), K 1.34, Mg 0.32 (ML), Ca 0.48 (ML), B 16.59 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
-  - Leaf F3 (Apr 2025): N 2.63 (ML), P 0.170, K 1.34, Mg 0.31 (ML), Ca 0.50 (ML), B 13.89 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2026: N, P, K: N 2.81%, P 0.164%, K 1.24%, Mg 0.28%, Ca 0.51%, B 15.22 ppm | N 2.84%, P 0.163%, K 1.3%, Mg 0.26%, Ca 0.55%, B 15.33 ppm | N 2.9%, P 0.182%, K 1.3%, Mg 0.31%, Ca 0.66%, B 25.86 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: F1 Mg 0.28, Ca 0.51, B 15.22; F2 Mg 0.26, Ca 0.55, B 15.33; F3 Mg 0.31, Ca 0.66, B 25.86 (Agro 2/2026)
+  - Leaf analysis Apr 2025: N, P, K: N 2.48 (D), P 0.170, K 1.24, Mg 0.31 (ML), Ca 0.56, B 15.73 (N normal, H high, ML marginally low, D deficient) | N 2.52 (D), P 0.165 (N), K 1.34, Mg 0.32 (ML), Ca 0.48 (ML), B 16.59 (N normal, H high, ML marginally low, D deficient) | N 2.63 (ML), P 0.170, K 1.34, Mg 0.31 (ML), Ca 0.50 (ML), B 13.89 (N normal, H high, ML marginally low, D deficient) (Agro 2/2025)
+  - Leaf analysis Apr 2025: Mg, Ca, B: F1 Mg 0.31 (ML), Ca 0.56, B 15.73; F2 Mg 0.32 (ML), Ca 0.48 (ML), B 16.59; F3 Mg 0.31 (ML), Ca 0.50 (ML), B 13.89 (Agro 2/2025)
   - Symptoms: B and Mg deficiency symptoms persist in localised areas (S1, S2); mid-2026 leaf analysis showed some improvement (Agro 2/2026)
 Field:
   - Palm census (Aug 2026): Current SPH 142 (15,591 palms; previous 16,250, 148 SPH, -4%; 20F & F3 (19N) 109.8 ha); census data outdated, drone census due H2 2026 (Agro 2/2026)
@@ -1011,7 +968,7 @@ Pests & diseases:
   - Visit observation (Aug 2026): Severe rat damage on bunches in S1; bait immediately (Agro 2/2026)
 Yield:
   - Jan–Jul 2026 vs Jan–Jul 2025: 4.04 t/ha vs 0.0 t/ha (–%). Estate 11.85 vs 13.02 t/ha (-9.0%) (Agro 2/2026)
-  - Jan–Feb 2026 vs Jan–Feb 2025: 0.42 t/ha vs – t/ha (–). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
+  - Other periods: block vs estate (t/ha): 0.42 t/ha vs – t/ha (–). Estate 3.82 vs 2.98 t/ha (+28%) (Agro 1/2026)
   - Comment: Declared mature Jan 2026 (80.10 ha); first year of harvesting. Scout harvesting gave only 0.42 t/ha Jan–Feb 2026; maturity had been deferred by poor uniformity after flood losses (Agro 2/2026)
 Harvesting:
   - Monthly interval Jan–Jul 2026 (days): 14-17, 14-17, 14-18, 15-17, 15-16, 15-16, 13-13 (Agro 2/2026)
@@ -1024,9 +981,8 @@ Pruning:
   - Pruning to Jul 2026: Progressive 48.00 ha previously + 32.10 ha this month = 80.10 ha (100%) (Agro 2/2026)
   - Basal pruning: Basal pruning needed to remove moribund fronds (S1) to help loose-fruit collection; to be completed as soon as possible (Agro 2/2026)
 Nutrients:
-  - Leaf S1 (Apr 2026): N 2.87%, P 0.161%, K 1.28%, Mg 0.33%, Ca 0.49%, B 13.83 ppm (Agro 2/2026)
-  - Leaf S2 (Apr 2026): N 2.72%, P 0.156%, K 1.14%, Mg 0.32%, Ca 0.54%, B 13.0 ppm (Agro 2/2026)
-  - Leaf G6 (printed P21/G6) (Apr 2026): N 2.81%, P 0.155%, K 1.3%, Mg 0.33%, Ca 0.35%, B 13.41 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: N, P, K: N 2.87%, P 0.161%, K 1.28%, Mg 0.33%, Ca 0.49%, B 13.83 ppm | N 2.72%, P 0.156%, K 1.14%, Mg 0.32%, Ca 0.54%, B 13.0 ppm | N 2.81%, P 0.155%, K 1.3%, Mg 0.33%, Ca 0.35%, B 13.41 ppm (Agro 2/2026)
+  - Leaf analysis Apr 2026: Mg, Ca, B: S1 Mg 0.33, Ca 0.49, B 13.83; S2 Mg 0.32, Ca 0.54, B 13.0; G6 (printed P21/G6) Mg 0.33, Ca 0.35, B 13.41 (Agro 2/2026)
   - Symptoms: B and Mg deficiency symptoms persist in localised areas (S1, S2); mid-2026 leaf analysis showed some improvement (Agro 2/2026)
 Field:
   - Palm census (Aug 2026): Current SPH 145 (11,614 palms; previous 11,855, 148 SPH, -2%); census data outdated, drone census due H2 2026 (Agro 2/2026)

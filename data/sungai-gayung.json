@@ -383,29 +383,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "3.78 t/ha; FFB 1,116.60 t vs budget 1,669.00 t (variance -552.40 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "3.78 t/ha",
+        "d": "Jan–Apr 2026 · FFB 1,116.60 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "1,669.00 t",
+        "d": "variance -552.40 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 3.87 t/ha; 2026: 2.79 t/ha; difference printed -38%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "2.79 t/ha",
+        "d": "Jan–Mar 2025 3.87 · -38% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 19.92 t/ha; 2025: 17.59 t/ha; difference -13%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "17.22 vs 15.56 t/ha (-11%); average bunch weight 18.08 kg (2024) vs 16.40 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "17.22",
+         "15.56"
+        ],
+        [
+         "Bunch weight kg",
+         "18.08",
+         "16.40"
+        ]
+       ]
+      },
+      "note": "Yield change printed as -11%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.20; harvester man-days 2,043; FFB 4,592.00 t; ABW 16.40 kg; bunches/palm 7.35; yield 15.56 t/ha; 2.25 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "4,592.00 t",
+        "d": "15.56 t/ha · 20.20 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "16.40 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "7.35"
+       },
+       {
+        "l": "Output",
+        "v": "2.25 t/man-day",
+        "d": "2,043 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -420,14 +491,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "778 harvester man-days; 1.44 t per man-day; harvesting rate RM57.00/t; earnings RM81.81/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.44 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM81.81/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM57.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "778",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 13-17, Feb 13-15, Mar 13-20",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "13-17"
+        ],
+        [
+         "Feb",
+         "13-15"
+        ],
+        [
+         "Mar",
+         "13-20"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -437,7 +550,12 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      },
      {
       "k": "Platform check (Apr 2026)",
@@ -449,29 +567,80 @@
      {
       "k": "2026",
       "v": "No fertiliser in 2026 for fields due for replanting; tall palm fields get fertiliser on the frond heap periphery",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "No fertiliser in 2026 for fields due for replanting",
+       "Tall palm fields get fertiliser on the frond heap periphery"
+      ]
      }
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "295.10 ha done vs 295.10 ha programme to date (year programme 885.30 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "295.10 ha done vs 295.10 ha programme to date (year programme 885.30 ha): 1 round completed | 295.10 ha done vs 295.10 ha programme to date: 1 round completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "295.10 ha",
+         "295.10 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "295.10 ha",
+         "295.10 ha",
+         "1 round completed"
+        ]
+       ]
+      },
+      "note": "Year programme 885.30 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "295.10 ha done vs 295.10 ha programme to date: 1 round completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective 100/100/40%, circle 100/100/40%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1",
+         "100%",
+         "100%"
+        ],
+        [
+         "2",
+         "100%",
+         "100%"
+        ],
+        [
+         "3",
+         "40%",
+         "40%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      }
     ],
     "pests": [
@@ -493,12 +662,29 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 950 chains, planted 15 chains (1.58%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "950 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "15 chains",
+        "d": "1.58%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Ganoderma",
       "v": "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold; Ganoderma census in progress; only dry fronds to be removed",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold",
+       "Ganoderma census in progress",
+       "Only dry fronds to be removed"
+      ]
      }
     ],
     "pruning": [
@@ -510,7 +696,12 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete; minimal over-pruning; premature snapping fronds in suspected Ganoderma areas — remove only dry fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete",
+       "Minimal over-pruning",
+       "Premature snapping fronds in suspected Ganoderma areas — remove only dry fronds"
+      ]
      }
     ],
     "nutrients": [
@@ -524,7 +715,52 @@
      {
       "k": "Area and stand",
       "v": "295.10 ha, SPH 129 (PA Table 2). Agro census: 37,772 palms, SPH 128 (Last census 2024). Sub-blocks: A1 76.6, A3 42.2, A4 67.6, A5 68.0, A6 40.7 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "295.10 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "129 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "37,772 palms",
+        "d": "SPH 128"
+       }
+      ],
+      "note": "Last census 2024.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "A1",
+         "76.6 ha"
+        ],
+        [
+         "A3",
+         "42.2 ha"
+        ],
+        [
+         "A4",
+         "67.6 ha"
+        ],
+        [
+         "A5",
+         "68.0 ha"
+        ],
+        [
+         "A6",
+         "40.7 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Replanting plan",
@@ -620,29 +856,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "3.97 t/ha; FFB 959.80 t vs budget 868.00 t (variance 91.80 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "3.97 t/ha",
+        "d": "Jan–Apr 2026 · FFB 959.80 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "868.00 t",
+        "d": "variance 91.80 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 4.10 t/ha; 2026: 2.73 t/ha; difference printed -50%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "2.73 t/ha",
+        "d": "Jan–Mar 2025 4.10 · -50% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 20.04 t/ha; 2025: 17.61 t/ha; difference -14%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "17.54 vs 15.53 t/ha (-13%); average bunch weight 17.40 kg (2024) vs 16.54 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "17.54",
+         "15.53"
+        ],
+        [
+         "Bunch weight kg",
+         "17.40",
+         "16.54"
+        ]
+       ]
+      },
+      "note": "Yield change printed as -13%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 1,725; FFB 3,753.64 t; ABW 16.54 kg; bunches/palm 7.17; yield 15.53 t/ha; 2.18 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "3,753.64 t",
+        "d": "15.53 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "16.54 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "7.17"
+       },
+       {
+        "l": "Output",
+        "v": "2.18 t/man-day",
+        "d": "1,725 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -657,14 +964,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "719 harvester man-days; 1.33 t per man-day; harvesting rate RM57.00/t; earnings RM76.09/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.33 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM76.09/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM57.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "719",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 14-17, Feb 13-19, Mar 14-18",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-17"
+        ],
+        [
+         "Feb",
+         "13-19"
+        ],
+        [
+         "Mar",
+         "14-18"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -674,36 +1023,92 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      }
     ],
     "manuring": [
      {
       "k": "2026",
       "v": "No fertiliser in 2026 for fields due for replanting; tall palm fields get fertiliser on the frond heap periphery",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "No fertiliser in 2026 for fields due for replanting",
+       "Tall palm fields get fertiliser on the frond heap periphery"
+      ]
      }
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "360.00 ha done vs 241.70 ha programme to date (year programme 725.10 ha): 2nd round in progress",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "360.00 ha done vs 241.70 ha programme to date (year programme 725.10 ha): 2nd round in progress | 360.00 ha done vs 241.70 ha programme to date: 2nd round in progress",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "360.00 ha",
+         "241.70 ha",
+         "2nd round in progress"
+        ],
+        [
+         "Selective",
+         "360.00 ha",
+         "241.70 ha",
+         "2nd round in progress"
+        ]
+       ]
+      },
+      "note": "Year programme 725.10 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "360.00 ha done vs 241.70 ha programme to date: 2nd round in progress",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective 100/100/34%, circle 100/100/100%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1",
+         "100%",
+         "100%"
+        ],
+        [
+         "2",
+         "100%",
+         "100%"
+        ],
+        [
+         "3",
+         "34%",
+         "100%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      }
     ],
     "pests": [
@@ -725,7 +1130,18 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 700 chains, planted - chains (-%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "700 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "–"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Ganoderma",
@@ -742,7 +1158,12 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete; minimal over-pruning; premature snapping fronds in suspected Ganoderma areas — remove only dry fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete",
+       "Minimal over-pruning",
+       "Premature snapping fronds in suspected Ganoderma areas — remove only dry fronds"
+      ]
      }
     ],
     "nutrients": [
@@ -756,12 +1177,62 @@
      {
       "k": "Area and stand",
       "v": "241.70 ha, SPH 131 (PA Table 2). Agro census: 31,662 palms, SPH 131 (Last census 2024). Sub-blocks: B2 41.2, B3 78.2, B4 40.1, B5 41.1, B6 41.1 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "241.70 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "131 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "31,662 palms",
+        "d": "SPH 131"
+       }
+      ],
+      "note": "Last census 2024.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "B2",
+         "41.2 ha"
+        ],
+        [
+         "B3",
+         "78.2 ha"
+        ],
+        [
+         "B4",
+         "40.1 ha"
+        ],
+        [
+         "B5",
+         "41.1 ha"
+        ],
+        [
+         "B6",
+         "41.1 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Replanting plan",
       "v": "2026: B3 78.20, B4 40.10, B5 41.10 ha (felling June 2026); 2027: B2, B6 (Agro Table 5). PA calls this 'part of field P94B (159.50 ha)'",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "2026: B3 78.20, B4 40.10, B5 41.10 ha (felling June 2026)",
+       "2027: B2, B6 (Agro Table 5)",
+       "PA calls this 'part of field P94B (159.50 ha)'"
+      ]
      },
      {
       "k": "Drains",
@@ -852,29 +1323,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "5.66 t/ha; FFB 2,688.05 t vs budget 2,825.00 t (variance -136.95 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "5.66 t/ha",
+        "d": "Jan–Apr 2026 · FFB 2,688.05 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "2,825.00 t",
+        "d": "variance -136.95 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 3.60 t/ha; 2026: 3.94 t/ha; difference printed 9%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "3.94 t/ha",
+        "d": "Jan–Mar 2025 3.60 · 9% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 19.15 t/ha; 2025: 18.69 t/ha; difference -2%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "16.70 vs 15.60 t/ha (-7%); average bunch weight 16.53 kg (2024) vs 17.60 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "16.70",
+         "15.60"
+        ],
+        [
+         "Bunch weight kg",
+         "16.53",
+         "17.60"
+        ]
+       ]
+      },
+      "note": "Yield change printed as -7%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 3,118; FFB 7,405.47 t; ABW 17.60 kg; bunches/palm 6.87; yield 15.60 t/ha; 2.38 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "7,405.47 t",
+        "d": "15.60 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "17.60 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "6.87"
+       },
+       {
+        "l": "Output",
+        "v": "2.38 t/man-day",
+        "d": "3,118 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -884,14 +1426,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "1452 harvester man-days; 1.85 t per man-day; harvesting rate RM57.00/t; earnings RM105.52/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.85 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM105.52/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM57.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "1452",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 14-17, Feb 13-17, Mar 13-1 (as printed)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-17"
+        ],
+        [
+         "Feb",
+         "13-17"
+        ],
+        [
+         "Mar",
+         "13-1"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed (Mar printed '13-1')."
      },
      {
       "k": "Interval 2025",
@@ -901,7 +1485,12 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      }
     ],
     "manuring": [
@@ -913,24 +1502,71 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "474.70 ha done vs 474.70 ha programme to date (year programme 1424.10 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "474.70 ha done vs 474.70 ha programme to date (year programme 1424.10 ha): 1 round completed | 474.70 ha done vs 474.70 ha programme to date: 1 round completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "474.70 ha",
+         "474.70 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "474.70 ha",
+         "474.70 ha",
+         "1 round completed"
+        ]
+       ]
+      },
+      "note": "Year programme 1424.10 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "474.70 ha done vs 474.70 ha programme to date: 1 round completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective 100/100/25%, circle 100/100/48%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1",
+         "100%",
+         "100%"
+        ],
+        [
+         "2",
+         "100%",
+         "100%"
+        ],
+        [
+         "3",
+         "25%",
+         "48%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      }
     ],
     "pests": [
@@ -947,12 +1583,29 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 1000 chains, planted 20 chains (2.00%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "1000 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "20 chains",
+        "d": "2.00%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Ganoderma",
       "v": "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold; Ganoderma census in progress; only dry fronds to be removed",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold",
+       "Ganoderma census in progress",
+       "Only dry fronds to be removed"
+      ]
      }
     ],
     "pruning": [
@@ -964,7 +1617,12 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete; minimal over-pruning; premature snapping fronds in suspected Ganoderma areas — remove only dry fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete",
+       "Minimal over-pruning",
+       "Premature snapping fronds in suspected Ganoderma areas — remove only dry fronds"
+      ]
      },
      {
       "k": "Oct 2025",
@@ -983,7 +1641,64 @@
      {
       "k": "Area and stand",
       "v": "474.70 ha, SPH 129 (PA Table 2). Agro census: 60,761 palms, SPH 128 (Last census 2024). Sub-blocks: F1 60.3, F2 61.2, F3 60.9, F4 55.6, F5 58.6, F6 70.5, F7 65.8, F8 41.8 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "474.70 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "129 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "60,761 palms",
+        "d": "SPH 128"
+       }
+      ],
+      "note": "Last census 2024.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "F1",
+         "60.3 ha"
+        ],
+        [
+         "F2",
+         "61.2 ha"
+        ],
+        [
+         "F3",
+         "60.9 ha"
+        ],
+        [
+         "F4",
+         "55.6 ha"
+        ],
+        [
+         "F5",
+         "58.6 ha"
+        ],
+        [
+         "F6",
+         "70.5 ha"
+        ],
+        [
+         "F7",
+         "65.8 ha"
+        ],
+        [
+         "F8",
+         "41.8 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Replanting plan",
@@ -1094,29 +1809,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "6.79 t/ha; FFB 461.26 t vs budget 492.00 t (variance -30.74 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "6.79 t/ha",
+        "d": "Jan–Apr 2026 · FFB 461.26 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "492.00 t",
+        "d": "variance -30.74 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 4.48 t/ha; 2026: 4.85 t/ha; difference printed 8%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "4.85 t/ha",
+        "d": "Jan–Mar 2025 4.48 · 8% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 24.81 t/ha; 2025: 23.54 t/ha; difference -5%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "21.03 vs 19.10 t/ha (-10%); average bunch weight 18.38 kg (2024) vs 19.11 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "21.03",
+         "19.10"
+        ],
+        [
+         "Bunch weight kg",
+         "18.38",
+         "19.11"
+        ]
+       ]
+      },
+      "note": "Yield change printed as -10%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 653; FFB 1,296.77 t; ABW 19.11 kg; bunches/palm 7.46; yield 19.10 t/ha; 1.99 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "1,296.77 t",
+        "d": "19.10 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "19.11 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "7.46"
+       },
+       {
+        "l": "Output",
+        "v": "1.99 t/man-day",
+        "d": "653 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -1126,14 +1912,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "245 harvester man-days; 1.88 t per man-day; harvesting rate RM57.00/t; earnings RM107.31/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.88 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM107.31/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM57.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "245",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 14-17, Feb 12-20, Mar 12-20",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-17"
+        ],
+        [
+         "Feb",
+         "12-20"
+        ],
+        [
+         "Mar",
+         "12-20"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -1143,7 +1971,12 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      },
      {
       "k": "Nov 2025",
@@ -1160,24 +1993,66 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "67.90 ha done vs 67.90 ha programme to date (year programme 203.70 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "67.90 ha done vs 67.90 ha programme to date (year programme 203.70 ha): 1 round completed | 67.90 ha done vs 67.90 ha programme to date: 1 round completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "67.90 ha",
+         "67.90 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "67.90 ha",
+         "67.90 ha",
+         "1 round completed"
+        ]
+       ]
+      },
+      "note": "Year programme 203.70 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "67.90 ha done vs 67.90 ha programme to date: 1 round completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective 100/100%, circle 100/100%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1",
+         "100%",
+         "100%"
+        ],
+        [
+         "2",
+         "100%",
+         "100%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      },
      {
       "k": "Circle raking",
@@ -1204,12 +2079,29 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 250 chains, planted 40 chains (16.00%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "250 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "40 chains",
+        "d": "16.00%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Ganoderma",
       "v": "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold; Ganoderma census in progress; only dry fronds to be removed",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold",
+       "Ganoderma census in progress",
+       "Only dry fronds to be removed"
+      ]
      }
     ],
     "pruning": [
@@ -1221,7 +2113,12 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete; minimal over-pruning; premature snapping fronds in suspected Ganoderma areas — remove only dry fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete",
+       "Minimal over-pruning",
+       "Premature snapping fronds in suspected Ganoderma areas — remove only dry fronds"
+      ]
      },
      {
       "k": "Oct 2025",
@@ -1240,7 +2137,36 @@
      {
       "k": "Area and stand",
       "v": "67.90 ha, SPH 134 (PA Table 2). Agro census: 8,283 palms, SPH 122 (Last census 2024; 9% drop in SPH flagged in Agro 2/2025). Sub-blocks: G1 67.9 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "67.90 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "134 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "8,283 palms",
+        "d": "SPH 122"
+       }
+      ],
+      "note": "Last census 2024; 9% drop in SPH flagged in Agro 2/2025.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "G1",
+         "67.9 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Replanting plan",
@@ -1351,29 +2277,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "6.27 t/ha; FFB 42.03 t vs budget 55.00 t (variance -12.97 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "6.27 t/ha",
+        "d": "Jan–Apr 2026 · FFB 42.03 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "55.00 t",
+        "d": "variance -12.97 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 5.75 t/ha; 2026: 4.8 t/ha; difference printed -20%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "4.8 t/ha",
+        "d": "Jan–Mar 2025 5.75 · -20% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 27.57 t/ha; 2025: 29.18 t/ha; difference 6%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "23.37 vs 24.24 t/ha (4%); average bunch weight 17.81 kg (2024) vs 18.72 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "23.37",
+         "24.24"
+        ],
+        [
+         "Bunch weight kg",
+         "17.81",
+         "18.72"
+        ]
+       ]
+      },
+      "note": "Yield change printed as 4%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 79; FFB 162.40 t; ABW 18.72 kg; bunches/palm 9.88; yield 24.24 t/ha; 2.06 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "162.40 t",
+        "d": "24.24 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "18.72 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "9.88"
+       },
+       {
+        "l": "Output",
+        "v": "2.06 t/man-day",
+        "d": "79 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -1383,14 +2380,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "28 harvester man-days; 1.50 t per man-day; harvesting rate RM41.00/t; earnings RM61.54/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.50 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM61.54/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM41.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "28",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 14-17, Feb 15-16, Mar 15-16",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-17"
+        ],
+        [
+         "Feb",
+         "15-16"
+        ],
+        [
+         "Mar",
+         "15-16"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -1400,7 +2439,12 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      }
     ],
     "manuring": [
@@ -1417,24 +2461,66 @@
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "6.70 ha done vs 6.70 ha programme to date (year programme 20.10 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "6.70 ha done vs 6.70 ha programme to date (year programme 20.10 ha): 1 round completed | 6.70 ha done vs 6.70 ha programme to date: 1 round completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "6.70 ha",
+         "6.70 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "6.70 ha",
+         "6.70 ha",
+         "1 round completed"
+        ]
+       ]
+      },
+      "note": "Year programme 20.10 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "6.70 ha done vs 6.70 ha programme to date: 1 round completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective 100/100%, circle 100/100%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1",
+         "100%",
+         "100%"
+        ],
+        [
+         "2",
+         "100%",
+         "100%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      },
      {
       "k": "Circle raking",
@@ -1461,12 +2547,29 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 50 chains, planted 35 chains (70.00%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "50 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "35 chains",
+        "d": "70.00%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Ganoderma",
       "v": "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold; Ganoderma census in progress; only dry fronds to be removed",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Estate: suspected Ganoderma symptoms (unopened spears, yellowing, frond breakage) below threshold",
+       "Ganoderma census in progress",
+       "Only dry fronds to be removed"
+      ]
      }
     ],
     "pruning": [
@@ -1478,7 +2581,12 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete; minimal over-pruning; premature snapping fronds in suspected Ganoderma areas — remove only dry fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete",
+       "Minimal over-pruning",
+       "Premature snapping fronds in suspected Ganoderma areas — remove only dry fronds"
+      ]
      }
     ],
     "nutrients": [
@@ -1492,7 +2600,36 @@
      {
       "k": "Area and stand",
       "v": "6.70 ha, SPH 131 (PA Table 2). Agro census: 866 palms, SPH 130 (Last census 2024). Sub-blocks: H 6.7 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "6.70 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "131 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "866 palms",
+        "d": "SPH 130"
+       }
+      ],
+      "note": "Last census 2024.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "H",
+         "6.7 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Replanting plan",
@@ -1623,29 +2760,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "4.72 t/ha; FFB 568.40 t vs budget 754.00 t (variance -185.60 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "4.72 t/ha",
+        "d": "Jan–Apr 2026 · FFB 568.40 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "754.00 t",
+        "d": "variance -185.60 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 2.66 t/ha; 2026: 3.70 t/ha; difference printed 28%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "3.70 t/ha",
+        "d": "Jan–Mar 2025 2.66 · 28% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 12.35 t/ha; 2025: 17.14 t/ha; difference 28%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "10.09 vs 13.68 t/ha (26%); average bunch weight 5.68 kg (2024) vs 7.49 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "10.09",
+         "13.68"
+        ],
+        [
+         "Bunch weight kg",
+         "5.68",
+         "7.49"
+        ]
+       ]
+      },
+      "note": "Yield change printed as 26%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 1,411; FFB 1,645.45 t; ABW 7.49 kg; bunches/palm 13.04; yield 13.68 t/ha; 1.17 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "1,645.45 t",
+        "d": "13.68 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "7.49 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "13.04"
+       },
+       {
+        "l": "Output",
+        "v": "1.17 t/man-day",
+        "d": "1,411 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -1655,14 +2863,56 @@
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "515 harvester man-days; 1.10 t per man-day; harvesting rate RM84.00/t; earnings RM92.71/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "1.10 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM92.71/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM84.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "515",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 14-17, Feb 13-16, Mar 14-16",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-17"
+        ],
+        [
+         "Feb",
+         "13-16"
+        ],
+        [
+         "Mar",
+         "14-16"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -1672,58 +2922,131 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      },
      {
       "k": "Young mature (Apr 2026)",
       "v": "Crop recovery acceptable, no missed bunches, minimal unripe bunches at platforms. Mechanised collection could be extended to P20A/P20B (1 machine per 140 ha, 1 harvester per 24 ha)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Crop recovery acceptable, no missed bunches, minimal unripe bunches at platforms",
+       "Mechanised collection could be extended to P20A/P20B (1 machine per 140 ha, 1 harvester per 24 ha)"
+      ]
      }
     ],
     "manuring": [
      {
       "k": "Jan and Apr Mix B",
       "v": "Estate mature Mix B: Jan 97.85 t completed; Apr 97.85 t delivered, 33.65 t applied (in progress) — PA Table 11. Agro 1/2026 (16 Apr): April Mix B pending, under 1 month late, due to late delivery",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate mature Mix B: Jan 97.85 t completed",
+       "Apr 97.85 t delivered, 33.65 t applied (in progress) — PA Table 11",
+       "Agro 1/2026 (16 Apr): April Mix B pending, under 1 month late, due to late delivery"
+      ]
      },
      {
       "k": "Method",
       "v": "Broadcast within the palm circle for better supervision; avoid terrace lips (leaching) and heavy-rain periods in low-lying areas",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Broadcast within the palm circle for better supervision",
+       "Avoid terrace lips (leaching) and heavy-rain periods in low-lying areas"
+      ]
      }
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "120.30 ha done vs 240.60 ha programme to date (year programme 601.50 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "120.30 ha done vs 240.60 ha programme to date (year programme 601.50 ha): 1 round completed | 198.40 ha done vs 240.60 ha programme to date: 2 rounds completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "120.30 ha",
+         "240.60 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "198.40 ha",
+         "240.60 ha",
+         "2 rounds completed"
+        ]
+       ]
+      },
+      "note": "Year programme 601.50 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "198.40 ha done vs 240.60 ha programme to date: 2 rounds completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective rounds 1–3 100%, round 4 63%; circle 1–3 100%, round 4 36%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1–3",
+         "100%",
+         "100%"
+        ],
+        [
+         "4",
+         "63%",
+         "36%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      },
      {
       "k": "Young mature weeds",
       "v": "Delay in circle and inter-row weeding; regrowth where rounds incomplete; Clidemia hirta, Asystasia and grasses in inter-terrace zones; keep soft grasses and Nephrolepis; avoid over-spraying",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Delay in circle and inter-row weeding",
+       "Regrowth where rounds incomplete",
+       "Clidemia hirta, Asystasia and grasses in inter-terrace zones",
+       "Keep soft grasses and Nephrolepis",
+       "Avoid over-spraying"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Mar 2026",
       "v": "10% — approaching threshold; baiting required (Agro, 16 Apr: awaiting rodenticide; one round then census after one month, campaign baiting if still above threshold)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "10%, approaching threshold; baiting required",
+       "Agro, 16 Apr: awaiting rodenticide",
+       "One round, then census after one month",
+       "Campaign baiting if still above threshold"
+      ]
      },
      {
       "k": "Rat baiting (to Apr 2026)",
@@ -1738,7 +3061,19 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 700 chains, planted 37 chains (5.29%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "700 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "37 chains",
+        "d": "5.29%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Other pests",
@@ -1755,26 +3090,101 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete (Agro Table 14); some palms slightly over-pruned; frond stacking not yet to standard (U-shape) but re-stacking not recommended",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete (Agro Table 14)",
+       "Some palms slightly over-pruned",
+       "Frond stacking not yet to standard (U-shape) but re-stacking not recommended"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Symptoms Apr 2026",
       "v": "Leaf yellowing on older fronds in low-lying sections hit by flash floods; Mg deficiency in scattered terrace areas (photos 17–18), possibly leaching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Leaf yellowing on older fronds in low-lying sections hit by flash floods",
+       "Mg deficiency in scattered terrace areas (photos 17–18), possibly leaching"
+      ]
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "120.30 ha, SPH 140 (PA Table 2). Agro census: 16,842 palms, SPH 140 (Last census 2021). Sub-blocks: A1 43.3, A2 34.8, A3 42.2 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "120.30 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "140 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "16,842 palms",
+        "d": "SPH 140"
+       }
+      ],
+      "note": "Last census 2021.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "A1",
+         "43.3 ha"
+        ],
+        [
+         "A2",
+         "34.8 ha"
+        ],
+        [
+         "A3",
+         "42.2 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Supplying",
       "v": "Agro records P20A: 2019 552; 2020 698; 2021 1,474; 2022 279; 2024 49 — total 3,052 palms",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "Palms supplied"
+       ],
+       "rows": [
+        [
+         "2019",
+         "552"
+        ],
+        [
+         "2020",
+         "698"
+        ],
+        [
+         "2021",
+         "1,474"
+        ],
+        [
+         "2022",
+         "279"
+        ],
+        [
+         "2024",
+         "49"
+        ]
+       ]
+      },
+      "note": "Total 3,052 palms (Agro records)."
      }
     ],
     "fertNow": {
@@ -1910,29 +3320,100 @@
    "detail": {
     "yield": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Yield Jan–Apr 2026",
       "v": "2.88 t/ha; FFB 588.22 t vs budget 1,043.00 t (variance -454.78 t). Estate mature: 6,558.60 t, 4.65 t/ha vs 8,203.00 t, 5.29 t/ha budget; Jan–Apr 2025 9,113.84 t, 5.13 t/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "2.88 t/ha",
+        "d": "Jan–Apr 2026 · FFB 588.22 t"
+       },
+       {
+        "l": "Block budget",
+        "v": "1,043.00 t",
+        "d": "variance -454.78 t"
+       },
+       {
+        "l": "Estate mature",
+        "v": "4.65 t/ha",
+        "d": "budget 5.29 · 5.13 in Jan–Apr 2025"
+       }
+      ],
+      "note": "Estate mature 6,558.60 t vs budget 8,203.00 t (Jan–Apr 2025 9,113.84 t)."
      },
      {
       "k": "Jan–Mar 2026 vs Jan–Mar 2025",
       "v": "2025: 1.32 t/ha; 2026: 2.10 t/ha; difference printed 37%. Estate 3.38 vs 3.25 t/ha (-4%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block 2026",
+        "v": "2.10 t/ha",
+        "d": "Jan–Mar 2025 1.32 · 37% (printed)"
+       },
+       {
+        "l": "Estate 2026",
+        "v": "3.38 t/ha",
+        "d": "Jan–Mar 2025 3.25 · -4%"
+       }
+      ]
      },
      {
       "k": "2025 vs 2024 (12 periods)",
       "v": "2024: 7.49 t/ha; 2025: 13.04 t/ha; difference 43%. Estate 18.87 vs 17.68 (-7%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
-      "k": "Jan–Oct 2025 vs Jan–Oct 2024",
+      "k": "Jan–Oct 2024 vs 2025",
       "v": "5.84 vs 10.51 t/ha (44%); average bunch weight 3.25 kg (2024) vs 5.44 kg (2025)",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Item",
+        "Jan–Oct 2024",
+        "Jan–Oct 2025"
+       ],
+       "rows": [
+        [
+         "Yield t/ha",
+         "5.84",
+         "10.51"
+        ],
+        [
+         "Bunch weight kg",
+         "3.25",
+         "5.44"
+        ]
+       ]
+      },
+      "note": "Yield change printed as 44%."
      },
      {
-      "k": "Jan–Oct 2025 field record",
+      "k": "Field record Jan–Oct 2025",
       "v": "Rounds 20.00; harvester man-days 2,337; FFB 2,144.15 t; ABW 5.44 kg; bunches/palm 13.80; yield 10.51 t/ha; 0.92 t per harvester-day",
-      "src": "PA 2/2025"
+      "src": "PA 2/2025",
+      "stats": [
+       {
+        "l": "FFB",
+        "v": "2,144.15 t",
+        "d": "10.51 t/ha · 20.00 rounds"
+       },
+       {
+        "l": "Bunch weight",
+        "v": "5.44 kg"
+       },
+       {
+        "l": "Bunches/palm",
+        "v": "13.80"
+       },
+       {
+        "l": "Output",
+        "v": "0.92 t/man-day",
+        "d": "2,337 man-days"
+       }
+      ]
      },
      {
       "k": "Jan–May 2024 vs Jan–May 2025",
@@ -1942,19 +3423,66 @@
      {
       "k": "Comment",
       "v": "Yield needs special attention: check productive palm density, bunch number and bunch weight (PA 8.3); P20 yield below potential because supplying exceeded 20% after floods in immaturity (Agro 2/2025 7.3)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Yield needs special attention: check productive palm density",
+       "Bunch number and bunch weight (PA 8.3)",
+       "P20 yield below potential because supplying exceeded 20% after floods in immaturity (Agro 2/2025 7.3)"
+      ]
      }
     ],
     "harvesting": [
      {
-      "k": "Jan–Apr 2026",
+      "k": "Harvesting Jan–Apr 2026",
       "v": "712 harvester man-days; 0.83 t per man-day; harvesting rate RM84.00/t; earnings RM69.40/day. Estate: 8.00 rounds, 15-day interval, average 1.44 t/man-day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "0.83 t/man-day",
+        "d": "estate avg 1.44"
+       },
+       {
+        "l": "Earnings",
+        "v": "RM69.40/day"
+       },
+       {
+        "l": "Rate",
+        "v": "RM84.00/t"
+       },
+       {
+        "l": "Man-days",
+        "v": "712",
+        "d": "Jan–Apr 2026"
+       }
+      ],
+      "note": "Estate: 8.00 rounds, 15-day interval."
      },
      {
       "k": "Interval Jan–Mar 2026 (days)",
       "v": "Jan 15-18, Feb 12-16, Mar 13-17",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval days"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "15-18"
+        ],
+        [
+         "Feb",
+         "12-16"
+        ],
+        [
+         "Mar",
+         "13-17"
+        ]
+       ]
+      },
+      "note": "Interval days, as printed."
      },
      {
       "k": "Interval 2025",
@@ -1964,58 +3492,131 @@
      {
       "k": "Quality (May 2026)",
       "v": "Estate: no ripe bunches left, loose fruit recovery satisfactory, over 95% ripe bunches at grading; fronds trimmed close and stacked in inter-row",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate: no ripe bunches left, loose fruit recovery satisfactory",
+       "Over 95% ripe bunches at grading",
+       "Fronds trimmed close and stacked in inter-row"
+      ]
      },
      {
       "k": "Young mature (Apr 2026)",
       "v": "Crop recovery acceptable, no missed bunches, minimal unripe bunches at platforms. Mechanised collection could be extended to P20A/P20B (1 machine per 140 ha, 1 harvester per 24 ha)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Crop recovery acceptable, no missed bunches, minimal unripe bunches at platforms",
+       "Mechanised collection could be extended to P20A/P20B (1 machine per 140 ha, 1 harvester per 24 ha)"
+      ]
      }
     ],
     "manuring": [
      {
       "k": "Jan and Apr Mix B",
       "v": "Estate mature Mix B: Jan 97.85 t completed; Apr 97.85 t delivered, 33.65 t applied (in progress) — PA Table 11. Agro 1/2026 (16 Apr): April Mix B pending, under 1 month late, due to late delivery",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Estate mature Mix B: Jan 97.85 t completed",
+       "Apr 97.85 t delivered, 33.65 t applied (in progress) — PA Table 11",
+       "Agro 1/2026 (16 Apr): April Mix B pending, under 1 month late, due to late delivery"
+      ]
      },
      {
       "k": "Method",
       "v": "Broadcast within the palm circle for better supervision; avoid terrace lips (leaching) and heavy-rain periods in low-lying areas",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Broadcast within the palm circle for better supervision",
+       "Avoid terrace lips (leaching) and heavy-rain periods in low-lying areas"
+      ]
      }
     ],
     "spraying": [
      {
-      "k": "Circle spraying (Apr 2026)",
-      "v": "229.80 ha done vs 458.40 ha programme to date (year programme 1,146.00 ha): 1 round completed",
-      "src": "PA 1/2026"
+      "k": "Spraying Jan–Apr 2026",
+      "v": "229.80 ha done vs 458.40 ha programme to date (year programme 1,146.00 ha): 1 round completed | 341.10 ha done vs 458.40 ha programme to date: 2 rounds completed",
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Type",
+        "Done",
+        "Programme to date",
+        "Status"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "229.80 ha",
+         "458.40 ha",
+         "1 round completed"
+        ],
+        [
+         "Selective",
+         "341.10 ha",
+         "458.40 ha",
+         "2 rounds completed"
+        ]
+       ]
+      },
+      "note": "Year programme 1,146.00 ha."
      },
      {
-      "k": "Selective spraying (Apr 2026)",
-      "v": "341.10 ha done vs 458.40 ha programme to date: 2 rounds completed",
-      "src": "PA 1/2026"
-     },
-     {
-      "k": "2025 rounds (Oct 2025)",
+      "k": "Weeding rounds 2025 (to Oct 2025)",
       "v": "selective rounds 1–3 100%, round 4 46%; circle 1–3 100%, round 4 50%",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Round",
+        "Selective",
+        "Circle"
+       ],
+       "rows": [
+        [
+         "1–3",
+         "100%",
+         "100%"
+        ],
+        [
+         "4",
+         "46%",
+         "50%"
+        ]
+       ]
+      }
      },
      {
       "k": "Quality",
       "v": "Spraying acceptable; isolated over- and missed spraying; VOPs, lalang and Clidemia not significant (old mature). Circle spraying to stay within 2 m, not on paths; roto-slasher for tall grass on harvester paths",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Acceptable; isolated over- and missed spraying",
+       "VOPs, lalang and Clidemia not significant (old mature)",
+       "Circle spraying within 2 m, not on paths; roto-slasher for tall grass on harvester paths"
+      ]
      },
      {
       "k": "Young mature weeds",
       "v": "Delay in circle and inter-row weeding; regrowth where rounds incomplete; Clidemia hirta, Asystasia and grasses in inter-terrace zones; keep soft grasses and Nephrolepis; avoid over-spraying",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Delay in circle and inter-row weeding",
+       "Regrowth where rounds incomplete",
+       "Clidemia hirta, Asystasia and grasses in inter-terrace zones",
+       "Keep soft grasses and Nephrolepis",
+       "Avoid over-spraying"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Mar 2026",
       "v": "10% — approaching threshold; baiting required (Agro, 16 Apr: awaiting rodenticide; one round then census after one month, campaign baiting if still above threshold)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "10%, approaching threshold; baiting required",
+       "Agro, 16 Apr: awaiting rodenticide",
+       "One round, then census after one month",
+       "Campaign baiting if still above threshold"
+      ]
      },
      {
       "k": "Rat baiting (to Apr 2026)",
@@ -2030,7 +3631,19 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 900 chains, planted 40 chains (4.44%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "900 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "40 chains",
+        "d": "4.44%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      },
      {
       "k": "Other pests",
@@ -2047,31 +3660,130 @@
      {
       "k": "Status Mar 2026",
       "v": "100% complete (Agro Table 14); some palms slightly over-pruned; frond stacking not yet to standard (U-shape) but re-stacking not recommended",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "100% complete (Agro Table 14)",
+       "Some palms slightly over-pruned",
+       "Frond stacking not yet to standard (U-shape) but re-stacking not recommended"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Symptoms Apr 2026",
       "v": "Leaf yellowing on older fronds in low-lying sections hit by flash floods; Mg deficiency in scattered terrace areas (photos 17–18), possibly leaching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Leaf yellowing on older fronds in low-lying sections hit by flash floods",
+       "Mg deficiency in scattered terrace areas (photos 17–18), possibly leaching"
+      ]
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "204.10 ha, SPH 140 (PA Table 2). Agro census: 32,088 palms, SPH 140 (Last census 2021). Sub-blocks: B1 54.1, B2 47.8, B3 40.1, B4 21.4, B5 40.7 ha, plus 25.10 ha supply bund",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "204.10 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "140 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "32,088 palms",
+        "d": "SPH 140"
+       }
+      ],
+      "note": "Last census 2021.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "B1",
+         "54.1 ha"
+        ],
+        [
+         "B2",
+         "47.8 ha"
+        ],
+        [
+         "B3",
+         "40.1 ha"
+        ],
+        [
+         "B4",
+         "21.4 ha"
+        ],
+        [
+         "B5",
+         "40.7 ha"
+        ],
+        [
+         "Supply bund",
+         "25.10 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Supplying",
       "v": "1,500 palms supplied in 2026 on the 25.10 ha bund area where floods killed palms (PA); Agro supply records P20B: 2021 1,546; 2022 1,493; 2023 1,588; 2024 2,146; 2025 849; 2026 800 — total 8,422",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "Palms supplied"
+       ],
+       "rows": [
+        [
+         "2021",
+         "1,546"
+        ],
+        [
+         "2022",
+         "1,493"
+        ],
+        [
+         "2023",
+         "1,588"
+        ],
+        [
+         "2024",
+         "2,146"
+        ],
+        [
+         "2025",
+         "849"
+        ],
+        [
+         "2026",
+         "800"
+        ]
+       ]
+      },
+      "pts": [
+       "1,500 palms supplied in 2026 on the 25.10 ha bund",
+       "Floods killed palms in the bund area (PA)"
+      ],
+      "note": "Agro supply records P20B, total 8,422 palms."
      },
      {
       "k": "Drains and bund",
       "v": "Bund raised above critical flood level and drains built before supplying; sterile palms to be thinned and supplied (photos 9–10)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Bund raised above critical flood level and drains built before supplying",
+       "Sterile palms to be thinned and supplied (photos 9–10)"
+      ]
      }
     ],
     "fertNow": {
@@ -2209,7 +3921,12 @@
      {
       "k": "Status Apr 2026",
       "v": "Scout harvesting started June 2025; maturity scheduled January 2027 because of uneven growth, mainly of supply palms (PA intro says maturity was extended to January 2026)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Scout harvesting started June 2025",
+       "Maturity scheduled January 2027 because of uneven growth",
+       "Mainly of supply palms (PA intro says maturity was extended to January 2026)"
+      ]
      },
      {
       "k": "Cost to maturity",
@@ -2265,14 +3982,63 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 1200 chains, planted 36 chains (3.00%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "1200 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "36 chains",
+        "d": "3.00%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "108.20 ha, SPH 140 (PA Table 2). Agro census: 14,715 palms, SPH 136 (Last census 2023). Sub-blocks: C1 20.3, C2 45.4, C3 42.5 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "108.20 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "140 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "14,715 palms",
+        "d": "SPH 136"
+       }
+      ],
+      "note": "Last census 2023.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "C1",
+         "20.3 ha"
+        ],
+        [
+         "C2",
+         "45.4 ha"
+        ],
+        [
+         "C3",
+         "42.5 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Supplying",
@@ -2287,7 +4053,12 @@
      {
       "k": "Canopy",
       "v": "Good canopy and colour; keep canopy during scout harvesting, no excessive frond removal; sporadic basal pruning need seen in 2025",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Good canopy and colour",
+       "Keep canopy during scout harvesting, no excessive frond removal",
+       "Sporadic basal pruning need seen in 2025"
+      ]
      },
      {
       "k": "Nutrients",
@@ -2416,12 +4187,27 @@
      {
       "k": "Ablation (Agro)",
       "v": "Agro 1/2026 says three rounds of ablation are allocated this year as the block enters Year 3, and ablation had commenced at the April visit",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Agro 1/2026 says three rounds of ablation are allocated this year as the block enters Year 3",
+       "And ablation had commenced at the April visit"
+      ]
      },
      {
       "k": "Cost to maturity",
       "v": "RM16,348.56/ha to date excluding general charges; Nov 2025 RM15,375.49/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Apr 2026",
+        "v": "RM16,348.56/ha"
+       },
+       {
+        "l": "Nov 2025",
+        "v": "RM15,375.49/ha"
+       }
+      ],
+      "note": "Cost to maturity, excluding general charges."
      }
     ],
     "spraying": [
@@ -2440,7 +4226,11 @@
      {
       "k": "2026 to Apr",
       "v": "Compound B application completed per schedule (PA 11.2.3). Agro Table 6: Compound B 59.0 t programme, 26.8 t applied, printed 100%",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Compound B application completed per schedule (PA 11.2.3)",
+       "Agro Table 6: Compound B 59.0 t programme, 26.8 t applied, printed 100%"
+      ]
      }
     ],
     "pests": [
@@ -2462,14 +4252,67 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 1500 chains, planted 47 chains (3.23%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "1500 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "47 chains",
+        "d": "3.23%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "181.40 ha, SPH 143 (PA Table 2). Agro census: 25,758 palms, SPH 142 (Last census 2023). Sub-blocks: D1 51.8, D2 41.9, D3 47.1, D4 40.6 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "181.40 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "143 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "25,758 palms",
+        "d": "SPH 142"
+       }
+      ],
+      "note": "Last census 2023.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "D1",
+         "51.8 ha"
+        ],
+        [
+         "D2",
+         "41.9 ha"
+        ],
+        [
+         "D3",
+         "47.1 ha"
+        ],
+        [
+         "D4",
+         "40.6 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Supplying",
@@ -2586,7 +4429,18 @@
      {
       "k": "Cost to maturity",
       "v": "RM12,532.53/ha excluding general charges; Nov 2025 RM11,255.43/ha",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Apr 2026",
+        "v": "RM12,532.53/ha"
+       },
+       {
+        "l": "Nov 2025",
+        "v": "RM11,255.43/ha"
+       }
+      ],
+      "note": "Cost to maturity, excluding general charges."
      },
      {
       "k": "Planting",
@@ -2632,14 +4486,59 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 1000 chains, planted 50 chains (5.00%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "1000 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "50 chains",
+        "d": "5.00%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "212.60 ha, SPH 143 (PA Table 2). Agro census: 30,189 palms, SPH 142 (Census 2025). Sub-blocks: E1 109.7, E2 102.9 ha",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "212.60 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "143 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "30,189 palms",
+        "d": "SPH 142"
+       }
+      ],
+      "note": "Census 2025.",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Area"
+       ],
+       "rows": [
+        [
+         "E1",
+         "109.7 ha"
+        ],
+        [
+         "E2",
+         "102.9 ha"
+        ]
+       ]
+      }
      },
      {
       "k": "Cover crop",
@@ -2773,17 +4672,86 @@
      {
       "k": "Planting",
       "v": "30,380 Yangambi DxP seedlings planted; infilling to reach 140 palms/ha; density lower because of roads and terraces",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "30,380 Yangambi DxP seedlings planted",
+       "Infilling to reach 140 palms/ha",
+       "Density lower because of roads and terraces"
+      ]
      },
      {
       "k": "Works",
       "v": "3,150 chains of 16 ft terraces; 2,000 chains road; 2,865 chains path levelling; 500 chains drains desilted",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Work",
+        "Chains"
+       ],
+       "rows": [
+        [
+         "Terraces (16 ft)",
+         "3,150"
+        ],
+        [
+         "Road",
+         "2,000"
+        ],
+        [
+         "Path levelling",
+         "2,865"
+        ],
+        [
+         "Drains desilted",
+         "500"
+        ]
+       ]
+      }
      },
      {
-      "k": "Agro progress (Apr 2026)",
+      "k": "Replanting progress Apr 2026",
       "v": "Felling 100%; pre-maintenance spray 100%; legume 85%; road (14 ft) 38%; terraces 63%; palm planting 87% (30,190 palms); EFB 70%. Some stress from low rainfall, no casualties (Agro section 6, titled 'Replanting March 2026 – P25F & FTR 235.20 ha')",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Task",
+        "Done"
+       ],
+       "rows": [
+        [
+         "Felling",
+         "100%"
+        ],
+        [
+         "Pre-maintenance spray",
+         "100%"
+        ],
+        [
+         "Legume",
+         "85%"
+        ],
+        [
+         "Road (14 ft)",
+         "38%"
+        ],
+        [
+         "Terraces",
+         "63%"
+        ],
+        [
+         "Palm planting",
+         "87% (30,190 palms)"
+        ],
+        [
+         "EFB",
+         "70%"
+        ]
+       ]
+      },
+      "pts": [
+       "Some stress from low rainfall, no casualties",
+       "Agro section 6 titled 'Replanting March 2026 – P25F & FTR 235.20 ha'"
+      ]
      },
      {
       "k": "Cost",
@@ -2795,7 +4763,11 @@
      {
       "k": "Weeding",
       "v": "3 rounds of circle and 3 rounds of selective spraying completed; Mucuna bracteata on about 220 ha and spreading",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "3 rounds of circle and 3 rounds of selective spraying completed",
+       "Mucuna bracteata on about 220 ha and spreading"
+      ]
      },
      {
       "k": "Agro table",
@@ -2824,14 +4796,46 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 1000 chains, planted 46 chains (4.60%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "1000 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "46 chains",
+        "d": "4.60%"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      }
     ],
     "field": [
      {
       "k": "Area and stand",
       "v": "235.20 ha, SPH 143 (PA Table 2). Agro census: 28,621 + 1,485 (TR) palms, SPH 128 (Planting in progress). Sub-blocks: 223.6 ha + 11.6 ha (TR)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "235.20 ha"
+       },
+       {
+        "l": "Stand",
+        "v": "143 SPH",
+        "d": "PA Table 2"
+       },
+       {
+        "l": "Agro census",
+        "v": "28,621 + 1,485 (TR) palms",
+        "d": "SPH 128"
+       }
+      ],
+      "note": "Planting in progress.",
+      "pts": [
+       "Sub-blocks: 223.6 ha + 11.6 ha (TR)"
+      ]
      },
      {
       "k": "EFB",
@@ -2901,7 +4905,13 @@
      {
       "k": "Replanting (ex-P93C)",
       "v": "Land preparation Jan–Feb 2026; design 148 palms/ha; 6,902 Yangambi DxP seedlings from Dawn nursery planted by April, ahead of schedule; completion June 2026 (section 12) or August 2026 (concluding remarks)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Land preparation Jan–Feb 2026",
+       "Design 148 palms/ha",
+       "6,902 Yangambi DxP seedlings from Dawn nursery planted by April, ahead of schedule",
+       "Completion June 2026 (section 12) or August 2026 (concluding remarks)"
+      ]
      },
      {
       "k": "Works",
@@ -2954,7 +4964,18 @@
      {
       "k": "Beneficial plants (Apr 2026)",
       "v": "Programme 750 chains, planted - chains (-%). Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Programme",
+        "v": "750 chains"
+       },
+       {
+        "l": "Planted",
+        "v": "–"
+       }
+      ],
+      "note": "Mainly Turnera subulata; add Cassia cobanensis and Antigonon leptopus 60:20:20"
      }
     ],
     "fertNow": {
@@ -3002,68 +5023,350 @@
    {
     "k": "Mature programme to Apr 2026",
     "v": "Jan Mix B 97.85 t and NK2 1.75 t completed; Feb NK2 175.80 t completed; Apr Mix B 97.85 t (33.65 applied, in progress); May NK2 1.75 t. Total 375.00 t required, 373.25 delivered, 309.05 applied — in line with schedule. Mature requirement is lower because tall palm fields are to be replanted in the next 2 years",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Required",
+      "v": "375.00 t"
+     },
+     {
+      "l": "Delivered",
+      "v": "373.25 t"
+     },
+     {
+      "l": "Applied",
+      "v": "309.05 t"
+     }
+    ],
+    "tbl": {
+     "cols": [
+      "Month",
+      "Product",
+      "Qty",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Jan",
+       "Mix B",
+       "97.85 t",
+       "Completed"
+      ],
+      [
+       "Jan",
+       "NK2",
+       "1.75 t",
+       "Completed"
+      ],
+      [
+       "Feb",
+       "NK2",
+       "175.80 t",
+       "Completed"
+      ],
+      [
+       "Apr",
+       "Mix B",
+       "97.85 t",
+       "33.65 t applied"
+      ],
+      [
+       "May",
+       "NK2",
+       "1.75 t",
+       "–"
+      ]
+     ]
+    },
+    "note": "In line with schedule. Mature requirement lower: tall palm fields to be replanted in next 2 years."
    },
    {
     "k": "Agro view as at Mar/Apr 2026",
     "v": "Mature: NK2 177.55 t programme, 177.7 applied (100%); Mix B 195.7 t, 97.85 applied (50%); total 74%. Immature: Mix B 45.5 t, 22.75 (50%); Compound A 25.2 (100%); RP 47.2 t not started; Compound B 59.0, 26.8 applied; total 42%. April round not started due to late delivery",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Mature total",
+      "v": "74%"
+     },
+     {
+      "l": "Immature total",
+      "v": "42%"
+     }
+    ],
+    "tbl": {
+     "cols": [
+      "Group · product",
+      "Programme",
+      "Applied"
+     ],
+     "rows": [
+      [
+       "Mature NK2",
+       "177.55 t",
+       "177.7 t (100%)"
+      ],
+      [
+       "Mature Mix B",
+       "195.7 t",
+       "97.85 t (50%)"
+      ],
+      [
+       "Immature Mix B",
+       "45.5 t",
+       "22.75 t (50%)"
+      ],
+      [
+       "Immature Compound A",
+       "–",
+       "25.2 t (100%)"
+      ],
+      [
+       "Immature RP",
+       "47.2 t",
+       "Not started"
+      ],
+      [
+       "Immature Compound B",
+       "59.0 t",
+       "26.8 t"
+      ]
+     ]
+    },
+    "note": "Mar/Apr 2026. April round not started due to late delivery."
    },
    {
     "k": "Productivity",
     "v": "Semi-mechanised (MB with fibreglass bucket): above 2.50 kg/palm 35 bags/day, RM2.20/bag, RM77.00/day; below 2.50 kg 30 bags/day, RM2.50/bag, RM75.00/day. Manuring cost RM254.77/ha, 5% below budget",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Palm dose",
+      "Output",
+      "Rate",
+      "Pay"
+     ],
+     "rows": [
+      [
+       "Above 2.50 kg",
+       "35 bags/day",
+       "RM2.20/bag",
+       "RM77.00/day"
+      ],
+      [
+       "Below 2.50 kg",
+       "30 bags/day",
+       "RM2.50/bag",
+       "RM75.00/day"
+      ]
+     ]
+    },
+    "stats": [
+     {
+      "l": "Manuring cost",
+      "v": "RM254.77/ha",
+      "d": "5% below budget"
+     }
+    ],
+    "note": "Semi-mechanised (MB with fibreglass bucket)."
    },
    {
     "k": "Fertiliser store",
     "v": "Store partly open to rain, wet floor — risk of caking; torn bags and spillage at unloading (Apr 2026). Nov 2025: Mix B hardening and some fertiliser stored in the car park unshaded",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Apr 2026: store partly open to rain, wet floor, risk of caking",
+     "Torn bags and spillage at unloading",
+     "Nov 2025: Mix B hardening; some fertiliser in car park, unshaded"
+    ]
    },
    {
     "k": "2025 result",
     "v": "As at Oct 2025: NK2 537.10 t (100%), Mix B 348.75 of 429.60 (81%), Compound 25 78.85 of 107.15 (74%), CIRP 112.65 of 224.00 (50%), Compound 44 26.85 of 59.05 (45%); total 1,104.20 of 1,356.90 t (81%). PA: 2025 programme completed early December",
-    "src": "Agro 2/2025"
+    "src": "Agro 2/2025",
+    "tbl": {
+     "cols": [
+      "Product",
+      "Applied",
+      "Programme",
+      "%"
+     ],
+     "rows": [
+      [
+       "NK2",
+       "537.10 t",
+       "–",
+       "100%"
+      ],
+      [
+       "Mix B",
+       "348.75 t",
+       "429.60 t",
+       "81%"
+      ],
+      [
+       "Compound 25",
+       "78.85 t",
+       "107.15 t",
+       "74%"
+      ],
+      [
+       "CIRP",
+       "112.65 t",
+       "224.00 t",
+       "50%"
+      ],
+      [
+       "Compound 44",
+       "26.85 t",
+       "59.05 t",
+       "45%"
+      ],
+      [
+       "Total",
+       "1,104.20 t",
+       "1,356.90 t",
+       "81%"
+      ]
+     ]
+    },
+    "note": "As at Oct 2025. PA: 2025 programme completed early December."
    }
   ],
   "spraying": [
    {
     "k": "Totals Jan–Apr 2026",
     "v": "Circle 1,656.10 ha done vs 1,926.40 ha programme to date (year 5,429.70); selective 1,845.50 ha vs 1,926.40. Sprayers 5.00 ha/day, circle RM14.00/ha (RM70.00/day, CDA), selective RM15.00/ha (RM75.00/day, mist blower). Weeding RM90.89/ha, 12% below budget",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Circle done",
+      "v": "1,656.10 ha",
+      "d": "programme to date 1,926.40"
+     },
+     {
+      "l": "Selective done",
+      "v": "1,845.50 ha",
+      "d": "programme to date 1,926.40"
+     },
+     {
+      "l": "Year programme",
+      "v": "5,429.70 ha"
+     },
+     {
+      "l": "Weeding cost",
+      "v": "RM90.89/ha",
+      "d": "12% below budget"
+     }
+    ],
+    "tbl": {
+     "cols": [
+      "Sprayer",
+      "Output",
+      "Cost",
+      "Kit"
+     ],
+     "rows": [
+      [
+       "Circle",
+       "5.00 ha/day",
+       "RM14.00/ha",
+       "CDA"
+      ],
+      [
+       "Selective",
+       "5.00 ha/day",
+       "RM15.00/ha",
+       "Mist blower"
+      ]
+     ]
+    },
+    "note": "Jan–Apr 2026. Day rates RM70.00 (circle), RM75.00 (selective)."
    },
    {
     "k": "Labour",
     "v": "Weeding workers 27 vs 39 required (-12)",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Weeding workers",
+      "v": "27",
+      "d": "required 39 (-12)"
+     }
+    ]
    }
   ],
   "pests": [
    {
     "k": "Estate",
     "v": "No significant pests; quarterly rat and bagworm census; 160 barn owl nests (1 per 14 ha), 98% occupied (PA). Agro prints 83% occupancy with 80 of 160 occupied (its rows sum to 156). P&D cost RM9.76/ha vs RM31.88 budget",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Barn owl nests",
+      "v": "160",
+      "d": "1 per 14 ha · 98% occupied (PA)"
+     },
+     {
+      "l": "P&D cost",
+      "v": "RM9.76/ha",
+      "d": "budget RM31.88"
+     }
+    ],
+    "pts": [
+     "No significant pests; quarterly rat and bagworm census",
+     "Agro prints 83% occupancy, 80 of 160 occupied (its rows sum to 156)"
+    ]
    },
    {
     "k": "Ganoderma",
     "v": "Cultural control: deboling fallen stumps, exposing to sun, shredding at replanting; Ganoderma census needed in tall palm fields (raised in Agro 1/2025, 2/2025)",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "pts": [
+     "Cultural control: deboling fallen stumps, exposing to sun, shredding at replanting",
+     "Ganoderma census needed in tall palm fields (raised in Agro 1/2025, 2/2025)"
+    ]
    }
   ],
   "field": [
    {
     "k": "Roads",
     "v": "Good and passable; work concentrated near replanting/immature fields; scaled back due to fuel prices; check after rain for scupper drains and sumps; laterite on soggy, slippery stretches. Roads cost RM41.14/ha, 38% below budget",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Roads cost",
+      "v": "RM41.14/ha",
+      "d": "38% below budget"
+     }
+    ],
+    "pts": [
+     "Good and passable; work concentrated near replanting/immature fields",
+     "Scaled back due to fuel prices",
+     "Check scupper drains and sumps after rain; laterite on soggy stretches"
+    ]
    },
    {
     "k": "Drains",
     "v": "Major drainage and bund raising in P20B (drains RM29.89/ha, 93% over budget)",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Drains cost",
+      "v": "RM29.89/ha",
+      "d": "93% over budget"
+     }
+    ],
+    "note": "Major drainage and bund raising in P20B."
    },
    {
     "k": "Boundary",
     "v": "Trenches and roads good along tapping-rights areas, smallholders, private estates and jungle; patrols in place; boundary markers to be displayed",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "pts": [
+     "Trenches and roads good along tapping-rights areas, smallholders, private estates, jungle",
+     "Patrols in place; boundary markers to be displayed"
+    ]
    }
   ]
  },
