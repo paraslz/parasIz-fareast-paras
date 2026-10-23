@@ -43,6 +43,20 @@ RAINFALL (Agro). 2021 1,898 mm/109 days; 2022 2,270/147; 2023 2,596.5/131; 2024 
 
 KEY ACTIONS. Clear the P01A/P02B pruning backlog; circle raking; VOP task force; runt thinning; drone and Ganoderma census; post-baiting rat census in P08L and P14E; EFB spread evenly to poor soils; fix fertiliser store and supplier delays; keep harvesting intervals as crop rises; road grading and lateriting early in the year.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Pruning backlog in tall P01A, P02B: P01A and P02B only 73% of the pruning programme by Jun 2026, about 180 ha outstanding (few skilled tall-palm pruners); excess fronds hamper harvesting. (Agro 2/2026 · PA 1/2026)
+2. Rat damage above threshold: 2026 census 11-23% vs 10% threshold; P14E 23% and P08L 21-22% (Feb/Jun 2026). P01A and P02B not baited in 2025-2026. (Agro 2/2026)
+3. Old, tall palms in P01A and P02B: 37% of area over 20 years old. P01A 21.04 t/ha in 2025 vs 22.22 in 2024; replanting deferred to 2028/2029. (Agro 2/2026 · PA 1/2026 s.2.6)
+4. Magnesium deficiency: Leaf Mg below range, mean 0.23 (Apr 2026), worst in prime areas: H2 0.16, H3 0.18, L2 0.19, C3 0.19. Possible K deficiency on sandy soil in P10G. (Agro 2/2026)
+5. Harvest intervals lengthening: 48% of fields at 16-20 days in Jun 2026; over-ripe bunches in P10G3 and P02B5. (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Corrective pruning far behind: Corrective pruning in P01A/P02B 30.08 of 661.72 ha (9%) by Feb 2026; 2025 progressive pruning only 72% (8.6 of 12 rounds). (PA 1/2026)
+2. Weeding and VOP control behind: Feb 2026: circle spraying 14%, selective 20%. VOP and Stenochlaena in low-lying areas need a task force; runt thinning not done. (PA 1/2026)
+3. Low harvester and machine output: Harvesters at 1.50 t/man-day in P10D and 1.69 in P07K (Feb 2026); mini crawlers 5.97 t/machine-day. (PA 1/2026)
+4. Early-2026 manuring half done: 352.20 of 705.80 t (50%) by Feb 2026; Feb Mix C 0 of 97.95 t and NK1 43.95 of 154.00 t (29%). (PA 1/2026)
+5. Roads not laterited, drains silted: 2025: 6,706 chains graded but no lateriting. PA wants grading and lateriting by Q2 and desilting of low-lying P10G, P11H and P12M. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, Tables 6, 7, 26 and 29 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 73.87 / 78.39
   - Contract harvesting & collection: 47.12 / 50.20

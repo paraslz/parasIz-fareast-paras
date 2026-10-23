@@ -47,6 +47,20 @@ RAINFALL (mm, days): 2020 1,977.0/105; 2021 1,898.5/108; 2022 2,167.5/111; 2023 
 
 KEY ACTIONS. Systematic rat baiting and follow-up census; bait P20F/P21S now; more owl boxes; finish P00B pruning; basal pruning P21S; weeding in P20F/P21S; even EFB; fix fertiliser store; finish Mix B/NK1 by Nov; drone census; desilting in flood areas; annual Ganoderma census; watch Mg; keep interval under 15 days; FFB security on boundaries; retain workers.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Rat damage above threshold: Jun 2026 census 9.45–22.1% (P10G 22.1, P09D 17.09, P16J 12.75); only one baiting round, none in P00B and P12H; severe damage in P21S S1. (Agro 2/2026)
+2. Flooding in low-lying fields: P10G, P11E, P12H, P14L, P15K, P16J flood in Q1 and Q4 for 2 weeks to 1 month; desilting only 627 chains (25%) by Jul 2026. Flood debris in E2; weak, K-deficient palms in J3. (Agro 2/2026)
+3. Old, under-pruned palms in P00B: P00B (planted 2000) gave 9.85 t/ha in Jan–Jul 2026 vs 11.21 in 2025 (-12.1%); still under-pruned, 140.98 ha one-off pruning balance at Jul 2026. Replanting B1/B2 deferred to 2028. (Agro 2/2026)
+4. Falling leaf magnesium: Leaf Mg down to 0.21% in 2026 (from 0.26%), deficient in several blocks, e.g. D5 0.15, D3 0.16. P09D 12.49 vs 14.38 t/ha (Jan–Jul 2026 vs 2025). (Agro 2/2026)
+5. Young P20F and P21S held back: P20F 5.44 and P21S 4.04 t/ha (Jan–Jul 2026); weeding only 44% of annual programme by Jul 2026; B and Mg deficiency in S1, S2; fresh rat damage in F1, F3. (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Rats not baited in 2026: Rat damage census 11.44–30.70% in Feb 2026 (P10G 30.70, P16J 22.71, P09D 20.30), yet no baiting done in 2026 by Feb. (PA 1/2026)
+2. Manuring slow at start of 2026: Only 360.65 of 1,510.70 t of the H1 2026 programme applied (24%) by Feb 2026; 10 manuring workers vs 17 required. (PA 1/2026)
+3. P00B pruning not started: One-off pruning in P00B: nil of 82.0 ha by Feb 2026, after only 70% in 2025. PA wants one round of corrective pruning although B1–B2 are to be replanted. (PA 1/2026)
+4. Recruitment and staff costs overspent: Jan–Dec 2025: recruitment +RM163,878 (58 recruited vs 20 budgeted), executive salaries +RM40,039 (21%); FFB cess/windfall RM33.98/t vs RM16.50 budget. (PA 1/2026)
+5. Harvest intervals up to 21 days: Intervals 10–21 days in Jan–Feb 2026 (P10G 16–21); PA asks to keep them under 15 days. Timac output 12.29 t/machine-day vs potential 15. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–9 (Tables 6, 7, 24, 28) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 72.34 / 76.35
   - Harvesting: 48.25 / 50.21

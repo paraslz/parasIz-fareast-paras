@@ -44,6 +44,20 @@ RAINFALL (mm, days). 2021 2,702 (118); 2022 3,844 (130); 2023 5,062.4 (117); 202
 
 CONCLUSIONS. PA: overall performance satisfactory; FFB above budget and cost below budget; continue pest control and drainage; supplying done. Agro: agronomic condition acceptable, no significant delays; rat and bagworm infestations need immediate attention; keep drains maintained for wet-season high water tables.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Heavy rat damage in young palms: Fresh rat damage 26–32% in all blocks, Mar 2026 (P19B 32%, P20C 29%, P18A 27%, P21D 26%), after 42–45% in Mar 2025. Owl boxes 74% occupied. (Agro 1/2026 · PA 1/2026)
+2. Potassium deficiency in P19B and P20C: 2025 leaf K deficient in all P19B sub-blocks (0.86-0.96%) and C1–C3 (0.94-0.98%); mild Mg and K symptoms in A3, A4, C1 and D, Apr 2026. (Agro 2/2025 · Agro 1/2026)
+3. Peat, flooding and poor access: 60% of planted area is peat; about 200 ha flood-prone. Crawlers cannot reach P21D and low-lying areas; mounding 2,586 palms vs 10,000 target, Jan–May 2026. (PA 1/2026 · Agro 1/2026)
+4. Too few harvesters as crop rises: 24 harvesters vs 26 required (May 2026), 1 per 27 ha; intervals 15-17 to 15-19 days in Jan–Mar 2026, slightly over 15. (PA 1/2026 · Agro 1/2026)
+5. May Mix B round not delivered: May Mix B 106.90 t not delivered; 487.35 of 594.25 t H1 2026 applied (82%). H2 rates cut to 1,500 g per palm. (PA 1/2026 · Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesters short as crop rises: 24 harvesters vs 26 required (May 2026), 1 per 27 ha, insufficient as crop rises; in 5 months 10 TKIs went home and 3 absconded. (PA 1/2026)
+2. May Mix B not delivered: May Mix B 106.90 t not delivered; 487.35 of 594.25 t H1 2026 applied (82%); 388.05 t still due Jul–Oct. Follow up the supplier. (PA 1/2026)
+3. Upkeep over budget on fertiliser: Upkeep RM1,347.77/ha vs RM1,247.63, Jan–May 2026; manuring RM897.62/ha, 23% over budget RM728.55 due to fertiliser prices. (PA 1/2026)
+4. Rats and bagworm need control: 1 round ARAKUS baiting Jan–Apr 2026; owl boxes 39 of 42 required, 74% occupied; Altacor on 210.89 ha for bagworm. Keep regular rat and bagworm census. (PA 1/2026)
+5. Circle spraying behind, bare ground: Circle spraying 964.60 of 1,280.60 ha (75%), Jan–May 2026; bare ground and runoff in all fields. Keep glyphosate to a 2 m radius. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5–7 and 10 (Tables 5, 6, 18, 25) and Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 109.36 / 145.21
   - Harvesting: 78.34 / 95.16

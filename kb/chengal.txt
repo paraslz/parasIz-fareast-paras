@@ -51,6 +51,20 @@ RAINFALL (mm, days). 2021 2,499.0/131; 2022 2,481.5/122; 2023 3,051.4/144; 2024 
 
 AGRONOMIST VIEW (Agro 1/2026). 2025 yield acceptable and early 2026 promising; key limits for P08E, P10F, P10G: crop loss in previously neglected areas, hilly access, flooding. 2026 programme reviewed with no amendments; P08E E1-E4 switched from sub-soil to broadcast.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Neglected hilly palms, poor access: P10F lowest at 17.85 t/ha in 2025 (neglected hilly palms, poor access in heavy rain). P10G interval 20 days in Jan 2026; delayed harvesting in F4, F5, G1, G2. (Agro 1/2026)
+2. Flooding in low-lying P08E: 84.13 ha flooded for six days in Dec 2025 (P08E-5). P08E fell to 19.46 t/ha in 2025 (-4%) and 4.78 t/ha Jan–May 2026, lowest; drain desilting (900 chains budget) little done. (Agro 1/2026 · PA 1/2026)
+3. 2026 manuring running late: Only 1,165.90 of 1,720.95 t of the H1 2026 programme applied (68%) by May 2026; May fertiliser delivered late. GML 1–2 months late in P08D and P08E (Jan 2026). (PA 1/2026 · Agro 1/2026)
+4. Magnesium deficiency, acid soils: Leaf Mg low in P08E E4-E5, P10F F1, F2, F5 and P10G G1-G3 (2025); soil pH mostly 3.6-4.9. Neglected P10F ravines show multiple deficiencies and small bunches. (Agro 2/2025 · Agro 1/2026)
+5. Rat damage at threshold: Rat damage at the 10% threshold in P08D and P10F (Dec 2025 census), after up to 25% in Mar 2025; 722.50 ha baited Jan–May 2026. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 25% below budget: 10,564.78 t FFB vs 14,000.00 t budget, Jan–May 2026 (5.82 vs 7.72 t/ha); 21% below Jan–May 2025 (13,372.35 t). (PA 1/2026 T.18)
+2. Cost per tonne over budget: RM355.21/t vs RM338.36/t budget, Jan–May 2026, 5% over because of the low crop; roads & bridges RM167.57/ha vs RM94.96/ha (+76%). (PA 1/2026 T.21)
+3. Surplus harvesters on low earnings: 154 workers vs 130 required and 108 harvesters vs 82 (May 2026); 1.27 t/man-day and RM48.59/day, below minimum wage, Jan–May 2026. (PA 1/2026)
+4. Fertiliser delivered late: 68% of the H1 programme applied by May 2026; May Mix B, NK and Mix A delivered late. Manuring RM543.80/ha, 25% under budget because of delayed application. (PA 1/2026 T.9)
+5. Spraying behind programme: Selective 2,675.20 of 3,628.40 ha to May 2026, round 2 in progress; woody growth and half-dead Clidemia in P07C; keep glyphosate to 2 m radius. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5, 6, 8 and 11 (Tables 4, 5, 15, 21; Appendix 2) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 80.83 / 93.51
   - Harvesting: 52.74 / 56.86

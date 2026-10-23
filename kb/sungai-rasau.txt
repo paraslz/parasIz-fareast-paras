@@ -49,6 +49,20 @@ RAINFALL (mm, days). 2021 3,307.5/104; 2022 3,069/147; 2023 2,840/126; 2024 2,48
 
 KEY ACTIONS. Recruit 5 TKIs and borrow workers from Sungai Batu; apply 2026 fertiliser now; clear pruning backlog by June; complete circle spraying and raking; road grading; beneficial plants; Ganoderma census and deboling; quarterly rat census; leaf sampling 2026; prepare 2027 replanting of 58.30 ha.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Severe field labour shortage: 7 workers vs 11 required (Apr 2026), no weeding or manuring workers; Agro says crop is declining in P96A, P02E and P05F due to labour shortage. (PA 1/2026 · Agro 1/2026)
+2. Super-tall old palms hard to harvest: 96% of area over 20 years old; palms over 50 ft in P96A and P98D, some left unharvested. P96A lowest at 5.05 t/ha, Jan–Apr 2026. (Agro 1/2026 · PA 1/2026)
+3. No 2026 fertiliser applied yet: 0 of 41.80 t applied by Apr 2026 (36.70 t delivered); 2025 leaf N deficient in P10C, P02E, P06G (2.46-2.47%) and mild K symptoms in Apr 2026. (PA 1/2026 · Agro 1/2026)
+4. Pruning backlog: Only 39.87 of 111.00 ha pruned (35.92%), Jan–Apr 2026; P04B and P10C 0%. Under-pruning in most blocks. (PA 1/2026 · Agro 1/2026)
+5. Ganoderma in old fields: Census: P96A 261 palms (18 collapsed), P98D 126 (14), P06G 86 (3), P04B 30 (6), P10C 7. PA asks to census, mark and de-bole. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Workers far short of need: 7 workers vs 11 required (Apr 2026); 1 TKI repatriated and 1 absconded in four months. Recruit 5 TKIs now and borrow from Sungai Batu. (PA 1/2026)
+2. No manuring done by April: 41.80 t required to Apr 2026, 36.70 t delivered, nothing applied; application only started May 2026. (PA 1/2026)
+3. Low cost hides work backlog: RM197.49/t vs RM341.75 budget (-42%), Jan–Apr 2026; upkeep RM166.61/ha vs RM692.97. PA warns clearing delayed work may cost more later. (PA 1/2026)
+4. Pruning far behind: 39.87 of 111.00 ha pruned (35.92%), Jan–Apr 2026; P04B and P10C none. Clear the backlog by June before peak crop. (PA 1/2026)
+5. Circle spraying half done: Circle spraying 54.70 of 111.00 ha, Jan–Apr 2026 (only P96A, P04B, P06G done); frond butts need raking. Tractor and Timac run only 5.60 hrs a day vs 8. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Apr 2026, from PA Report 1/2026, sections 5–7 and 10 (Table 20), Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 84.14 / 85.67
   - Harvesting: 55.02 / 60.67

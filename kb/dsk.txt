@@ -45,6 +45,20 @@ AGRONOMY 2/2026 DIRECTOR PAGE. Updated census for P16F noted; remove abnormal pa
 AGRONOMY 1/2026 (30 Jan 2026) KEY POINTS. Harvest interval in 2025 ranged 10-20 days; no over-ripe or rotten bunches found in field. Flood-prone P12A5, P12A6: scattered fronds after flood; circle raking suggested. Roadside palms (about 15 years old) keep one frond below bunch whorl on narrow roads. Runts with abortive bunches in P12A5, P13D3, P14E1, P16F1: mark, prune, ablate, observe six months then remove. Leaf nutrients balanced, no critical deficiency. EFB in P13B3 lateritic patch (about 3 ha poor vigour), apply in alternate years. Weeds Clidemia hirta, Stenochlaena palustris, Dicranopteris linearis denser in P14E1, P16F3, P16F2, P15I2; sporadic over-spraying in P14J3, P15I3. Rat damage 2025 estate 9.2% (May), 8.5% (Jun), 9.3% (Sep), 9.2% (Oct); P13C reached 16.0% and P12A 14.0% by Oct 2025; only one baiting in May 2025. Crop recovery 98.7% in 2024 and 100% in 2025. De-silting 555.79 ch in 2025; crusher run about 530.06 mt and 3,402 ch graded in 2025. 2025 manuring completed by Dec 2025, delays of 0-3 months against schedule.
 PA 1/2026 (22 Jan 2026, Jan-Dec 2025). 107 workers vs 98 (69 harvesters vs 60). 2025: 23 recruited, 2 transferred in; flood Jan 2026, none in 2025. Circle spraying 3-4 rounds and selective 3-4 rounds completed in all fields; weeding RM233.19/ha. Manuring completed Nov 2025 incl. extra 40.45 mt NK2 in Aug; manuring RM1,556.54/ha (+9%). Rat baiting with flocoumafen 0.005%; 289 ch of 12x8x6 ft boundary trench dug against elephants and wild boar. 30 ch of road in P13D2/3 raised 5 ft. Pruning RM118.71/ha incl. restacking after flood. Timac 11.71 t/machine-day and 2.93 t/harvester; crawler 13.03 and 2.61. Vehicles: Hilux RM0.63/km, New Holland tractor RM21.06/hr, Higer van RM1.30/km.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Rat damage well above threshold: Estate rat damage 21% (Apr 2026) and 17% (Jun 2026) after one baiting round in May 2026, vs 10% threshold; up to 24% in Apr 2026. (Agro 2/2026)
+2. Over-ripe bunch losses: Over-ripe 14% in P13C3, 14% in P14J2 and 16% in a third check (Sep 2026); losses remain significant. P13C fell to 13.66 vs 17.24 t/ha, Jan–Aug (-21%). (Agro 2/2026)
+3. Narrow terraces in P15I and P16F: Narrow hanging terraces limit machine access in P15I and P16F. P16F 6.55 t/ha Jan–Jun 2026, lowest; harvesters 0.96 t/day there; -24% Jan–Aug. (PA 2/2026 · Agro 2/2026)
+4. Flood-prone low-lying areas: 237.40 ha (17.98%) low-lying; P13B2, P13B3, P13D2, P13D3 and P14E1 may stay flooded up to two weeks; flood in January 2026. (Agro 2/2026 · PA 2/2026)
+5. Possible early Ganoderma: Significant number of palms with premature frond snapping and multiple unopened spears, possible early Ganoderma (Sep 2026). (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 8% below budget: 11,774.57 t FFB vs 12,800 t budget, Jan–Jun 2026 (8.99 vs 9.78 t/ha); 7% below Jan–Jun 2025 (12,608.98 t). PA expects the year within budget. (PA 2/2026 T.18)
+2. Low harvester productivity: 1.40 t/man-day Jan–Jun 2026 (P16F 0.96) vs a 3.0 t target; 115 workers vs 98 required, harvesters 73 vs 60 (Jun 2026). (PA 2/2026)
+3. General charges overspent: RM1,002.50/ha vs RM980.66/ha, Jan–Jun 2026; quit rent +100% (paid early), recruitment +67%, MSPO +88% (fire in Fields B and D, May 2026). (PA 2/2026 T.21)
+4. Persistent rat attack: Rat attack persistent; one baiting round (Brodifacoum 0.005%) over all 1,309.03 ha in May 2026. Regular rat and bagworm census asked. (PA 2/2026)
+5. Roads, culvert and terraces: Crusher run 0 of 1,100 mt to Jun 2026; 5-ft culvert in P13C5 to be replaced with a concrete bridge; narrow hanging terraces in P15I and P16F to repair. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5–7 and 10 (Tables 5, 6, 16, 21) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 101.53 / 103.11
   - Mechanisation: 4.67 / 5.84

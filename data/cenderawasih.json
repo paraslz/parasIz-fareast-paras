@@ -6412,5 +6412,77 @@
    "src": "PA 1/2026",
    "status": "done"
   }
- ]
+ ],
+ "top": {
+  "limits": [
+   {
+    "t": "Rat damage above threshold everywhere",
+    "s": "Rat damage",
+    "d": "17–27% in all fields in Mar 2026 and 13-20% in Jun 2026 vs 10% threshold; only P17E baited by Mar 2026.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma in P10A",
+    "s": "Ganoderma P10A",
+    "d": "2,400 Ganoderma palms and 100 collapsed in P10A (Jul 2026); P10A 8.93 t/ha vs 12.25, Jan–Jul 2026 vs 2025 (−27%).",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding and vacant land",
+    "s": "Flooding",
+    "d": "P17E low-lying areas flooded (needs drainage or bunding); about 20 ha vacant in P17G5 where palms died from prolonged flooding.",
+    "src": "PA 1/2026 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Elephant damage in P17C and P17F",
+    "s": "Elephant damage",
+    "d": "PA blames Q1 2026 low yield in P17C and P17F on elephant damage; 650 palms supplied in 2026 after 1,457 in 2025.",
+    "src": "PA 1/2026 · Agro 2/2026"
+   },
+   {
+    "t": "Pruning behind in P17E and P17G",
+    "s": "Pruning behind",
+    "d": "Progressive pruning below 50% in P17E and P17G as of Jul 2026, with dried fronds on palms; PA had them at 63% and 53% by Mar 2026.",
+    "src": "Agro 2/2026 · PA 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop slightly under budget",
+    "s": "Crop 2% short",
+    "d": "9,523.75 t vs 9,700.00 t budget, Jan–Mar 2026 (18% above 2025). PA blames Ganoderma in P10A, elephants in P17C/P17F and floods in P17E and P17G.",
+    "src": "PA 1/2026 Table 22"
+   },
+   {
+    "t": "Rat damage high, baiting not done",
+    "s": "Rat damage",
+    "d": "Mar 2026 census 17-27% in all fields; only P17E (222.70 ha) baited, baits on order.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Q1 manuring behind",
+    "s": "Late manuring",
+    "d": "489.85 of 750.00 t (65%) in Jan–Mar 2026; Feb Mix B only 57.75 of 296.70 t applied (51%), delayed by the January flood and February rain.",
+    "src": "PA 1/2026 Table 12"
+   },
+   {
+    "t": "Harvester output below target",
+    "s": "Harvester output",
+    "d": "1.80 t/man-day in Jan–Mar 2026; PA target over 2.50 when crop rises, and a review of machine-to-harvester ratios.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Roads and drains not done after flood",
+    "s": "Roads, drains",
+    "d": "Major grading and resurfacing not started by Mar 2026, to finish by Jun 2026; drains 155.27 of 495 chains desilted.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

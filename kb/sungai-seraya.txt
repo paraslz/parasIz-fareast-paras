@@ -52,6 +52,20 @@ RAINFALL (mm, wet days). 2022 1,808 (152); 2023 2,036 (127); 2024 1,411 (113); 2
 
 CONCLUSIONS. Agro 2/2026: manuring slightly behind (one July Mix B round), EFB 91%, harvesting satisfactory, pruning satisfactory, weeds acceptable, rats persist and need baiting by sub-block, Ganoderma deboling done, yield to date well below last year but rising since June. PA 2/2026: performance satisfactory, 9.55 t/ha and RM270.26/t to June; prepare for the H2 peak crop.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Seasonal crop dip and water stress: 13.12 t/ha Jan–Aug 2026 vs 15.44 t/ha Jan–Aug 2025 (-15%), put down to seasonal factors; P09C -23.0%. Premature frond snapping, possibly water stress (Sep 2026). (Agro 2/2026)
+2. Ganoderma thinning the stand: Stand fell 7% (115,553 to 107,312 palms, 133 to 123 SPH) mainly from Ganoderma; new fallen palms every month (Sep 2026) in P02E, P08F, P10D. (Agro 2/2025 · Agro 2/2026)
+3. Rats with census and baiting lapsed: Feb 2026 rat damage P07B 15%, P09C 14%; no census Mar–Aug 2026 and only one baiting round to Aug; 2nd round under way Sep 2026. (Agro 2/2026)
+4. Low leaf magnesium and phosphorus: Feb 2026 leaf: Mg below normal in 56% of sub-blocks (B4 low, 0.21%); P moderately low in 56% incl. all of P02A and P02E. K symptoms in hilly P02E. (Agro 2/2026)
+5. Flooding in low-lying fields: About 50 ha of low-lying P02A, P07B and P09C flooded 10 days in Jan 2026; camber bunds in P09C2 and P09C4 improve yield. (PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 8% below budget: 8,315.96 t FFB vs 9,000 t budget, Jan–Jun 2026; 9.55 t/ha vs 10.33 budget and 10.40 in the same months of 2025. (PA 2/2026 Table 16)
+2. H1 manuring behind programme: 586.90 of 763.90 t H1 programme applied to Jun 2026, delayed by late delivery and sub-soil work; expedite before monsoon, aim for 30 bags/day. (PA 2/2026)
+3. Recruitment cost and absconding: Recruitment RM74.43/ha, +182% (calling visas, to be recovered), Jan–Jun 2026; in 6 months 12 recruited, 7 absconded, 6 repatriated. (PA 2/2026 Table 18)
+4. Ganoderma palms to manage: Mounding stopped in P02A and P02E (over 20 years), continue in younger fields; debole infested palms and do not over-prune Ganoderma palms. (PA 2/2026)
+5. Circle spraying method and misses: Circle 870.90 of 997.30 ha (87%) to Jun 2026; contractor to use CDA instead of mist blower; missed Clidemia patches in P10D. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jun 2026, from PA Report 2/2026, sections 5–7 and 10 (Tables 5, 6, 14, 18) and Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 76.54 / 86.22
   - Harvesting: 48.86 / 54.97

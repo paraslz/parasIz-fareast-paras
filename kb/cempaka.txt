@@ -89,6 +89,20 @@ KEY CONCERNS
 4. VOPs in P22B, P22D and P23A; weeding behind schedule.
 5. Over-pruning in P18C3 and P23A; low harvester output in new fields.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Rat damage back above threshold: Aug 2026 census: P18C 18%, P22B 16%, P22D 16% vs 10% threshold, after falling to 5–8% post-baiting in Apr 2026. (Agro 2/2026)
+2. Manuring held up by deliveries: 258.65 of 406.70 t applied (64%) to Jul 2026. P23A: RP 49.85 t received but not applied, Mix B 79.60 t not received. (PA 2/2026 · Agro 2/2026)
+3. Low stand in P22D: Drone census H1 2026: 121 palms/ha vs 148 (-22%); many unproductive supply palms. P22D 2.11 t/ha, Jan–Jul 2026. (Agro 2/2026 · PA 2/2026)
+4. VOPs and weeding behind: VOPs in P22B1, P22B2 and P23A; P18C only 1 circle round by Jul 2026; Clidemia hirta only partly killed in P18C1 and P18C2. (Agro 2/2026)
+5. Over-pruning in P18C3 and P23A: Too few fronds kept in P18C3 (harvester discipline) and in P23A; keep at least 2 fronds below the lowest bunch. (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 24% below budget: 1,958.06 t FFB vs 2,590.00 t budget, Jan–Jul 2026; 7.21 t/ha vs 9.53 budget (13.63 in Jan–Jul 2025). (PA 2/2026 Table 17)
+2. Very low harvester output: P22B 0.91 and P22D 0.76 t/man-day, estate 1.38, Jan–Jul 2026, vs director's target of over 3.0. PA suggests another Timac. (PA 2/2026 s.7)
+3. Manuring delayed by deliveries: 258.65 of 406.70 t applied (64%) to Jul 2026; Jun RP only 24.00 of 41.30 t applied (58%). Follow up with the supplier. (PA 2/2026 s.6)
+4. P22D low stand, supplying slow: P22D yield 2.11 t/ha (Jan–Jul 2026) because of low stand and many unproductive supply palms; supplying to be expedited. (PA 2/2026)
+5. Overspraying leaves bare ground: Bare ground in P18C from overspraying; keep circles to 2 m radius, encourage soft grasses and Nephrolepis. (PA 2/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Jul 2026, from PA Report 2/2026, Tables 6, 15 and 20 (sections 6, 7, 10) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 104.57 / 131.32
   - Harvesting: 75.11 / 96.45

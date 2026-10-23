@@ -43,6 +43,20 @@ RAINFALL (PA App. 11). 2025 2,618 mm/125 days; 2024 2,417/126; 2023 1,986/124; 2
 
 KEY ACTIONS. Fix water leaks; contingency plan for late fertiliser; machine productivity review; block harvesting; tighten harvesting to 15 days; post-baiting rat census and zone baiting; 5 more owl boxes; split PR25E; census immature blocks after each supply; DEM flood map and higher bunds; splash-cleaning after floods; Clidemia and wild bitter gourd control; basal sanitation in P22L.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma in older fields: 47.52% infestation on 431.60 ha censused in 2025. P00F about 62% infested and the lowest field at 15.59 t/ha in 2025; 647.80 ha (31.27%) is over 20 years old. (PA 1/2026 s.2.5, App. 10 · Agro 1/2025)
+2. Rat damage back, baiting late: Fresh rat damage resurged at the Mar 2026 census; bait supply was delayed so baiting only began Apr 2026. 2025 baiting had cut damage to 6.46–12.09%. (Agro 1/2026)
+3. Palm stand thinned out: Sep 2025 census: average 130 palms/ha vs 148 at planting (-12%). P00F down to 115 palms/ha. (Agro 1/2026)
+4. Flooding in low-lying fields: 45.9 ha of P22L lost to flooding (2022 and 2023 replanting both failed); P23M low areas show stunting, deaths and vacant points. (Agro 1/2026 · PA 1/2026 s.11)
+5. Fertiliser arriving late: 2026 to Mar: 642.7 of 737.55 t applied (87%); RP only 159.4 of 254.25 t (63%), Mix B up to 2 months late. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Ganoderma spreading, control delayed: 2025 census: 20,124 Ganoderma-affected and 11,381 vacant of 66,292 points = 47.52%. Ganoderma census and treatment delayed (P&D RM99.90/ha, 51% under budget). (PA 1/2026 s.6.3)
+2. Harvesting machines below target: Timac 8.20 and Long Star 9.75 t/machine-day vs 12 t target, 2025; PA asks for 1 machine per 140 ha and 5 harvesters per machine. (PA 1/2026)
+3. General charges items overspent: 2025: water +165% (check pipes for leaks), recruitment +78% (52 TKIs vs 20 budgeted), EPF +69%, incentive +59%. (PA 1/2026 s.5)
+4. Worker attendance and turnover: About 10% of TKIs earned below minimum wage in H2 2025 through poor attendance; 13 absconded and 28 went home in 12 months. (PA 1/2026)
+5. Late fertiliser deliveries: Mid-year Mix B delivery late in 2025; PA asks for a contingency plan with purchasing and the agronomist for late deliveries. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5, 6, 7 and 10 (Cost of Production) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 74.89 / 79.96
   - Harvesting: 52.17 / 53.32

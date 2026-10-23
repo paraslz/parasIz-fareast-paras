@@ -49,6 +49,20 @@ RAINFALL (mm, days). 2021 2,550/120, 2022 2,416/124, 2023 4,643/167, 2024 4,756/
 
 KEY ACTIONS. Recruit workers; resume Rhinoceros treatment; study flooding; improve machine ratio; expedite 2026 manuring; desilt drains; Ganoderma census; more owl boxes; cut overripe bunches; fix pruning quality; quarterly rat census in young mature; palm census after floods; apply EFB.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Floods in low-lying fields: Floods in Mar and mid-Apr 2025 cut off P94K, P95S and P96Y for about 40 days; 2025 yield fell 2.62 t/ha (13.65%). Three more floods mid-Dec 2025 to mid-Jan 2026 hit 363 ha mature. (Agro 1/2026 · PA 1/2026)
+2. Overripe bunches and long intervals: Overripe bunches the main yield loss, no improvement: P94K5 5%, P94K8 8%, P94K9 10%, P94M4 8% (Mar 2026). Intervals up to 23 days in P95S and P96Y, Jan–Feb 2026. (Agro 1/2026 · PA 1/2026)
+3. Old, thinning palm stands: 47% of area (1,014.7 ha) is over 26 years old; tall-palm stands down to SPH 125–128 vs 136 in Feb 2019. P95S 15.95 and P96Y 15.09 t/ha in 2025, lowest fields. (Agro 1/2026 · PA 1/2026)
+4. 2026 manuring badly delayed: Only 7.00 of 415.25 t applied by Feb 2026 after heavy rain Nov 2025–Feb 2026 and floods; revised programme dropped second NK2 rounds for P94K and P94M. (PA 1/2026 · Agro 1/2026)
+5. Rats in young mature blocks: Jan 2026 rat damage P21B 13.40% and P21A 12.60% (above 10%); 73 owl nests vs 139 target; 2025 baiting 374.70 of 1,879.23 ha. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Floods and drainage unresolved: Three floods mid-Dec 2025 to mid-Jan 2026 hit 363 ha mature and 446 ha immature; about 800 ha low-lying with five inlets. PA again asks for a flooding study. (PA 1/2026)
+2. 2026 manuring far behind: 7.00 of 415.25 t applied to Feb 2026 (Jan NK2 in progress, Feb rounds not started), delayed by heavy rain Nov 2025–Feb 2026 and floods. (PA 1/2026)
+3. Recruitment and key-job gaps: 143 workers vs 140 required (Feb 2026) but drivers/loaders 6 vs 15; recruitment RM199,438.28 vs RM74,560 budget in 2025 (66 foreign workers vs 30). PA repeats call to recruit. (PA 1/2026)
+4. Low harvesting machine output: MBI 8.22 t/day per machine, 1 machine to 3.5 harvesters in 2025; PA wants 1 machine per 140 ha and 5 harvesters per machine. (PA 1/2026)
+5. Drains and roads behind: 2025 desilting 470.54 of 1,400 chains; road grading 2,291 of 4,810 chains, no lateriting. PA asks for desilting, culvert clearing and road repair after floods. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–Dec 2025, from PA Report 1/2026, sections 5–7 and 9 (cost of production table), Appendix 2 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 105.28 / 113.01
   - Harvesting: 59.73 / 59.04

@@ -49,6 +49,20 @@ FERTILISER PROGRAMMES (kg/palm, shown in grams on the Blocks tab). 2026 revised 
 
 AGRONOMY OBSERVATIONS (Agro 1/2026). Two distinct palm groups: healthier palms on higher ground and stunted, yellowish, unproductive palms in low-lying flood-prone patches (P14F5, P14G3, P12A3, P14E1, P14E2) because of waterlogging and poor root aeration. Estate lowered bund levels and desilted drains, which also improved herbicide control of wild pandan. Over-ripe incidence rose slightly since Nov 2025; loose fruit collection now satisfactory. Frond stacking: the recommended method slows runoff and fertiliser wash-off; most areas still use straight-line stacking. Flood-prone areas by sub-block (ha flooded): C1 40.00 (98%), E4 40.40 (80%), D4 40.00 (77%), D3 40.00 (72%), F5 35.00 (72%), G3 35.00 (70%), D5 30.00 (67%), F4 30.00 (62%), E2 30.90 (58%), G2 20.00 (56%), E3 30.90 (46%), B3 20.00 (38%), A3 20.00 (37%), E1 20.00 (36%): 432.20 of 665.60 ha in those sub-blocks. Peat in P13C: C1 20, C2 40, C3 30, C4 15, C5 30, C6 30 ha.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Flooding and high water table: Main limiting factor: 432.20 ha (31%) flood-prone. Flooded areas gave 12.91 t/ha vs 17.20 on higher ground (Jan–Oct 2025), bunch weight 12.14 vs 13.67 kg. (Agro 1/2026)
+2. 2026 manuring running late: Only 636.80 of 1,481.80 t of the H1 2026 programme applied (43%) by May 2026 because of late deliveries; Jun GML 150.80 t not started. (PA 1/2026 · Agro 1/2026)
+3. Rats not under control: One baiting round over 1,392.50 ha without a census; fresh damage still seen. 2025 census showed 24–75% fresh damage before baiting and 12–30% after. (Agro 1/2026 · PA 1/2026)
+4. Crop lost in P14G: P14G 10.48 t/ha in 2025 vs 16.5 in 2024 (-36.5%), put down to tapping-rights issues in G1 and G2; 3.54 t/ha in Jan–May 2026; smallholder intrusion. (Agro 1/2026 · PA 1/2026)
+5. Elephant damage in P14E and P13D: 15 palms toppled in P13D and P14E; P14E down to 120 SPH after elephant damage, -10% in Jan–Mar 2026 and 4.67 t/ha in Jan–May 2026. (Agro 1/2026 · PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Fertiliser delivered late: 636.80 of 1,481.80 t of H1 2026 fertiliser applied (43%) by May 2026; manuring RM559.18/ha, 24% under budget because fertiliser was late. (PA 1/2026)
+2. Short of harvesters: 55 harvesters vs 61 required (DS Sinar 34 vs 44), 97 workers vs 107, May 2026; 10 repatriated and 3 absconded in 5 months. Recruit 6 more. (PA 1/2026)
+3. Drainage in low-lying blocks: Better drainage in P13C, P13D and P14E could lift yield; 428 chains desilted in low-lying areas in 2026. Continue desilting and bund lowering. (PA 1/2026)
+4. Intrusion and security in P14G: Smallholder intrusion in P14G: cut interval to 10 days, send all FFB the same day, patrol regularly. P14G 3.54 t/ha and 1.29 t/man-day in Jan–May 2026. (PA 1/2026)
+5. Elephants toppling palms: Elephants toppled 15 palms and damaged fronds and shoots in P13D and P14E; damage fell after 4 km of electric fencing shared with Sawak and Delima. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), Jan–May 2026, from PA Report 1/2026, sections 5–7 and 10 (Tables 5, 6, 16, 22; Appendix 2) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 74.16 / 77.03
   - Harvesting: 49.73 / 50.41
