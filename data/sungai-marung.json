@@ -18,6 +18,11 @@
   },
   "pa2": null,
   "agro": {
+   "title": "Agronomy Report 2/2026",
+   "visit": "2026-09-30",
+   "url": "https://drive.google.com/file/d/1sjh4Jumoye1YehG8WZ0gXea3ypjuJBYV/view"
+  },
+  "agro2": {
    "title": "Agronomy Report 1/2026",
    "visit": "2026-03-03",
    "url": "https://drive.google.com/file/d/1VC78BUAwn_vj_d9l1bJcREcwizxaQrGe/view"
@@ -53,12 +58,14 @@
   "harvesters": 75,
   "harvestersReq": 73,
   "labourDate": "Feb 2026",
-  "harvestInterval": "15 days avg, 23.58 rounds in 2025 (PA); up to 23 days in P95S/P96Y in Jan 2026 (Agro)",
-  "manuringPct": 1.7,
-  "manuringNote": "7.00 of 415.25 mt applied (PA, Jan–Feb 2026, delayed by floods); 2025 programme 100% (PA and Agro)",
-  "circlePct": 77.2,
-  "selectivePct": 86.63,
-  "pruningPct": 99
+  "harvestInterval": "Mostly 13–17 days Jan–Sep 2026, over 20 days in P95S, P95T, P96Y in some months of early 2026 (Agro 2/2026); 15 days avg, 23.58 rounds in 2025 (PA)",
+  "manuringPct": 93,
+  "manuringNote": "926.70 of 993.45 t programme applied as of Sep 2026 (Agro 2/2026). PA to Feb: 7.00 of 415.25 mt",
+  "circlePct": 91,
+  "selectivePct": 100,
+  "pruningPct": 80,
+  "weedingNote": "Agro 2/2026, as of Sep 2026: circle round 2 91%, inter-row round 2 100%. PA 1/2026 to Feb 2026: circle 77.2%, selective 86.63%",
+  "pruningNote": "915.78 of 1,150.71 ha to date (80%), as of Aug 2026 (Agro 2/2026)"
  },
  "costParts": [
   {
@@ -381,14 +388,14 @@
    "sph": 127,
    "planted": "1994",
    "status": "Mature",
-   "ytd": 17.0,
+   "ytd": 11.33,
    "est": null,
-   "prevYtd": 19.79,
-   "fert": "NK2 2500 g (Feb)",
+   "prevYtd": 11.7,
+   "fert": "NK2 2500 g (Feb) (2026). 2027: NK3 2500 g ×2 (Feb, Aug) on K5, K7–K9; K3, K4, K6 replanting",
    "notes": [
     {
-     "src": "Agro 1/2026",
-     "text": "2025 yield 17 t/ha vs 19.79 in 2024; overripe bunches 5–10% in K5, K8, K9."
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 11.33 t/ha vs 11.70 in Jan–Aug 2025; K3, K4, K6 marked replanting 2027."
     },
     {
      "src": "PA 1/2026",
@@ -397,6 +404,28 @@
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "11.33 t/ha Jan–Aug 2026 (375.60 ha) vs 11.70 t/ha Jan–Aug 2025 (375.60 ha), yield diff -3%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "11.33 t/ha",
+        "d": "375.60 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "11.70 t/ha",
+        "d": "375.60 ha"
+       },
+       {
+        "l": "Change",
+        "v": "-3%",
+        "d": "as printed"
+       }
+      ]
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "17 t/ha in 2025 vs 19.79 t/ha in 2024 (−2.79 t/ha), 375.6 ha. Estate (Agro Table 19): 16.88 vs 19.5",
@@ -500,91 +529,139 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 15-17, Feb 14-16, Mar 13-15, Apr 13-18, May 15-19, Jun 14-16, Jul 13-15, Aug 15-16, Sep 15-16, Oct 16-17, Nov 17-15, Dec 16-17 | Jan 15-16, Feb 15-18",
-      "src": "Agro 1/2026",
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 13-18, Feb 15-19, Mar 13-15, Apr 13-15, May 15-16, Jun 15-16, Jul 13-15, Aug 15-16, Sep 15-16",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "15-17",
-         "15-16"
+         "13-18"
         ],
         [
          "Feb",
-         "14-16",
-         "15-18"
+         "15-19"
         ],
         [
          "Mar",
-         "13-15",
-         "–"
+         "13-15"
         ],
         [
          "Apr",
-         "13-18",
-         "–"
+         "13-15"
         ],
         [
          "May",
-         "15-19",
-         "–"
+         "15-16"
         ],
         [
          "Jun",
-         "14-16",
-         "–"
+         "15-16"
         ],
         [
          "Jul",
-         "13-15",
-         "–"
+         "13-15"
         ],
         [
          "Aug",
-         "15-16",
-         "–"
+         "15-16"
         ],
         [
          "Sep",
-         "15-16",
-         "–"
+         "15-16"
+        ]
+       ]
+      },
+      "note": "Printed values as in the report. Estate target: 15-day interval."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 15-17, Feb 14-16, Mar 13-15, Apr 13-18, May 15-19, Jun 14-16, Jul 13-15, Aug 15-16, Sep 15-16, Oct 16-17, Nov 17-15, Dec 16-17",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "15-17"
+        ],
+        [
+         "Feb",
+         "14-16"
+        ],
+        [
+         "Mar",
+         "13-15"
+        ],
+        [
+         "Apr",
+         "13-18"
+        ],
+        [
+         "May",
+         "15-19"
+        ],
+        [
+         "Jun",
+         "14-16"
+        ],
+        [
+         "Jul",
+         "13-15"
+        ],
+        [
+         "Aug",
+         "15-16"
+        ],
+        [
+         "Sep",
+         "15-16"
         ],
         [
          "Oct",
-         "16-17",
-         "–"
+         "16-17"
         ],
         [
          "Nov",
-         "17-15",
-         "–"
+         "17-15"
         ],
         [
          "Dec",
-         "16-17",
-         "–"
+         "16-17"
         ]
        ]
       },
       "note": "Printed values as in the report."
      },
      {
-      "k": "Ripeness at visit (3 Mar 2026)",
+      "k": "Older: ripeness 3 Mar 2026",
       "v": "Freshly harvested bunches: P94K5 5% overripe, P94K8 8% overripe, P94K9 10% overripe; overripe bunches remain the main yield loss, no improvement since last visit",
       "src": "Agro 1/2026",
       "pts": [
        "Freshly harvested bunches: P94K5 5% overripe, P94K8 8% overripe, P94K9 10% overripe",
        "Overripe bunches remain the main yield loss, no improvement since last visit"
-      ]
+      ],
+      "hide": true
      }
     ],
     "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Sparse patches, thin soft cover: K3. Acceptable soft grasses: K8, K6, K9, K5, K4, K7. Incomplete weed kill in P94K9 (photos 46-47)",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Sparse patches, thin soft cover: K3",
+       "Acceptable soft grasses: K8, K6, K9, K5, K4, K7",
+       "Incomplete weed kill in P94K9 (photos 46-47)"
+      ]
+     },
      {
       "k": "Weeding rounds 2025",
       "v": "3 of 3 rounds, 1,126.80 ha (100%) at RM30.00/ha/round | 3 of 3 rounds, 1,126.80 ha (100%) at RM75.00/ha/round",
@@ -611,22 +688,60 @@
         ]
        ]
       }
-     },
-     {
-      "k": "Ground cover (Mar 2026)",
-      "v": "K3, K4, K6, K9: substantial sparse patches between soft vegetation clumps; K5, K7 acceptable soft grasses. Incomplete weed kill seen in P94K6 (photos 40-41)",
-      "src": "Agro 1/2026",
-      "pts": [
-       "K3, K4, K6, K9: substantial sparse patches between soft vegetation clumps",
-       "K5, K7 acceptable soft grasses",
-       "Incomplete weed kill seen in P94K6 (photos 40-41)"
-      ]
      }
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 4.20%, May 4.10%, Aug 5.60%, Nov 4.30%; Jan 2026 8.30% (threshold 10%)",
+      "k": "Rat damage census 2026",
+      "v": "375.6 ha: May 2026 4.1, Aug 2026 4.3 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "May 2026",
+         "4.1"
+        ],
+        [
+         "Aug 2026",
+         "4.3"
+        ]
+       ]
+      },
+      "note": "Threshold 10%. Agro 1/2026 printed Jan 2026 8.30%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "375.6 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "18 boxes, 90% occupancy (375.6 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "18",
+        "d": "375.6 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "90%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "No result printed for this block: the census table lists P96Y3–Y8 only. Status at Mar 2026: census in progress",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 4.20%, May 4.10%, Aug 5.60%, Nov 4.30%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -649,10 +764,6 @@
         [
          "Nov 2025",
          "4.30%"
-        ],
-        [
-         "Jan 2026",
-         "8.30%"
         ]
        ]
       },
@@ -690,6 +801,35 @@
     ],
     "pruning": [
      {
+      "k": "Pruning programme to Aug 2026",
+      "v": "301.70 of 375.60 ha to date (80%); previously 301.70, this month -, balance 73.90 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "301.70 ha",
+        "d": "of 375.60 ha"
+       },
+       {
+        "l": "Done",
+        "v": "80%"
+       },
+       {
+        "l": "Balance",
+        "v": "73.90 ha"
+       }
+      ]
+     },
+     {
+      "k": "Pruning quality Sep 2026",
+      "v": "Improved vs previous visit: K6, K4. Not much change: K8, K9, K5, K3, K7. Dry hanging fronds remain sporadic in tall palm areas",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Improved vs previous visit: K6, K4",
+       "Not much change: K8, K9, K5, K3, K7"
+      ]
+     },
+     {
       "k": "Pruning 2025",
       "v": "375.48 of 375.60 ha (100%), balance 0.12 ha, RM160/ha",
       "src": "PA 1/2026",
@@ -710,25 +850,26 @@
       ]
      },
      {
-      "k": "Quality (Mar 2026)",
+      "k": "Older: quality Mar 2026",
       "v": "Improved vs previous visit but not yet satisfactory: sporadic dry hanging fronds in K9, K7, K5, K6, K4, K3; slight under-pruning in K7 and K5 (photos 18-23)",
       "src": "Agro 1/2026",
       "pts": [
        "Improved vs previous visit but not yet satisfactory",
        "Sporadic dry hanging fronds in K9, K7, K5, K6, K4, K3",
        "Slight under-pruning in K7 and K5 (photos 18-23)"
-      ]
+      ],
+      "hide": true
      }
     ],
     "field": [
      {
-      "k": "Sub-blocks",
-      "v": "K3 53.90, K4 39.60, K5 64.70, K6 42.20, K7 57.30, K8 62.80, K9 55.10 ha",
-      "src": "Agro 1/2026",
+      "k": "Area Aug 2026",
+      "v": "K3 53.90, K4 39.60, K5 64.70, K6 42.20, K7 57.30, K8 62.80, K9 55.10 ha; total 375.60 ha, unchanged",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Sub-block",
-        "ha"
+        "Ha"
        ],
        "rows": [
         [
@@ -758,25 +899,39 @@
         [
          "K9",
          "55.10"
+        ],
+        [
+         "Total",
+         "375.60"
         ]
        ]
       }
      },
      {
       "k": "Palm census",
-      "v": "47,701 palms; SPH 127 vs 136 previously (census Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "47,701 palms on 375.6 ha; SPH 127 vs 136 previously (-9) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "47,701"
+        "v": "47,701",
+        "d": "375.6 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "127",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -9"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
+     },
+     {
+      "k": "Replanting 2027 per fertiliser programme",
+      "v": "K3, K4, K6 marked REPLANTING 2027, same as the existing programme",
+      "src": "Agro 2/2026"
      },
      {
       "k": "Replanting programme",
@@ -864,40 +1019,62 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 183.85 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Circle & path rd 1",
-       "pct": 40,
-       "note": "157.70 of 375.60 ha",
-       "src": "PA 1/2026",
-       "calc": false
-      },
-      {
-       "k": "Selective rd 1",
+       "k": "Inter-row weeding rd 1",
        "pct": 100,
-       "note": "375.60 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Inter-row rd 1 (Agro)",
-       "pct": 73,
-       "note": "Agro Table 14",
-       "src": "Agro 1/2026",
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 99,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb (K5, K7, K8, K9)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (K5, K7, K8, K9)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "K3, K4, K6",
+       "v": "REPLANTING 2027, no manuring",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -919,14 +1096,14 @@
    "sph": 125,
    "planted": "1994",
    "status": "Mature",
-   "ytd": 20.41,
+   "ytd": 14.58,
    "est": null,
-   "prevYtd": 22.26,
-   "fert": "NK2 2500 g (Jan)",
+   "prevYtd": 13.88,
+   "fert": "NK2 2500 g (Jan) (2026). 2027: NK3 2500 g ×2 (Jan, Jul) on M1, M2, M5; M3, M4, M11 replanting",
    "notes": [
     {
-     "src": "Agro 1/2026",
-     "text": "2025 yield 20.41 t/ha vs 22.26 in 2024 (PA prints 20.50)."
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 14.58 t/ha vs 13.88 in Jan–Aug 2025; P94M1 7% overripe at the Sep 2026 visit."
     },
     {
      "src": "PA 1/2026",
@@ -935,6 +1112,29 @@
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "14.58 t/ha Jan–Aug 2026 (328.79 ha) vs 13.88 t/ha Jan–Aug 2025 (240.50 ha), yield diff 3%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "14.58 t/ha",
+        "d": "328.79 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "13.88 t/ha",
+        "d": "240.50 ha"
+       },
+       {
+        "l": "Change",
+        "v": "3%",
+        "d": "as printed"
+       }
+      ],
+      "note": "Size 240.50 ha in 2025, 328.79 ha in 2026."
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "20.41 t/ha vs 22.26 t/ha (−1.85); Agro table area 534.8 ha (old area). PA 1/2026 8.2 prints P94M 20.50 t/ha as second-highest field",
@@ -1032,87 +1232,144 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 16-19, Feb 13-15, Mar 12-14, Apr 12-15, May 15-16, Jun 15-16, Jul 15-17, Aug 14-16, Sep 15-16, Oct 14-17, Nov 14-17, Dec 16-18 | Jan 16-18, Feb 14-17",
-      "src": "Agro 1/2026",
+      "k": "Ripeness at visit Sep 2026",
+      "v": "Freshly harvested bunches: P94M1 7% overripe (visit 30 Sep 2026)",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 11-15, Feb 15-16, Mar 12-14, Apr 15-17, May 14-16, Jun 15-16, Jul 15-17, Aug 14-16, Sep 15-16",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "16-19",
-         "16-18"
+         "11-15"
         ],
         [
          "Feb",
-         "13-15",
-         "14-17"
+         "15-16"
         ],
         [
          "Mar",
-         "12-14",
-         "–"
+         "12-14"
         ],
         [
          "Apr",
-         "12-15",
-         "–"
+         "15-17"
         ],
         [
          "May",
-         "15-16",
-         "–"
+         "14-16"
         ],
         [
          "Jun",
-         "15-16",
-         "–"
+         "15-16"
         ],
         [
          "Jul",
-         "15-17",
-         "–"
+         "15-17"
         ],
         [
          "Aug",
-         "14-16",
-         "–"
+         "14-16"
         ],
         [
          "Sep",
-         "15-16",
-         "–"
+         "15-16"
+        ]
+       ]
+      },
+      "note": "Printed values as in the report. Estate target: 15-day interval."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 16-19, Feb 13-15, Mar 12-14, Apr 12-15, May 15-16, Jun 15-16, Jul 15-17, Aug 14-16, Sep 15-16, Oct 14-17, Nov 14-17, Dec 16-18",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "16-19"
+        ],
+        [
+         "Feb",
+         "13-15"
+        ],
+        [
+         "Mar",
+         "12-14"
+        ],
+        [
+         "Apr",
+         "12-15"
+        ],
+        [
+         "May",
+         "15-16"
+        ],
+        [
+         "Jun",
+         "15-16"
+        ],
+        [
+         "Jul",
+         "15-17"
+        ],
+        [
+         "Aug",
+         "14-16"
+        ],
+        [
+         "Sep",
+         "15-16"
         ],
         [
          "Oct",
-         "14-17",
-         "–"
+         "14-17"
         ],
         [
          "Nov",
-         "14-17",
-         "–"
+         "14-17"
         ],
         [
          "Dec",
-         "16-18",
-         "–"
+         "16-18"
         ]
        ]
       },
       "note": "Printed values as in the report."
      },
      {
-      "k": "Ripeness at visit",
-      "v": "P94M4 8% overripe (Mar 2026); Nov 2025: M4 5%, M3 10% overripe",
+      "k": "Ripeness Nov 2025",
+      "v": "Nov 2025: M4 5%, M3 10% overripe",
       "src": "Agro 1/2026"
+     },
+     {
+      "k": "Older: ripeness Mar 2026",
+      "v": "P94M4 8% overripe (Mar 2026)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Sparse patches, thin soft cover: M1, M11, M2. Acceptable soft grasses: M5, M4, M3",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Sparse patches, thin soft cover: M1, M11, M2",
+       "Acceptable soft grasses: M5, M4, M3"
+      ]
+     },
      {
       "k": "Weeding rounds 2025",
       "v": "94M: 3 rounds, 616.80 ha (100%); 94M11: 2 of 3 rounds, 176.58 of 264.87 ha (67%) due to flooding | 94M 616.80 ha and 94M11 264.87 ha, 3 rounds (100%)",
@@ -1162,22 +1419,60 @@
        "94M11 88.20 ha (100%)",
        "Selective 94M11 printed 100% but only 50.00 of 88.20 ha done"
       ]
-     },
-     {
-      "k": "Ground cover (Mar 2026)",
-      "v": "M1, M11, M3, M2 sparse patches; M4, M5 acceptable soft grasses. Weeds at vacant points in P94M4 should be eradicated during selective spray (photos 38-39)",
-      "src": "Agro 1/2026",
-      "pts": [
-       "M1, M11, M3, M2 sparse patches",
-       "M4, M5 acceptable soft grasses",
-       "Weeds at vacant points in P94M4 should be eradicated during selective spray (photos 38-39)"
-      ]
      }
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 4.50%, May 3.80%, Aug 5.40%, Nov 6.50%; Jan 2026 6.80%",
+      "k": "Rat damage census 2026",
+      "v": "328.79 ha: Feb 2026 3.7, Aug 2026 3.9 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Feb 2026",
+         "3.7"
+        ],
+        [
+         "Aug 2026",
+         "3.9"
+        ]
+       ]
+      },
+      "note": "Threshold 10%. Agro 1/2026 printed Jan 2026 6.80%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "117.4 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "16 boxes, 80% occupancy (328.79 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "16",
+        "d": "328.79 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "80%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "No result printed for this block: the census table lists P96Y3–Y8 only. Status at Mar 2026: census in progress",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 4.50%, May 3.80%, Aug 5.40%, Nov 6.50%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -1200,10 +1495,6 @@
         [
          "Nov 2025",
          "6.50%"
-        ],
-        [
-         "Jan 2026",
-         "6.80%"
         ]
        ]
       }
@@ -1212,11 +1503,6 @@
       "k": "Barn owls",
       "v": "22 required, 16 installed, 16 occupied (100%, PA); Agro Nov 2025 census 80% occupancy",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Ganoderma",
-      "v": "Census in progress (534.8 ha listed)",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Rat baiting 2025",
@@ -1230,6 +1516,53 @@
      }
     ],
     "pruning": [
+     {
+      "k": "Pruning programme to Aug 2026",
+      "v": "94 M 117.40 ha: previously 93.00, this month 5.00, to date 98.00, balance 19.40, 83% | 94 M (LSG) 123.10 ha: previously 91.05, this month 5.00, to date 96.05, balance 27.05, 78% | 94 M11 88.20 ha: previously 57.10, this month 5.00, to date 62.10, balance 26.10, 70%",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Line",
+        "Ha",
+        "To date",
+        "Balance",
+        "Done"
+       ],
+       "rows": [
+        [
+         "94 M",
+         "117.40",
+         "98.00",
+         "19.40",
+         "83%"
+        ],
+        [
+         "94 M (LSG)",
+         "123.10",
+         "96.05",
+         "27.05",
+         "78%"
+        ],
+        [
+         "94 M11",
+         "88.20",
+         "62.10",
+         "26.10",
+         "70%"
+        ]
+       ]
+      },
+      "note": "5.00 ha done this month on each line."
+     },
+     {
+      "k": "Pruning quality Sep 2026",
+      "v": "Improved vs previous visit: M5, M2, M4. Not much change: M1, M11, M3. Dry hanging fronds remain sporadic in tall palm areas",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Improved vs previous visit: M5, M2, M4",
+       "Not much change: M1, M11, M3"
+      ]
+     },
      {
       "k": "Pruning 2025",
       "v": "94M 117.40 of 117.40 ha; 94M (LSG) 122.72 of 123.10 ha; 94M11 88.21 of 88.29 ha (all 100%)",
@@ -1261,20 +1594,21 @@
       "note": "All 100% in 2025."
      },
      {
-      "k": "Quality (Mar 2026)",
+      "k": "Older: quality Mar 2026",
       "v": "M1, M11, M4, M3, M2, M5 improved, slightly above acceptable but dry hanging fronds in patches",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "field": [
      {
-      "k": "Sub-blocks",
-      "v": "M1 51.40, M2 47.50, M3 53.60, M4 22.00, M5 66.00, M11 88.29 ha (Agro); PA splits 94M 117.40, 94M (LSG, Sg Gayung Division) 123.10, 94M11 (Sg Marung / Far East Division) 88.29",
-      "src": "Agro 1/2026",
+      "k": "Area Aug 2026",
+      "v": "M1 51.40, M2 47.50, M3 53.60, M4 22.00, M5 66.00, M11 88.29 ha; total 328.79 ha (534.79 ha previously). Pruning lines: 94 M 117.40, 94 M (LSG) 123.10, 94 M11 88.20",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Sub-block",
-        "ha"
+        "Ha"
        ],
        "rows": [
         [
@@ -1300,50 +1634,41 @@
         [
          "M11",
          "88.29"
+        ],
+        [
+         "Total",
+         "328.79"
         ]
        ]
       },
-      "note": "PA splits: 94M 117.40, 94M (LSG, Sg Gayung Division) 123.10, 94M11 (Sg Marung / Far East Division) 88.29 ha."
+      "note": "534.79 ha previously. Pruning table: 94 M 117.40, LSG 123.10, M11 88.20."
      },
      {
       "k": "Palm census",
-      "v": "41,099 palms; SPH 125 vs 136 (Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "41,099 palms on 328.79 ha; SPH 125 vs 136 previously (-11) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "41,099"
+        "v": "41,099",
+        "d": "328.79 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "125",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -11"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
      },
      {
-      "k": "Replanting programme",
-      "v": "2027: M3, M4, M5 (141.60 ha); 2028: M1, M2, M11 (187.19 ha)",
-      "src": "Agro 1/2026",
-      "tbl": {
-       "cols": [
-        "Year",
-        "Sub-blocks",
-        "ha"
-       ],
-       "rows": [
-        [
-         "2027",
-         "M3, M4, M5",
-         "141.60"
-        ],
-        [
-         "2028",
-         "M1, M2, M11",
-         "187.19"
-        ]
-       ]
-      }
+      "k": "Replanting 2027 per fertiliser programme",
+      "v": "M3, M4, M11 marked REPLANTING 2027; M1, M2, M5 are programmed fertiliser in 2027",
+      "src": "Agro 2/2026",
+      "note": "Agro 1/2026 listed M3, M4, M5 for 2027 and M1, M2, M11 for 2028."
      },
      {
       "k": "Flood-prone",
@@ -1371,6 +1696,31 @@
         ]
        ]
       }
+     },
+     {
+      "k": "Older: replanting programme Mar 2026",
+      "v": "2027: M3, M4, M5 (141.60 ha); 2028: M1, M2, M11 (187.19 ha)",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Year",
+        "Sub-blocks",
+        "ha"
+       ],
+       "rows": [
+        [
+         "2027",
+         "M3, M4, M5",
+         "141.60"
+        ],
+        [
+         "2028",
+         "M1, M2, M11",
+         "187.19"
+        ]
+       ]
+      },
+      "hide": true
      }
     ],
     "fertNow": {
@@ -1419,47 +1769,62 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Jan (estate)",
-       "pct": 5,
-       "note": "7.00 of 132.35 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": true
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Circle & path · 94M",
-       "pct": 40,
-       "note": "98.90 ha (no programme printed)",
-       "src": "PA 1/2026",
-       "calc": false
-      },
-      {
-       "k": "Circle & path · M11",
+       "k": "Inter-row weeding rd 1",
        "pct": 100,
-       "note": "88.20 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Selective · 94M",
-       "pct": 70,
-       "note": "165.83 of 240.50 ha",
-       "src": "PA 1/2026",
+       "k": "Inter-row weeding rd 2",
+       "pct": 98,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Selective · M11",
+       "k": "Circle weeding rd 1",
        "pct": 100,
-       "note": "50.00 of 88.20 ha, printed 100%",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 85,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Jan (M1, M2, M5)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jul (M1, M2, M5)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "M3, M4, M11",
+       "v": "REPLANTING 2027, no manuring",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -1481,14 +1846,14 @@
    "sph": 128,
    "planted": "1995",
    "status": "Mature",
-   "ytd": 15.95,
+   "ytd": 9.84,
    "est": null,
-   "prevYtd": 19.95,
-   "fert": "NK2 2000 g x2 (Feb, Sep)",
+   "prevYtd": 11.14,
+   "fert": "NK2 2000 g x2 (Feb, Sep) (2026). 2027: NK3 2500 g ×2 (Feb, Aug) on S3; S1, S4 replanting",
    "notes": [
     {
-     "src": "Agro 1/2026",
-     "text": "2025 yield 15.95 t/ha vs 19.95 (−4.00), worst drop; S3 100% and S4 85% flood-prone."
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 9.84 t/ha vs 11.14 in Jan–Aug 2025, flood-hit in Jan 2026."
     },
     {
      "src": "PA 1/2026",
@@ -1497,6 +1862,37 @@
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "9.84 t/ha Jan–Aug 2026 (155.91 ha) vs 11.14 t/ha Jan–Aug 2025 (155.91 ha), yield diff -12%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "9.84 t/ha",
+        "d": "155.91 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "11.14 t/ha",
+        "d": "155.91 ha"
+       },
+       {
+        "l": "Change",
+        "v": "-12%",
+        "d": "as printed"
+       }
+      ]
+     },
+     {
+      "k": "Flood Jan 2026",
+      "v": "According to the estate, flooding in January 2026 disrupted harvesting and left areas of P95S inaccessible; the downtime hindered crop evacuation and continues to affect yield recovery",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Jan 2026 flooding disrupted harvesting, areas inaccessible (estate)",
+       "Downtime hindered crop evacuation, still affecting yield recovery"
+      ]
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "15.95 vs 19.95 t/ha (−4.00)",
@@ -1559,75 +1955,112 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 16-17, Feb 13-18, Mar 14-20, Apr 15-21, May 16-19, Jun 18-19, Jul 13-15, Aug 16-17, Sep 14-17, Oct 15-16, Nov 14-15, Dec 17-14 (over 20 days in H1 due to flooding) | Jan 18-23, Feb 15-19",
-      "src": "Agro 1/2026",
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 15-21, Feb 16-19, Mar 14-20, Apr 13-15, May 16-17, Jun 14-17, Jul 13-15, Aug 16-17, Sep 14-17",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "16-17",
-         "18-23"
+         "15-21"
         ],
         [
          "Feb",
-         "13-18",
-         "15-19"
+         "16-19"
         ],
         [
          "Mar",
-         "14-20",
-         "–"
+         "14-20"
         ],
         [
          "Apr",
-         "15-21",
-         "–"
+         "13-15"
         ],
         [
          "May",
-         "16-19",
-         "–"
+         "16-17"
         ],
         [
          "Jun",
-         "18-19",
-         "–"
+         "14-17"
         ],
         [
          "Jul",
-         "13-15",
-         "–"
+         "13-15"
         ],
         [
          "Aug",
-         "16-17",
-         "–"
+         "16-17"
         ],
         [
          "Sep",
-         "14-17",
-         "–"
+         "14-17"
+        ]
+       ]
+      },
+      "note": "Over 20 days in some months of the first half of 2026 (flooding, inaccessibility). Target: 15 days."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 16-17, Feb 13-18, Mar 14-20, Apr 15-21, May 16-19, Jun 18-19, Jul 13-15, Aug 16-17, Sep 14-17, Oct 15-16, Nov 14-15, Dec 17-14 (over 20 days in H1 due to flooding)",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "16-17"
+        ],
+        [
+         "Feb",
+         "13-18"
+        ],
+        [
+         "Mar",
+         "14-20"
+        ],
+        [
+         "Apr",
+         "15-21"
+        ],
+        [
+         "May",
+         "16-19"
+        ],
+        [
+         "Jun",
+         "18-19"
+        ],
+        [
+         "Jul",
+         "13-15"
+        ],
+        [
+         "Aug",
+         "16-17"
+        ],
+        [
+         "Sep",
+         "14-17"
         ],
         [
          "Oct",
-         "15-16",
-         "–"
+         "15-16"
         ],
         [
          "Nov",
-         "14-15",
-         "–"
+         "14-15"
         ],
         [
          "Dec",
-         "17-14",
-         "–"
+         "17-14"
         ]
        ]
       },
@@ -1675,8 +2108,56 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 4.70%, May 5.10%, Aug 5.60%, Nov 4.30%; Jan 2026 8.70%",
+      "k": "Rat damage census 2026",
+      "v": "155.91 ha: Feb 2026 4.5, Aug 2026 4.1 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Feb 2026",
+         "4.5"
+        ],
+        [
+         "Aug 2026",
+         "4.1"
+        ]
+       ]
+      },
+      "note": "Threshold 10%. Agro 1/2026 printed Jan 2026 8.70%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "155.91 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "7 boxes, 100% occupancy (155.91 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "7",
+        "d": "155.91 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "100%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "No result printed for this block: the census table lists P96Y3–Y8 only. Status at Mar 2026: not commenced yet",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 4.70%, May 5.10%, Aug 5.60%, Nov 4.30%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -1699,10 +2180,6 @@
         [
          "Nov 2025",
          "4.30%"
-        ],
-        [
-         "Jan 2026",
-         "8.70%"
         ]
        ]
       }
@@ -1713,17 +2190,32 @@
       "src": "PA 1/2026"
      },
      {
-      "k": "Ganoderma",
-      "v": "Census not commenced yet",
-      "src": "Agro 1/2026"
-     },
-     {
       "k": "Beneficial plants",
       "v": "354 chains existing; 2025 programme 102.00, planted 50.00 chains",
       "src": "PA 1/2026"
      }
     ],
     "pruning": [
+     {
+      "k": "Pruning programme to Aug 2026",
+      "v": "107.13 of 155.91 ha to date (69%); previously 107.13, this month -, balance 48.78 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "107.13 ha",
+        "d": "of 155.91 ha"
+       },
+       {
+        "l": "Done",
+        "v": "69%"
+       },
+       {
+        "l": "Balance",
+        "v": "48.78 ha"
+       }
+      ]
+     },
      {
       "k": "Pruning 2025",
       "v": "155.83 of 155.91 ha (100%)",
@@ -1744,13 +2236,13 @@
     ],
     "field": [
      {
-      "k": "Sub-blocks",
-      "v": "S1 45.60, S3 38.40, S4 71.91 ha",
-      "src": "Agro 1/2026",
+      "k": "Area Aug 2026",
+      "v": "S1 45.60, S3 38.40, S4 71.91 ha; total 155.91 ha, unchanged",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Sub-block",
-        "ha"
+        "Ha"
        ],
        "rows": [
         [
@@ -1764,30 +2256,40 @@
         [
          "S4",
          "71.91"
+        ],
+        [
+         "Total",
+         "155.91"
         ]
        ]
       }
      },
      {
       "k": "Palm census",
-      "v": "19,956 palms; SPH 128 vs 136 (Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "19,956 palms on 155.91 ha; SPH 128 vs 136 previously (-8) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "19,956"
+        "v": "19,956",
+        "d": "155.91 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "128",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -8"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
      },
      {
-      "k": "Replanting programme",
-      "v": "2029: S1, S3, S4 (155.91 ha)",
-      "src": "Agro 1/2026"
+      "k": "Replanting 2027 per fertiliser programme",
+      "v": "S1, S4 marked REPLANTING 2027; S3 is programmed fertiliser in 2027",
+      "src": "Agro 2/2026",
+      "note": "Agro 1/2026 listed S1, S3, S4 for 2029."
      },
      {
       "k": "Flood-prone",
@@ -1824,6 +2326,12 @@
        "2025 budget 500 mt, RM5,000, not applied",
        "Agro 2/2025 suggested lateritic zone in P95S1 (25 ha) for EFB"
       ]
+     },
+     {
+      "k": "Older: replanting programme Mar 2026",
+      "v": "2029: S1, S3, S4 (155.91 ha)",
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "fertNow": {
@@ -1872,26 +2380,62 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 183.85 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Selective rd 1",
+       "k": "Inter-row weeding rd 1",
        "pct": 100,
-       "note": "155.91 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 95,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb (S3)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (S3)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "S1, S4",
+       "v": "REPLANTING 2027, no manuring",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -1913,18 +2457,45 @@
    "sph": 125,
    "planted": "1996",
    "status": "Mature",
-   "ytd": 16.42,
+   "ytd": 11.8,
    "est": null,
-   "prevYtd": 17.0,
-   "fert": "NK2 2000 g x2 (Feb, Sep)",
+   "prevYtd": 10.77,
+   "fert": "NK2 2000 g x2 (Feb, Sep) (2026). 2027: NK3 2500 g ×2 (Feb, Aug)",
    "notes": [
     {
-     "src": "Agro 1/2026",
-     "text": "T5 74.40 ha less 5.30 ha moved to P26H replant = 69.10 ha; 2025 yield 16.42 vs 17 t/ha."
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 11.80 t/ha vs 10.77 in Jan–Aug 2025; rat damage 6.7 in Jul 2026."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2025: 3 weeding rounds done and 74.38 of 74.40 ha pruned, both 100%."
     }
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "11.80 t/ha Jan–Aug 2026 (69.10 ha) vs 10.77 t/ha Jan–Aug 2025 (74.40 ha), yield diff 10%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "11.80 t/ha",
+        "d": "69.10 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "10.77 t/ha",
+        "d": "74.40 ha"
+       },
+       {
+        "l": "Change",
+        "v": "10%",
+        "d": "as printed"
+       }
+      ],
+      "note": "Size 74.40 ha in 2025, 69.10 ha in 2026."
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "16.42 vs 17 t/ha (−0.58), 74.4 ha",
@@ -1974,75 +2545,112 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 14-18, Feb 17-18, Mar 14-20, Apr 13-21, May 15-16, Jun 17-18, Jul 14-16, Aug 15-17, Sep 14-16, Oct 16-17, Nov 14-16, Dec 12-19 | Jan 18-16, Feb 15-16",
-      "src": "Agro 1/2026",
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 13-21, Feb 15-16, Mar 14-20, Apr 14-16, May 15-17, Jun 14-16, Jul 14-16, Aug 15-17, Sep 14-16",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "14-18",
-         "18-16"
+         "13-21"
         ],
         [
          "Feb",
-         "17-18",
          "15-16"
         ],
         [
          "Mar",
-         "14-20",
-         "–"
+         "14-20"
         ],
         [
          "Apr",
-         "13-21",
-         "–"
+         "14-16"
         ],
         [
          "May",
-         "15-16",
-         "–"
+         "15-17"
         ],
         [
          "Jun",
-         "17-18",
-         "–"
+         "14-16"
         ],
         [
          "Jul",
-         "14-16",
-         "–"
+         "14-16"
         ],
         [
          "Aug",
-         "15-17",
-         "–"
+         "15-17"
         ],
         [
          "Sep",
-         "14-16",
-         "–"
+         "14-16"
+        ]
+       ]
+      },
+      "note": "Over 20 days in some months of the first half of 2026 (flooding, inaccessibility). Target: 15 days."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 14-18, Feb 17-18, Mar 14-20, Apr 13-21, May 15-16, Jun 17-18, Jul 14-16, Aug 15-17, Sep 14-16, Oct 16-17, Nov 14-16, Dec 12-19",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-18"
+        ],
+        [
+         "Feb",
+         "17-18"
+        ],
+        [
+         "Mar",
+         "14-20"
+        ],
+        [
+         "Apr",
+         "13-21"
+        ],
+        [
+         "May",
+         "15-16"
+        ],
+        [
+         "Jun",
+         "17-18"
+        ],
+        [
+         "Jul",
+         "14-16"
+        ],
+        [
+         "Aug",
+         "15-17"
+        ],
+        [
+         "Sep",
+         "14-16"
         ],
         [
          "Oct",
-         "16-17",
-         "–"
+         "16-17"
         ],
         [
          "Nov",
-         "14-16",
-         "–"
+         "14-16"
         ],
         [
          "Dec",
-         "12-19",
-         "–"
+         "12-19"
         ]
        ]
       },
@@ -2080,14 +2688,57 @@
     ],
     "pests": [
      {
+      "k": "Rat damage census 2026",
+      "v": "74.4 ha: Apr 2026 3.8, Jul 2026 6.7 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Apr 2026",
+         "3.8"
+        ],
+        [
+         "Jul 2026",
+         "6.7"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "74.4 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "4 boxes, 100% occupancy (74.4 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "4",
+        "d": "74.4 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "100%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "No result printed for this block: the census table lists P96Y3–Y8 only. Status at Mar 2026: not commenced yet",
+      "src": "Agro 2/2026"
+     },
+     {
       "k": "Barn owls",
       "v": "5 required, 4 installed and occupied (100%)",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Ganoderma",
-      "v": "Census not commenced yet",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Beneficial plants",
@@ -2096,6 +2747,26 @@
      }
     ],
     "pruning": [
+     {
+      "k": "Pruning programme to Aug 2026",
+      "v": "95 T5: 65.70 of 74.40 ha to date (88%); previously 55.70, this month 10.00, balance 8.70 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "65.70 ha",
+        "d": "of 74.40 ha"
+       },
+       {
+        "l": "Done",
+        "v": "88%"
+       },
+       {
+        "l": "Balance",
+        "v": "8.70 ha"
+       }
+      ]
+     },
      {
       "k": "Pruning 2025",
       "v": "95 T5 74.38 of 74.40 ha (100%)",
@@ -2111,23 +2782,61 @@
     ],
     "field": [
      {
-      "k": "Area",
-      "v": "74.40 ha in PA; Agro updated to 69.10 ha (Feb 2026) after 5.30 ha of T5 went into PR26H",
-      "src": "Agro 1/2026"
+      "k": "Area Aug 2026",
+      "v": "69.1 ha latest vs 74.4 previously (Table 1); 69.10 in Tables 2 and 14; 74.4 in Tables 3, 9, 11, 13 and Appendix 1(a)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Table",
+        "Ha"
+       ],
+       "rows": [
+        [
+         "Table 1 latest",
+         "69.1"
+        ],
+        [
+         "Table 1 previous",
+         "74.4"
+        ],
+        [
+         "Table 2",
+         "69.10"
+        ],
+        [
+         "Table 14 (2026)",
+         "69.10"
+        ],
+        [
+         "Tables 3, 9, 11, 13",
+         "74.4"
+        ],
+        [
+         "Appendix 1(a)",
+         "74.4"
+        ]
+       ]
+      },
+      "note": "5.30 ha of ex-P95T5 went into P26H."
      },
      {
       "k": "Palm census",
-      "v": "9,300 palms; SPH 125 vs 136 (Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "9,300 palms on 74.4 ha; SPH 125 vs 136 previously (-11) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "9,300"
+        "v": "9,300",
+        "d": "74.4 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "125",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -11"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
      },
@@ -2188,33 +2897,62 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 183.85 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Selective rd 1",
+       "k": "Inter-row weeding rd 1",
        "pct": 100,
-       "note": "74.40 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Inter-row rd 1 (Agro)",
-       "pct": 80,
-       "note": "Agro Table 14",
-       "src": "Agro 1/2026",
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 81,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb (T5)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (T5)",
+       "v": "NK3 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Appendix prints P95/T5 at 74.4 ha.",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -2236,22 +2974,45 @@
    "sph": 128,
    "planted": "1996",
    "status": "Mature",
-   "ytd": 15.09,
+   "ytd": 12.17,
    "est": null,
-   "prevYtd": 16.66,
-   "fert": "NK2 2000 g x2 (Jan, Sep), Y1–Y2",
+   "prevYtd": 10.21,
+   "fert": "NK2 2000 g x2 (Jan, Sep), Y1–Y2 (2026). 2027: NK3 2000 g ×2 (Jan, May) + Mix B 2000 g (Sep), Y1–Y2",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 12.17 t/ha vs 10.21 in Jan–Aug 2025 on a smaller area; P96Y2 8% overripe."
+    },
     {
      "src": "PA 1/2026",
      "text": "Lowest-yielding field in 2025 (15.09 t/ha); Y3–Y8 (282 ha incl. T5 part) felled for PR26H in Jan–Feb 2026."
-    },
-    {
-     "src": "Agro 1/2026",
-     "text": "Ganoderma census Jun 2025: 8.59% infected; rotten bunch heap in P96Y2."
     }
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "12.17 t/ha Jan–Aug 2026 (85.30 ha) vs 10.21 t/ha Jan–Aug 2025 (335.40 ha), yield diff 19%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "12.17 t/ha",
+        "d": "85.30 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "10.21 t/ha",
+        "d": "335.40 ha"
+       },
+       {
+        "l": "Change",
+        "v": "19%",
+        "d": "as printed"
+       }
+      ],
+      "note": "Size 335.40 ha in 2025, 85.30 ha in 2026: most of the block was felled for P26H."
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "15.09 vs 16.66 t/ha (−1.57), 362.0 ha",
@@ -2349,96 +3110,154 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 16-19, Feb 15-18, Mar 15-23, Apr 12-25, May 14-15, Jun 15-16, Jul 14-17, Aug 16-17, Sep 17-15, Oct 15-17, Nov 16-17, Dec 16-17 | Jan 15-23, Feb 15-19",
-      "src": "Agro 1/2026",
+      "k": "Ripeness at visit Sep 2026",
+      "v": "Freshly harvested bunches: P96Y2 8% overripe (visit 30 Sep 2026)",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Rotten bunches Sep 2026",
+      "v": "Heaps of rotten bunches noted in Agro 1/2026 no longer seen. Occasional overnight or uncollected bunches, incidence low; rotten bunches seen in P96Y1 (photo 15)",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Rotten bunch heaps from the last visit no longer seen",
+       "Occasional overnight or uncollected bunches, incidence low",
+       "Rotten bunches seen in P96Y1 (photo 15)"
+      ]
+     },
+     {
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 12-25, Feb 14-15, Mar 15-23, Apr 14-17, May 16-17, Jun 17-15, Jul 14-17, Aug 16-17, Sep 12-16",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "16-19",
-         "15-23"
+         "12-25"
         ],
         [
          "Feb",
-         "15-18",
-         "15-19"
+         "14-15"
         ],
         [
          "Mar",
-         "15-23",
-         "–"
+         "15-23"
         ],
         [
          "Apr",
-         "12-25",
-         "–"
+         "14-17"
         ],
         [
          "May",
-         "14-15",
-         "–"
+         "16-17"
         ],
         [
          "Jun",
-         "15-16",
-         "–"
+         "17-15"
         ],
         [
          "Jul",
-         "14-17",
-         "–"
+         "14-17"
         ],
         [
          "Aug",
-         "16-17",
-         "–"
+         "16-17"
         ],
         [
          "Sep",
-         "17-15",
-         "–"
+         "12-16"
+        ]
+       ]
+      },
+      "note": "Over 20 days in some months of the first half of 2026 (flooding, inaccessibility). Target: 15 days."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 16-19, Feb 15-18, Mar 15-23, Apr 12-25, May 14-15, Jun 15-16, Jul 14-17, Aug 16-17, Sep 17-15, Oct 15-17, Nov 16-17, Dec 16-17",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "16-19"
+        ],
+        [
+         "Feb",
+         "15-18"
+        ],
+        [
+         "Mar",
+         "15-23"
+        ],
+        [
+         "Apr",
+         "12-25"
+        ],
+        [
+         "May",
+         "14-15"
+        ],
+        [
+         "Jun",
+         "15-16"
+        ],
+        [
+         "Jul",
+         "14-17"
+        ],
+        [
+         "Aug",
+         "16-17"
+        ],
+        [
+         "Sep",
+         "17-15"
         ],
         [
          "Oct",
-         "15-17",
-         "–"
+         "15-17"
         ],
         [
          "Nov",
-         "16-17",
-         "–"
+         "16-17"
         ],
         [
          "Dec",
-         "16-17",
-         "–"
+         "16-17"
         ]
        ]
       },
       "note": "Printed values as in the report."
      },
      {
-      "k": "Rotten bunches",
+      "k": "Ripeness Nov 2025",
+      "v": "Y4 8%, Y1 8%, Y7 5% overripe",
+      "src": "Agro 2/2025"
+     },
+     {
+      "k": "Older: rotten bunches Mar 2026",
       "v": "Heap of rotten bunches in P96Y2 (photo 17); knock out loose fruit from excessively overripe bunches and discard EFB in field",
       "src": "Agro 1/2026",
       "pts": [
        "Heap of rotten bunches in P96Y2 (photo 17)",
        "Knock out loose fruit from excessively overripe bunches and discard EFB in field"
-      ]
-     },
-     {
-      "k": "Ripeness Nov 2025",
-      "v": "Y4 8%, Y1 8%, Y7 5% overripe",
-      "src": "Agro 2/2025"
+      ],
+      "hide": true
      }
     ],
     "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Acceptable soft grasses: Y1, Y2",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Weeding rounds 2025",
       "v": "96Y 1,006.20 ha and 96Y8 79.80 ha, 3 rounds (100%) | 3 rounds (100%)",
@@ -2476,17 +3295,72 @@
       "k": "Circle raking 2025",
       "v": "Done in all fields except P96Y (undergoing replanting)",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Ground cover (Mar 2026)",
-      "v": "Y1, Y2 acceptable soft grasses",
-      "src": "Agro 1/2026"
      }
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 3.60%, May 4.60%, Aug 4.10%, Nov 5.70%; Jan 2026 5.30%",
+      "k": "Rat damage census 2026",
+      "v": "85.3 ha: Jan 2026 4.2, Apr 2026 4.1, Jul 2026 4.0 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "4.2"
+        ],
+        [
+         "Apr 2026",
+         "4.1"
+        ],
+        [
+         "Jul 2026",
+         "4.0"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "85.3 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "18 boxes, 90% occupancy (362 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "18",
+        "d": "362 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "90%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma Y3–Y8 Agro 2/2026",
+      "v": "Y3–Y8 (276.70 ha, now mostly P26H): 8.70% infected in total; Y3 9.81%, Y4 7.24%, Y5 8.43%, Y6 8.76%, Y7 9.05%, Y8 8.24%. Y1, Y2 not listed",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Y3–Y8 infected",
+        "v": "8.70%",
+        "d": "276.70 ha"
+       }
+      ],
+      "note": "Sub-block table is under P26H. Y1, Y2 not listed."
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 3.60%, May 4.60%, Aug 4.10%, Nov 5.70%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -2509,16 +3383,12 @@
         [
          "Nov 2025",
          "5.70%"
-        ],
-        [
-         "Jan 2026",
-         "5.30%"
         ]
        ]
       }
      },
      {
-      "k": "Ganoderma census",
+      "k": "Ganoderma census Jun 2025",
       "v": "Completed Jun 2025: 8.59% infected (with palm census for chipping payment)",
       "src": "Agro 1/2026"
      },
@@ -2534,6 +3404,35 @@
      }
     ],
     "pruning": [
+     {
+      "k": "Pruning programme to Aug 2026",
+      "v": "74.30 of 85.30 ha to date (87%); previously 74.30, this month -, balance 11.00 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "74.30 ha",
+        "d": "of 85.30 ha"
+       },
+       {
+        "l": "Done",
+        "v": "87%"
+       },
+       {
+        "l": "Balance",
+        "v": "11.00 ha"
+       }
+      ]
+     },
+     {
+      "k": "Pruning quality Sep 2026",
+      "v": "Improved vs previous visit: Y1. Not much change: Y2. Dry hanging fronds remain sporadic in tall palm areas",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Improved vs previous visit: Y1",
+       "Not much change: Y2"
+      ]
+     },
      {
       "k": "Pruning 2025",
       "v": "96Y 327.40 of 335.40 ha (98%), balance 8.00; 96Y8 26.60 ha (100%)",
@@ -2563,34 +3462,69 @@
       "note": "Balance 8.00 ha in 96Y."
      },
      {
-      "k": "Quality (Mar 2026)",
+      "k": "Older: quality Mar 2026",
       "v": "Y1, Y2 improved; slight under-pruning seen in P96Y1 and P96Y2 (photos 18-23)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "field": [
      {
-      "k": "Area",
-      "v": "362.00 ha in 2025 (96Y 335.40 + 96Y8 26.60); from Jan 2026 85.30 ha (Y1 47.30 + Y2 38.00) remain mature",
-      "src": "Agro 1/2026",
-      "pts": [
-       "362.00 ha in 2025 (96Y 335.40 + 96Y8 26.60)",
-       "From Jan 2026 85.30 ha (Y1 47.30 + Y2 38.00) remain mature"
-      ]
+      "k": "Area Aug 2026",
+      "v": "85.3 ha latest vs 362 previously (Table 1); Y1 47.30 + Y2 38.00 = 85.30 (Table 2); 362 in Tables 3 and 13 and Appendix 1(a)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Table",
+        "Ha"
+       ],
+       "rows": [
+        [
+         "Table 1 latest",
+         "85.3"
+        ],
+        [
+         "Table 1 previous",
+         "362"
+        ],
+        [
+         "Table 2: Y1",
+         "47.30"
+        ],
+        [
+         "Table 2: Y2",
+         "38.00"
+        ],
+        [
+         "Tables 9, 11, 14",
+         "85.30"
+        ],
+        [
+         "Tables 3, 13",
+         "362"
+        ]
+       ]
+      },
+      "note": "Y3–Y8 felled for P26H."
      },
      {
       "k": "Palm census",
-      "v": "46,336 palms; SPH 128 vs 136 (Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "46,336 palms on 362 ha; SPH 128 vs 136 previously (-8) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "46,336"
+        "v": "46,336",
+        "d": "362 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "128",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -8"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
      },
@@ -2706,40 +3640,67 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Jan (estate)",
-       "pct": 5,
-       "note": "7.00 of 132.35 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": true
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Circle & path rd 1",
-       "pct": 0,
-       "note": "0 of 85.30 ha",
-       "src": "PA 1/2026",
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Selective rd 1",
-       "pct": 30,
-       "note": "28.00 of 85.30 ha",
-       "src": "PA 1/2026",
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Inter-row rd 1 (Agro)",
-       "pct": 32,
-       "note": "Agro Table 14",
-       "src": "Agro 1/2026",
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Jan (Y1, Y2)",
+       "v": "NK3 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May (Y1, Y2)",
+       "v": "NK3 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Sep (Y1, Y2)",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Appendix 1(a) also prints Y3–Y8 at the same rates (block total 362.0 ha), although they were felled for P26H.",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP; Mix B = 45% AS : 40% MOP : 14% KIE : 1% borate.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -2761,11 +3722,15 @@
    "sph": 120,
    "planted": "2005",
    "status": "Mature",
-   "ytd": 27.11,
+   "ytd": 18.11,
    "est": null,
-   "prevYtd": 28.51,
-   "fert": "NK2 2000 g (Feb) + NK2 1500 g (Jun) + Mix B 1500 g (Oct)",
+   "prevYtd": 17.89,
+   "fert": "NK2 2000 g (Feb) + NK2 1500 g (Jun) + Mix B 1500 g (Oct) (2026). 2027: Mix B 2500 g ×2 (Feb, Oct) + NK3 2000 g (Jun)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 18.11 t/ha vs 17.89 in Jan–Aug 2025; pruning 100% to Aug 2026, sparse ground cover."
+    },
     {
      "src": "PA 1/2026",
      "text": "Highest-yielding field in 2025 at 27.11 t/ha."
@@ -2773,6 +3738,28 @@
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "18.11 t/ha Jan–Aug 2026 (18.80 ha) vs 17.89 t/ha Jan–Aug 2025 (18.80 ha), yield diff 1%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "18.11 t/ha",
+        "d": "18.80 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "17.89 t/ha",
+        "d": "18.80 ha"
+       },
+       {
+        "l": "Change",
+        "v": "1%",
+        "d": "as printed"
+       }
+      ]
+     },
      {
       "k": "Jan–Dec 2025 vs 2024",
       "v": "27.11 vs 28.51 t/ha (−1.40)",
@@ -2822,75 +3809,112 @@
     ],
     "harvesting": [
      {
-      "k": "Harvest interval by month (days)",
-      "v": "Jan 14-15, Feb 13-15, Mar 13-17, Apr 12-15, May 13-15, Jun 15-17, Jul 13-15, Aug 17, Sep 14-15, Oct 14-16, Nov 14, Dec 15-13 | Jan 16-17, Feb 15-16",
-      "src": "Agro 1/2026",
+      "k": "Harvest interval Jan–Sep 2026 (days)",
+      "v": "Jan 12-15, Feb 13-15, Mar 13-17, Apr 13-15, May 17, Jun 14-15, Jul 13-15, Aug 14-17, Sep 14-17",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Month",
-        "2025",
-        "2026"
+        "Days"
        ],
        "rows": [
         [
          "Jan",
-         "14-15",
-         "16-17"
+         "12-15"
         ],
         [
          "Feb",
-         "13-15",
-         "15-16"
+         "13-15"
         ],
         [
          "Mar",
-         "13-17",
-         "–"
+         "13-17"
         ],
         [
          "Apr",
-         "12-15",
-         "–"
+         "13-15"
         ],
         [
          "May",
-         "13-15",
-         "–"
+         "17"
         ],
         [
          "Jun",
-         "15-17",
-         "–"
+         "14-15"
         ],
         [
          "Jul",
-         "13-15",
-         "–"
+         "13-15"
         ],
         [
          "Aug",
-         "17",
-         "–"
+         "14-17"
         ],
         [
          "Sep",
-         "14-15",
-         "–"
+         "14-17"
+        ]
+       ]
+      },
+      "note": "Printed values as in the report. Estate target: 15-day interval."
+     },
+     {
+      "k": "Harvest interval 2025 (days)",
+      "v": "Jan 14-15, Feb 13-15, Mar 13-17, Apr 12-15, May 13-15, Jun 15-17, Jul 13-15, Aug 17, Sep 14-15, Oct 14-16, Nov 14, Dec 15-13",
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "2025"
+       ],
+       "rows": [
+        [
+         "Jan",
+         "14-15"
+        ],
+        [
+         "Feb",
+         "13-15"
+        ],
+        [
+         "Mar",
+         "13-17"
+        ],
+        [
+         "Apr",
+         "12-15"
+        ],
+        [
+         "May",
+         "13-15"
+        ],
+        [
+         "Jun",
+         "15-17"
+        ],
+        [
+         "Jul",
+         "13-15"
+        ],
+        [
+         "Aug",
+         "17"
+        ],
+        [
+         "Sep",
+         "14-15"
         ],
         [
          "Oct",
-         "14-16",
-         "–"
+         "14-16"
         ],
         [
          "Nov",
-         "14",
-         "–"
+         "14"
         ],
         [
          "Dec",
-         "15-13",
-         "–"
+         "15-13"
         ]
        ]
       },
@@ -2898,6 +3922,11 @@
      }
     ],
     "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Sparse patches with thin soft vegetation cover",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Weeding rounds 2025",
       "v": "3 rounds, 56.40 ha (100%) | 3 rounds, 56.40 ha (100%)",
@@ -2929,23 +3958,65 @@
       "k": "Feb 2026",
       "v": "PA: circle programme 18.80 ha, not done; selective 18.80 ha done with no programme shown",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Ground cover (Mar 2026)",
-      "v": "Acceptable soft grasses",
-      "src": "Agro 1/2026"
      }
     ],
     "pests": [
      {
+      "k": "Rat damage census 2026",
+      "v": "18.8 ha: Jan 2026 2.8, Apr 2026 3.0, Jul 2026 2.5 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "2.8"
+        ],
+        [
+         "Apr 2026",
+         "3.0"
+        ],
+        [
+         "Jul 2026",
+         "2.5"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "18.8 ha listed, Storm 1 pc/palm; no rounds printed",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "1 boxes, 100% occupancy (18.8 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "1",
+        "d": "18.8 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "100%"
+       }
+      ]
+     },
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "No result printed for this block: the census table lists P96Y3–Y8 only. Status at Mar 2026: not commenced yet",
+      "src": "Agro 2/2026"
+     },
+     {
       "k": "Barn owls",
       "v": "1 required, 1 installed and occupied",
       "src": "PA 1/2026"
-     },
-     {
-      "k": "Ganoderma",
-      "v": "Census not commenced yet",
-      "src": "Agro 1/2026"
      },
      {
       "k": "Beneficial plants",
@@ -2954,6 +4025,31 @@
      }
     ],
     "pruning": [
+     {
+      "k": "Pruning programme to Aug 2026",
+      "v": "18.80 of 18.80 ha to date (100%); previously 18.80, this month -, balance 0.00 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "18.80 ha",
+        "d": "of 18.80 ha"
+       },
+       {
+        "l": "Done",
+        "v": "100%"
+       },
+       {
+        "l": "Balance",
+        "v": "0.00 ha"
+       }
+      ]
+     },
+     {
+      "k": "Pruning quality Sep 2026",
+      "v": "Improved vs previous visit: P05W. Dry hanging fronds remain sporadic in tall palm areas",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Pruning 2025",
       "v": "18.80 ha (100%), RM130/ha",
@@ -2971,9 +4067,10 @@
       ]
      },
      {
-      "k": "Quality (Mar 2026)",
+      "k": "Older: quality Mar 2026",
       "v": "Improved; slight under-pruning in P05W (photos 18-23)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "nutrients": [
@@ -3017,18 +4114,28 @@
     ],
     "field": [
      {
+      "k": "Area Aug 2026",
+      "v": "18.80 ha, unchanged",
+      "src": "Agro 2/2026"
+     },
+     {
       "k": "Palm census",
-      "v": "2,256 palms; SPH 120 vs 136 (Feb 2019)",
-      "src": "Agro 1/2026",
+      "v": "2,256 palms on 18.8 ha; SPH 120 vs 136 previously (-16) (census Feb 2019)",
+      "src": "Agro 2/2026",
       "stats": [
        {
         "l": "Palms",
-        "v": "2,256"
+        "v": "2,256",
+        "d": "18.8 ha"
        },
        {
         "l": "Stand (SPH)",
         "v": "120",
-        "d": "136 in Feb 2019"
+        "d": "136 previously, diff -16"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2019"
        }
       ]
      },
@@ -3104,26 +4211,62 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "NK2 · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 183.85 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Circle & path rd 1",
-       "pct": 0,
-       "note": "0 of 18.80 ha",
-       "src": "PA 1/2026",
+       "k": "Inter-row weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Inter-row weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 80,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb",
+       "v": "Mix B 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "NK3 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix B 2,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. NK3 = 40% SOA : 60% MOP; Mix B = 45% AS : 40% MOP : 14% KIE : 1% borate.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    },
    "yhist": {
@@ -3141,26 +4284,54 @@
   },
   {
    "id": "P21B",
-   "ha": 108.0,
+   "ha": 112.0,
    "sph": 148,
    "planted": "2021",
    "status": "Young mature",
-   "ytd": null,
+   "ytd": 11.99,
    "est": null,
-   "prevYtd": null,
-   "fert": "Mix B 1750 g (Feb) + 1500 g x3 (May, Aug, Nov) + RP 2000 g (Jun)",
+   "prevYtd": 9.12,
+   "fert": "Mix B 1750 g (Feb) + 1500 g x3 (May, Aug, Nov) + RP 2000 g (Jun) (2026). 2027: Mix B 2000 g ×4 (Feb, May, Aug, Oct) + RP 2000 g (Jun)",
    "notes": [
     {
-     "src": "PA 2/2025",
-     "text": "Declared mature in 2025; Jan–Aug 2025 9.12 t/ha with 16 rounds."
+     "src": "Agro 2/2026",
+     "text": "Jan–Aug 2026 11.99 t/ha vs 9.12 in Jan–Aug 2025; Mg deficiency in low-lying areas."
     },
     {
-     "src": "Agro 1/2026",
-     "text": "Rat damage 13.40% in Jan 2026, 9.40% after Feb baiting."
+     "src": "PA 1/2026",
+     "text": "2025: 5 weeding rounds and 108.00 ha pruned, both 100%; 2 rat-baiting rounds."
     }
    ],
    "detail": {
     "yield": [
+     {
+      "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+      "v": "11.99 t/ha Jan–Aug 2026 (112.00 ha) vs 9.12 t/ha Jan–Aug 2025 (92.00 ha), yield diff 31%",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Jan–Aug 2026",
+        "v": "11.99 t/ha",
+        "d": "112.00 ha"
+       },
+       {
+        "l": "Jan–Aug 2025",
+        "v": "9.12 t/ha",
+        "d": "92.00 ha"
+       },
+       {
+        "l": "Change",
+        "v": "31%",
+        "d": "as printed"
+       }
+      ],
+      "note": "Size 92.00 ha in 2025, 112.00 ha in 2026."
+     },
+     {
+      "k": "Young mature trend 2026",
+      "v": "P21B improved, as expected: palms are still young mature and yield potential should rise as they progress to the prime mature stage",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Jan–Aug 2025",
       "v": "838.92 t = 9.12 t/ha on 92.00 ha (Aug 2024 212.44 t, 2.31 t/ha); 16 harvesting rounds; 2025 estimate 600 t",
@@ -3214,6 +4385,11 @@
     ],
     "spraying": [
      {
+      "k": "Ground cover Sep 2026",
+      "v": "Grassy cover in low-lying, flood-prone areas, with aggressive weeds and woody species in localized patches",
+      "src": "Agro 2/2026"
+     },
+     {
       "k": "Weeding rounds 2025",
       "v": "5 of 5 rounds, 540.00 ha (100%) | 5 rounds, 540.00 ha (100%)",
       "src": "PA 1/2026",
@@ -3243,8 +4419,55 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 12.30% then 9.60% Mar, May 8.60%, Aug 11.70% then 9.20% Sep, Nov 8.50%; Jan 2026 13.40%, Feb 2026 9.40% after baiting",
+      "k": "Rat damage census 2026",
+      "v": "112 ha: Jan 2026 7.2, Apr 2026 6.8, Jul 2026 6.5 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "7.2"
+        ],
+        [
+         "Apr 2026",
+         "6.8"
+        ],
+        [
+         "Jul 2026",
+         "6.5"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "112 ha, Storm 1 pc/palm: 1st round 112 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "3 boxes, 100% occupancy (108 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "3",
+        "d": "108 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "100%"
+       }
+      ]
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 12.30% then 9.60% Mar, May 8.60%, Aug 11.70% then 9.20% Sep, Nov 8.50%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -3275,14 +4498,6 @@
         [
          "Nov 2025",
          "8.50%"
-        ],
-        [
-         "Jan 2026",
-         "13.40%"
-        ],
-        [
-         "Feb 2026",
-         "9.40% (after baiting)"
         ]
        ]
       }
@@ -3314,6 +4529,36 @@
     ],
     "pruning": [
      {
+      "k": "Pruning programme to Aug 2026",
+      "v": "92.00 of 112.00 ha to date (82%); previously 82.00, this month 10.00, balance 20.00 ha",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "To date",
+        "v": "92.00 ha",
+        "d": "of 112.00 ha"
+       },
+       {
+        "l": "Done",
+        "v": "82%"
+       },
+       {
+        "l": "Balance",
+        "v": "20.00 ha"
+       }
+      ]
+     },
+     {
+      "k": "Over-pruning Sep 2026",
+      "v": "Over-pruning has decreased but sporadic cases remain in P21B. Keep at least two fronds below the lowest bunch whorl for palms under 15 years; in this low-lying area frond retention may also reduce excess moisture",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Decreased, but sporadic cases remain (photos 67-68)",
+       "Keep at least two fronds below lowest bunch whorl (palms under 15 yr)",
+       "In low-lying areas, frond retention may also reduce excess field moisture"
+      ]
+     },
+     {
       "k": "Pruning 2025",
       "v": "108.00 ha (100%), RM75/ha",
       "src": "PA 1/2026",
@@ -3330,12 +4575,23 @@
       ]
      },
      {
-      "k": "Over-pruning",
+      "k": "Over-pruning Apr 2025",
       "v": "Notable over-pruning in P21A, P21B and P22D (only one subtending frond) noted in Apr 2025",
       "src": "Agro 1/2025"
      }
     ],
     "nutrients": [
+     {
+      "k": "Mg deficiency Sep 2026",
+      "v": "Some palms in low-lying areas of P21B show mild to moderately severe Mg deficiency. Apply kieserite 1,000 g per palm as corrective dose to affected palms the size of 3-year-old palms or larger; recent supply palms need none. Improve drainage where feasible",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Mild to moderately severe, low-lying areas",
+       "Kieserite 1,000 g/palm for affected palms 3-year-old size or larger",
+       "Recent supply palms: no corrective kieserite needed",
+       "Improve field drainage where feasible"
+      ]
+     },
      {
       "k": "Foliar (samples 15 Mar 2025)",
       "v": "P21/B1: N 2.68%, P 0.179%, K 1.30%, Mg 0.24%, Ca 0.54%, B 13.96 ppm; P21/B2: N 2.93%, P 0.178%, K 1.34%, Mg 0.28%, Ca 0.48%, B 13.82 ppm",
@@ -3383,39 +4639,69 @@
     ],
     "field": [
      {
-      "k": "Area",
-      "v": "108 ha (Agro Table 1); 112.00 ha in Agro sub-block table and PA Feb 2026 weeding table (B1 51, B2 41, B3 20)",
-      "src": "Agro 1/2026",
-      "pts": [
-       "108 ha (Agro Table 1)",
-       "112.00 ha in Agro sub-block table and PA Feb 2026 weeding table (B1 51, B2 41, B3 20)"
+      "k": "Area Aug 2026",
+      "v": "112 ha latest vs 108 previously (Table 1); B1 51.00, B2 41.00, B3 20.00 = 112.00 (Table 2); 108 in Tables 3, 13; 112 in Tables 9, 11, 12, 14",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Table",
+        "Ha"
+       ],
+       "rows": [
+        [
+         "Table 1 latest",
+         "112"
+        ],
+        [
+         "Table 1 previous",
+         "108"
+        ],
+        [
+         "Table 2 (51+41+20)",
+         "112.00"
+        ],
+        [
+         "Tables 3, 13",
+         "108"
+        ],
+        [
+         "Tables 9, 11, 12, 14",
+         "112"
+        ]
+       ]
+      },
+      "note": "Figures as printed, not reconciled."
+     },
+     {
+      "k": "Palm census",
+      "v": "15,984 palms on 108 ha; SPH 148 vs 148 previously (0) (census Mar 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "15,984",
+        "d": "108 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "148",
+        "d": "148 previously, diff 0"
+       },
+       {
+        "l": "Census",
+        "v": "Mar 2025"
+       }
       ]
      },
      {
       "k": "Origin",
       "v": "Ex-P94K1, K2 and P95S1",
-      "src": "Agro 1/2026"
+      "src": "Agro 2/2026"
      },
      {
-      "k": "Palm census",
-      "v": "15,984 palms, SPH 148 (Mar 2025)",
-      "src": "Agro 1/2026",
-      "stats": [
-       {
-        "l": "Palms",
-        "v": "15,984"
-       },
-       {
-        "l": "Stand (SPH)",
-        "v": "148",
-        "d": "Mar 2025"
-       }
-      ]
-     },
-     {
-      "k": "Supplying",
-      "v": "1,552 palms 2022, 2,400 in 2023, 1,650 in 2024, 1,096 in 2025 = 6,698",
-      "src": "Agro 1/2026",
+      "k": "Supply palms 2022–2025",
+      "v": "1,552 in 2022, 2,400 in 2023, 1,650 in 2024, 1,096 in 2025 = 6,698",
+      "src": "Agro 2/2026",
       "tbl": {
        "cols": [
         "Year",
@@ -3487,61 +4773,137 @@
      ]
     },
     "progress": {
-     "manuring": [
-      {
-       "k": "Mix B · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 47.35 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
-      }
-     ],
-     "manuringPeriod": "to Feb 2026",
      "spraying": [
       {
-       "k": "Circle & path rd 1",
+       "k": "Inter-row weeding rd 1",
        "pct": 100,
-       "note": "112.00 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Selective rd 1",
+       "k": "Inter-row weeding rd 2",
        "pct": 100,
-       "note": "112.00 ha",
-       "src": "PA 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       },
       {
-       "k": "Inter-row rd 1 (Agro)",
+       "k": "Inter-row weeding rd 3",
        "pct": 100,
-       "note": "Agro Table 14",
-       "src": "Agro 1/2026",
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 100,
+       "note": "2026 rounds",
+       "src": "Agro 2/2026",
        "calc": false
       }
      ],
-     "sprayingPeriod": "Jan–Feb 2026"
+     "sprayingPeriod": "as of Sep 2026"
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Feb (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun (supply 2024)",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct (supply 2024)",
+       "v": "Comp B 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Supply lines are the printed row Supply palms planted in 2024 (B).",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(b). Rates converted to grams per palm. Mix B = 45% AS : 40% MOP : 14% KIE : 1% borate; Comp B = 12:6:22:3; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    }
   },
   {
    "id": "P21A",
-   "ha": 138.0,
+   "ha": 139.0,
    "sph": 148,
    "planted": "2021",
    "status": "Immature",
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "Mix B 1750 g (Feb) + 1500 g x3 (May, Aug, Nov) + RP 2000 g (Jun)",
+   "fert": "Mix B 1750 g (Feb) + 1500 g x3 (May, Aug, Nov) + RP 2000 g (Jun) (2026). 2027: Mix B 2000 g ×4 (Feb, May, Aug, Nov) + RP 2000 g (Jun)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Mg deficiency persists in P21A3; corrective kieserite 1,000 g/palm not yet applied."
+    },
     {
      "src": "PA 1/2026",
      "text": "Flood-hit; supplied repeatedly; 15 ha scout harvested, 245 t FFB in 2025."
-    },
-    {
-     "src": "Agro 1/2026",
-     "text": "Mg deficiency in flood-prone P21A3; kieserite 1 kg/palm advised."
     }
    ],
    "detail": {
@@ -3553,6 +4915,16 @@
      }
     ],
     "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Grassy cover in low-lying, flood-prone areas (photos 44-45, 61-62), with Clidemia hirta, Stenochlaena palustris, Dicranopteris linearis, VOPs and woody species in localized patches. Higher ground keeps acceptable soft cover",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Grassy in low-lying, flood-prone areas",
+       "Clidemia, Stenochlaena, Dicranopteris, VOPs, woody species in patches",
+       "Eradicate tall weeds in low areas; improve drainage where feasible"
+      ]
+     },
      {
       "k": "Ground cover (Mar 2026)",
       "v": "Grassy in low-lying flood-prone P21A2 and P21A3; acceptable soft vegetation on higher ground in P21A3. Eradicate tall weeds in low areas, keep soft cover on high ground",
@@ -3566,8 +4938,55 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 7.20%, May 9.40%, Aug 12.50% then 9.60% Sep, Nov 8.60%; Jan 2026 12.60%, Feb 2026 8.90% after baiting",
+      "k": "Rat damage census 2026",
+      "v": "139 ha: Jan 2026 8.8, Apr 2026 5.6, Jul 2026 6.7 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "8.8"
+        ],
+        [
+         "Apr 2026",
+         "5.6"
+        ],
+        [
+         "Jul 2026",
+         "6.7"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "139 ha, Storm 1 pc/palm: 1st round 139 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "3 boxes, 80% occupancy (138 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "3",
+        "d": "138 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "80%"
+       }
+      ]
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 7.20%, May 9.40%, Aug 12.50% then 9.60% Sep, Nov 8.60%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -3594,14 +5013,6 @@
         [
          "Nov 2025",
          "8.60%"
-        ],
-        [
-         "Jan 2026",
-         "12.60%"
-        ],
-        [
-         "Feb 2026",
-         "8.90% (after baiting)"
         ]
        ]
       }
@@ -3630,19 +5041,22 @@
     ],
     "pruning": [
      {
-      "k": "Over-pruning",
+      "k": "Older: over-pruning Mar 2026",
       "v": "Slight over-pruning in P21A3; keep two fronds below lowest bunch whorl (palms under 15 years)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      }
     ],
     "nutrients": [
      {
-      "k": "Mg deficiency (Mar 2026)",
-      "v": "Many palms in flood-prone P21A3 show mild to moderate Mg deficiency (photos 24-27); apply kieserite 1 kg (1,000 g) per affected palm and monitor",
-      "src": "Agro 1/2026",
+      "k": "Mg deficiency Sep 2026",
+      "v": "Palms in poorly drained parts of P21A3 show mild to moderate Mg deficiency, likely from prolonged flooding. The estate has yet to apply the corrective 1,000 g kieserite per palm. Prioritise drainage; localized improvements as the terrain is basin-like. Recent supply palms need no corrective dose",
+      "src": "Agro 2/2026",
       "pts": [
-       "Many palms in flood-prone P21A3 show mild to moderate Mg deficiency (photos 24-27)",
-       "Apply kieserite 1 kg (1,000 g) per affected palm and monitor"
+       "Mild to moderate in poorly drained P21A3, likely prolonged flooding",
+       "Corrective kieserite 1,000 g/palm not yet applied by the estate",
+       "Prioritise localized drainage improvement (basin-like terrain)",
+       "Recent supply palms: no corrective kieserite needed"
       ]
      },
      {
@@ -3684,6 +5098,72 @@
      }
     ],
     "field": [
+     {
+      "k": "Area Aug 2026",
+      "v": "139 ha latest vs 138 previously (Table 1); A1 51.00, A2 39.00, A3 48.00 = 138.00 (Table 2); 138 in Tables 3, 13; 139 in Tables 11, 12",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Table",
+        "Ha"
+       ],
+       "rows": [
+        [
+         "Table 1 latest",
+         "139"
+        ],
+        [
+         "Table 1 previous",
+         "138"
+        ],
+        [
+         "Table 2 (51+39+48)",
+         "138.00"
+        ],
+        [
+         "Tables 3, 13",
+         "138"
+        ],
+        [
+         "Tables 11, 12",
+         "139"
+        ]
+       ]
+      },
+      "note": "Figures as printed, not reconciled."
+     },
+     {
+      "k": "Palm census",
+      "v": "20,424 palms on 138 ha; SPH 148 vs 148 previously (0) (census Mar 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "20,424",
+        "d": "138 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "148",
+        "d": "148 previously, diff 0"
+       },
+       {
+        "l": "Census",
+        "v": "Mar 2025"
+       }
+      ]
+     },
+     {
+      "k": "Origin",
+      "v": "Ex-P95T1-4",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Supply palms 2022–2025",
+      "v": "1,882 in 2022, 8,789 in 2023, 8,080 in 2024, 3,636 in 2025 = 22,387",
+      "src": "Agro 2/2026",
+      "hide": true
+     },
      {
       "k": "Supplying",
       "v": "4,776 palms planted on 30 ha flooded for over a month (PA 12.1.1; manager reply says 4,476). Agro: 1,882 (2022), 8,789 (2023), 8,080 (2024), 3,636 (2025) = 22,387",
@@ -3743,11 +5223,6 @@
        }
       ],
       "note": "Without general charges."
-     },
-     {
-      "k": "Origin and census",
-      "v": "Ex-P95T1-4; 20,424 palms, SPH 148 (Mar 2025)",
-      "src": "Agro 1/2026"
      }
     ],
     "fertNow": {
@@ -3785,17 +5260,70 @@
       }
      ]
     },
-    "progress": {
-     "manuring": [
+    "fertNext": {
+     "year": 2027,
+     "rows": [
       {
-       "k": "Mix B · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 47.35 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Feb (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun (supply 2024)",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Nov (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Supply lines are the printed row Supply palms planted in 2024 (A).",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(a). Rates converted to grams per palm. Mix B = 45% AS : 40% MOP : 14% KIE : 1% borate; Comp B = 12:6:22:3; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
       }
-     ],
-     "manuringPeriod": "to Feb 2026"
+     ]
     }
    }
   },
@@ -3808,8 +5336,12 @@
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "Mix B 1500 g x4 (Feb, May, Aug, Nov) + RP 2000 g (Jun)",
+   "fert": "Mix B 1500 g x4 (Feb, May, Aug, Nov) + RP 2000 g (Jun) (2026). 2027: Mix B 1750 g ×3 (Feb, May, Aug) + 2000 g (Oct) + RP 2000 g (Jun)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Rhinoceros beetle damage in supply areas; rat damage down to 6.4 in Jul 2026 after baiting."
+    },
     {
      "src": "PA 1/2026",
      "text": "Scout harvesting gave 318.70 t FFB over 12 months; recovering from flood."
@@ -3825,8 +5357,66 @@
     ],
     "pests": [
      {
-      "k": "Rat damage census",
-      "v": "2025: Feb 8.10%, May 11.80% then 9.50% Jun, Aug 9.10%, Nov 7.30%; Jan 2026 9.60%",
+      "k": "Rat damage census 2026",
+      "v": "85 ha: Jan 2026 10.5, Apr 2026 10.2, Jul 2026 6.4 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "10.5"
+        ],
+        [
+         "Apr 2026",
+         "10.2"
+        ],
+        [
+         "Jul 2026",
+         "6.4"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "85 ha, Storm 1 pc/palm: 1st round 85 ha, 2nd round 85 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Barn owl boxes Agro 2/2026",
+      "v": "3 boxes, 100% occupancy (105 ha)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "3",
+        "d": "105 ha"
+       },
+       {
+        "l": "Occupancy",
+        "v": "100%"
+       }
+      ]
+     },
+     {
+      "k": "Rhinoceros beetle Sep 2026",
+      "v": "Substantial number of palms in supply areas damaged. Spray Alika ZC 30 ml per 16 L of water every three weeks, or two weeks in rainy seasons; early morning, at entry points (unopened fronds, spear, leaf axils, crown); spreader sticker may be used",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Substantial number of palms damaged in supply areas",
+       "Alika ZC 30 ml per 16 L, every 3 weeks (2 weeks in rainy season)",
+       "Spray early morning at unopened fronds, spear, leaf axils, crown",
+       "A spreader sticker may be used"
+      ]
+     },
+     {
+      "k": "Rat damage census 2025",
+      "v": "2025: Feb 8.10%, May 11.80% then 9.50% Jun, Aug 9.10%, Nov 7.30%",
       "src": "Agro 1/2026",
       "tbl": {
        "cols": [
@@ -3853,10 +5443,6 @@
         [
          "Nov 2025",
          "7.30%"
-        ],
-        [
-         "Jan 2026",
-         "9.60%"
         ]
        ]
       }
@@ -3880,6 +5466,60 @@
      }
     ],
     "field": [
+     {
+      "k": "Area Aug 2026",
+      "v": "105 ha in Tables 1, 2, 3, 13; 85 ha in Tables 11, 12",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Table",
+        "Ha"
+       ],
+       "rows": [
+        [
+         "Tables 1, 2, 3, 13",
+         "105"
+        ],
+        [
+         "Tables 11, 12",
+         "85"
+        ]
+       ]
+      },
+      "note": "Figures as printed, not reconciled."
+     },
+     {
+      "k": "Palm census",
+      "v": "15,540 palms on 105 ha; SPH 148 vs 148 previously (0) (census Feb 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "15,540",
+        "d": "105 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "148",
+        "d": "148 previously, diff 0"
+       },
+       {
+        "l": "Census",
+        "v": "Feb 2025"
+       }
+      ]
+     },
+     {
+      "k": "Origin",
+      "v": "Ex-M7 & M8",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Supply palms 2023–2025",
+      "v": "3,650 in 2023, 500 in 2024, 1,650 in 2025 = 5,800",
+      "src": "Agro 2/2026",
+      "hide": true
+     },
      {
       "k": "Supplying",
       "v": "1,650 palms supplied in flood-damaged area (2025). Agro: 3,650 (2023), 500 (2024), 1,650 (2025) = 5,800",
@@ -3935,11 +5575,6 @@
         "v": "RM13,925.00/ha"
        }
       ]
-     },
-     {
-      "k": "Origin and census",
-      "v": "Ex-M7 & M8; 15,540 palms, SPH 148 (Feb 2025)",
-      "src": "Agro 1/2026"
      }
     ],
     "fertNow": {
@@ -3977,17 +5612,83 @@
       }
      ]
     },
-    "progress": {
-     "manuring": [
+    "nutrients": [
+     {
+      "k": "Mg deficiency Sep 2026",
+      "v": "Some palms in low-lying areas of P22D show mild to moderately severe Mg deficiency. Apply kieserite 1,000 g per palm as corrective dose to affected palms the size of 3-year-old palms or larger; recent supply palms need none. Improve drainage where feasible",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Mild to moderately severe, low-lying areas",
+       "Kieserite 1,000 g/palm for affected palms 3-year-old size or larger",
+       "Recent supply palms: no corrective kieserite needed",
+       "Improve field drainage where feasible"
+      ]
+     }
+    ],
+    "fertNext": {
+     "year": 2027,
+     "rows": [
       {
-       "k": "Mix B · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 47.35 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
+       "k": "Feb",
+       "v": "Mix B 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Mix B 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Feb (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun (supply 2024)",
+       "v": "RP 2,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct (supply 2024)",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Supply lines are the printed row Supply palms planted in 2024 (D).",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(b). Rates converted to grams per palm. Mix B = 45% AS : 40% MOP : 14% KIE : 1% borate; Comp B = 12:6:22:3; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
       }
-     ],
-     "manuringPeriod": "to Feb 2026"
+     ]
     }
    }
   },
@@ -4000,8 +5701,12 @@
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "Comp A 800 g (May) + RP 1500 g (Jun) + Comp A 900 g (Aug) + 1000 g (Nov)",
+   "fert": "Comp A 800 g (May) + RP 1500 g (Jun) + Comp A 900 g (Aug) + 1000 g (Nov) (2026). 2027: Comp A 1000 g ×2 (Feb, May) + RP 1750 g (Jun) + Comp A 1200 g ×2 (Aug, Oct)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Burger bunds used for supply palms; rat damage 5.5 in Jul 2026."
+    },
     {
      "src": "PA 1/2026",
      "text": "50 ha replanted (2,713 palms); remaining 30 ha abandoned as unplantable."
@@ -4010,13 +5715,45 @@
    "detail": {
     "field": [
      {
-      "k": "Area",
-      "v": "80 ha previously; 50.00 ha after Feb 2026 update. About 80 ha flooded in 2022 with only about 3 ha surviving",
-      "src": "Agro 1/2026",
+      "k": "Area Aug 2026",
+      "v": "50 ha latest vs 80 previously (Table 1). About 80.0 ha of flooded land caused high mortality of the 2022 palms, only around 3.0 ha survived; another 50.0 ha planted after reclassifying from unplantable to planted. Table 3 and Appendix 1(c) still print 80 ha",
+      "src": "Agro 2/2026",
       "pts": [
-       "80 ha previously",
-       "50.00 ha after Feb 2026 update",
-       "About 80 ha flooded in 2022 with only about 3 ha surviving"
+       "50 ha latest vs 80 previously; Table 3 and Appendix 1(c) still print 80",
+       "About 80.0 ha flooded: high mortality, only around 3.0 ha survived",
+       "Another 50.0 ha planted after reclassifying from unplantable"
+      ]
+     },
+     {
+      "k": "Palm census",
+      "v": "3,590 palms on 80 ha; SPH 148 (census Jun 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "3,590",
+        "d": "80 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "148",
+        "d": "no previous figure"
+       },
+       {
+        "l": "Census",
+        "v": "Jun 2025"
+       }
+      ]
+     },
+     {
+      "k": "Burger bunds Sep 2026",
+      "v": "Burger bund planting used for supply palms in P22C: platform raised about 3–6 feet on the cambered bund. 2025 plantings in P25A, P25B and P25C showed low mortality after recent flooding. Weakness seen at Batu Anam: soil erosion, re-mound the eroded portion. Monitor mortality and stress",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Supply palms on burger bunds: platform raised about 3–6 feet",
+       "Low mortality after recent flooding in 2025 plantings (P25A, P25B, P25C)",
+       "Weakness: soil erosion around platform; re-mound eroded portion",
+       "Keep monitoring for palm mortality and stress"
       ]
      },
      {
@@ -4075,6 +5812,79 @@
        "src": "Agro 1/2026"
       }
      ]
+    },
+    "pests": [
+     {
+      "k": "Rat damage census 2026",
+      "v": "50 ha: Jan 2026 4.5, Apr 2026 5.1, Jul 2026 5.5 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "4.5"
+        ],
+        [
+         "Apr 2026",
+         "5.1"
+        ],
+        [
+         "Jul 2026",
+         "5.5"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "50 ha, Storm 1 pc/palm: 1st round 50 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     }
+    ],
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Comp A 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Comp A 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Printed as P25/C 80 ha.",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(c). Rates converted to grams per palm. Comp A = 14:13:9:2.5; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    }
   },
@@ -4087,19 +5897,50 @@
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "Comp A 1000 g x3 (Feb, May, Aug) + RP 1750 g (Oct) + Comp A 1200 g (Nov)",
+   "fert": "Comp A 1000 g x3 (Feb, May, Aug) + RP 1750 g (Oct) + Comp A 1200 g (Nov) (2026). 2027: Comp B 1200 g ×2 (Feb, May) + RP 1750 g (Jun) + Comp B 1500 g ×2 (Aug, Oct)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Banana-intercropped palms show better growth but slight etiolation; rat damage 4.4 in Jul 2026."
+    },
     {
      "src": "PA 1/2026",
      "text": "Palms 14 months old and ready for ablation; resume Rhinoceros beetle treatment."
-    },
-    {
-     "src": "Agro 1/2026",
-     "text": "Good Mucuna on terraces; LLDPE mulch soil looks dry."
     }
    ],
    "detail": {
     "pests": [
+     {
+      "k": "Rat damage census 2026",
+      "v": "212.73 ha: Jan 2026 9.8, Apr 2026 5.6, Jul 2026 4.4 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "9.8"
+        ],
+        [
+         "Apr 2026",
+         "5.6"
+        ],
+        [
+         "Jul 2026",
+         "4.4"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "212.73 ha, Storm 1 pc/palm: 1st round 212.73 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Rhinoceros beetle",
       "v": "Alika ZC every 3 weeks; minimal damage (Agro). PA asks to resume treatment as attack is usually severe in continuous replanting areas; watch for Apogonia in P24F3",
@@ -4128,6 +5969,48 @@
      }
     ],
     "field": [
+     {
+      "k": "Area Aug 2026",
+      "v": "212.73 ha",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Palm census",
+      "v": "31,271 palms on 212.73 ha; SPH 147 (census Jan 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "31,271",
+        "d": "212.73 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "147",
+        "d": "no previous figure"
+       },
+       {
+        "l": "Census",
+        "v": "Jan 2025"
+       }
+      ]
+     },
+     {
+      "k": "Banana vs watermelon Sep 2026",
+      "v": "Palms with banana are slightly upright and etiolated, indicating competition for sunlight, but show better vegetative growth and larger girth than those with watermelon and may yield earlier. Banana gives more biomass, improving soil. No such growth habit in ex-watermelon areas. Most banana near or just past harvesting",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Banana palms slightly upright, etiolated: possible sunlight competition",
+       "Banana palms: better growth, larger girth, may yield earlier",
+       "Banana gives more biomass, improving soil and moisture retention",
+       "Ex-watermelon areas: no etiolation; most banana near or past harvest"
+      ]
+     },
+     {
+      "k": "Supply palms 2025",
+      "v": "175 palms in 2025",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Sub-blocks",
       "v": "P24F1 53.70, P24F2 31.80, P24F3 127.23 ha",
@@ -4204,22 +6087,6 @@
         "d": "P24F1-3"
        }
       ]
-     },
-     {
-      "k": "Census",
-      "v": "31,271 palms, SPH 147 (Jan 2025)",
-      "src": "Agro 1/2026",
-      "stats": [
-       {
-        "l": "Palms",
-        "v": "31,271"
-       },
-       {
-        "l": "Stand (SPH)",
-        "v": "147",
-        "d": "Jan 2025"
-       }
-      ]
      }
     ],
     "fertNow": {
@@ -4247,17 +6114,47 @@
       }
      ]
     },
-    "progress": {
-     "manuring": [
+    "spraying": [
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Patches of tall grasses in the former watermelon area. Path spraying not required: proper circle and selective spraying will maintain good ground vegetation",
+      "src": "Agro 2/2026"
+     }
+    ],
+    "fertNext": {
+     "year": 2027,
+     "rows": [
       {
-       "k": "Comp 25 · Feb (estate)",
-       "pct": 0,
-       "note": "0 of 29.00 t, estate-wide (shared)",
-       "src": "PA 1/2026",
-       "calc": false
+       "k": "Feb",
+       "v": "Comp B 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Comp B 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Comp B 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(b). Rates converted to grams per palm. Comp B = 12:6:22:3; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
       }
-     ],
-     "manuringPeriod": "to Feb 2026"
+     ]
     }
    }
   },
@@ -4270,8 +6167,12 @@
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "Comp A 800 g (Mar) + RP 1500 g (Apr) + Comp A 900 g (Jun) + 1000 g x2 (Sep, Dec)",
+   "fert": "Comp A 800 g (Mar) + RP 1500 g (Apr) + Comp A 900 g (Jun) + 1000 g x2 (Sep, Dec) (2026). 2027: Comp A 1000 g ×2 (Feb, May) + RP 1750 g (Jun) + Comp A 1200 g ×2 (Aug, Oct)",
    "notes": [
+    {
+     "src": "Agro 2/2026",
+     "text": "Rat damage down from 10.9 in Jan 2026 to 7.2 in Jul 2026; 2 baiting rounds of 206 ha."
+    },
     {
      "src": "PA 1/2026",
      "text": "29,086 palms planted over 206 ha; infilling of vacant points in progress; watermelon interplanted."
@@ -4279,6 +6180,37 @@
    ],
    "detail": {
     "pests": [
+     {
+      "k": "Rat damage census 2026",
+      "v": "206 ha: Jan 2026 10.9, Apr 2026 10.0, Jul 2026 7.2 (threshold 10%)",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Census",
+        "Damage %"
+       ],
+       "rows": [
+        [
+         "Jan 2026",
+         "10.9"
+        ],
+        [
+         "Apr 2026",
+         "10.0"
+        ],
+        [
+         "Jul 2026",
+         "7.2"
+        ]
+       ]
+      },
+      "note": "Threshold 10%."
+     },
+     {
+      "k": "Rat baiting Apr–Jun 2026",
+      "v": "206 ha, Storm 1 pc/palm: 1st round 206 ha, 2nd round 206 ha. Done after flood, below the 10% threshold; post-baiting census Jul 2026",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Rhinoceros beetle",
       "v": "Sporadic attack; spot spray Cypermethrin or apply Carbofuran (PA); Alika ZC every 3 weeks, minimal damage (Agro)",
@@ -4301,6 +6233,37 @@
      }
     ],
     "field": [
+     {
+      "k": "Area Aug 2026",
+      "v": "206 ha, new in the area statement",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Palm census",
+      "v": "29,246 palms on 206 ha; SPH 142 (census Jul 2025)",
+      "src": "Agro 2/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "29,246",
+        "d": "206 ha"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "142",
+        "d": "no previous figure"
+       },
+       {
+        "l": "Census",
+        "v": "Jul 2025"
+       }
+      ]
+     },
+     {
+      "k": "Ground cover Sep 2026",
+      "v": "Good ground cover with honeydew melon (photos 63-64)",
+      "src": "Agro 2/2026"
+     },
      {
       "k": "Planting",
       "v": "29,086 palms on 206 ha (P25G1 134.70 + P25G2 71.30); infilling ex-kongsi and laterite stockpile points to reach 148 design",
@@ -4335,22 +6298,6 @@
       "k": "Origin",
       "v": "Ex-P94M4 23.80, M6 81.90, M7 29.00, M1 6.50, M12 64.80 ha",
       "src": "Agro 2/2025"
-     },
-     {
-      "k": "Census",
-      "v": "29,246 palms, SPH 142 (Jul 2025)",
-      "src": "Agro 1/2026",
-      "stats": [
-       {
-        "l": "Palms",
-        "v": "29,246"
-       },
-       {
-        "l": "Stand (SPH)",
-        "v": "142",
-        "d": "Jul 2025"
-       }
-      ]
      }
     ],
     "fertNow": {
@@ -4377,6 +6324,41 @@
        "src": "Agro 1/2025"
       }
      ]
+    },
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "RP 1,750 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Comp A 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Comp A 1,200 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(c). Rates converted to grams per palm. Comp A = 14:13:9:2.5; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    }
   },
@@ -4389,23 +6371,81 @@
    "ytd": null,
    "est": null,
    "prevYtd": null,
-   "fert": "CRF 600 g + RP 500 g at planting; Comp A 800 g (month 10), RP 1500 g (month 11)",
+   "fert": "CRF 600 g + RP 500 g at planting; Comp A 800 g (month 10), RP 1500 g (month 11) (2026). 2027: Comp A 800 g (Feb) + RP 1500 g (Mar) + Comp A 900 g (May) + 1000 g ×2 (Aug, Nov)",
    "notes": [
     {
+     "src": "Agro 2/2026",
+     "text": "Planting 98% complete and felling, roads, drains, bunds 100% as of Aug 2026."
+    },
+    {
      "src": "PA 1/2026",
-     "text": "Felling, chipping, stacking done Jan–Feb 2026; about 50% planted (PA) / 25% (Agro, 3 Mar)."
+     "text": "Felling, chipping, stacking done by Feb 2026; about 50% of 282 ha planted at the PA visit."
     }
    ],
    "detail": {
     "field": [
      {
-      "k": "Origin",
-      "v": "Ex-P95T5 5.30, P96Y3 55.40, Y4 44.60, Y5 33.60, Y6 53.90, Y7 62.60, Y8 26.60 ha (282.0 ha)",
-      "src": "Agro 1/2026"
+      "k": "Area Aug 2026",
+      "v": "282 ha, new in the area statement: Table 2 sub-blocks 255.40 + 26.60 = 282.00. Ex-P95T5 5.30 ha and ex-P96Y3–Y8",
+      "src": "Agro 2/2026"
      },
      {
-      "k": "Progress (3 Mar 2026)",
-      "v": "Felling & chipping 100%; new road 60%; new drain 50%; cambered bund 60%; planting 25%",
+      "k": "Progress Aug 2026",
+      "v": "Land preparation began Jan 2026. Felling & chipping 100%; new road 100%; new drain 100%; cambered bund 100%; planting of oil palm 98%",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Work",
+        "Done"
+       ],
+       "rows": [
+        [
+         "Felling & chipping",
+         "100%"
+        ],
+        [
+         "New road",
+         "100%"
+        ],
+        [
+         "New drain",
+         "100%"
+        ],
+        [
+         "Cambered bund",
+         "100%"
+        ],
+        [
+         "Planting",
+         "98%"
+        ]
+       ]
+      },
+      "note": "As of Aug 2026; land preparation began Jan 2026."
+     },
+     {
+      "k": "Drains and bunds Sep 2026",
+      "v": "Estate has built the advised normal cambered bunds with 2-foot-deep drains on both sides in part of the low-lying, silt-rich replanting area (photos 69-70)",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Burger bunds Sep 2026",
+      "v": "Burger bunds used in selected patches of the 2026 planting: platform raised about 3–6 feet. Weakness seen at Batu Anam: soil erosion forms a concave shape, re-mound after erosion. Priority is high palm survival; monitor mortality and stress",
+      "src": "Agro 2/2026",
+      "pts": [
+       "Selected patches: platform raised about 3–6 feet",
+       "Weakness: soil erosion around platform; re-mound eroded portion",
+       "Priority: high palm survival; monitor mortality and stress"
+      ]
+     },
+     {
+      "k": "EFB Sep 2026",
+      "v": "EFB application is limited to mulching at P26H: limited EFB from the mill and transport lorry without a jack (photos 7-8)",
+      "src": "Agro 2/2026"
+     },
+     {
+      "k": "Origin",
+      "v": "Ex-P95T5 5.30, P96Y3 55.40, Y4 44.60, Y5 33.60, Y6 53.90, Y7 62.60, Y8 26.60 ha (282.0 ha)",
       "src": "Agro 1/2026"
      },
      {
@@ -4478,14 +6518,209 @@
        "src": "Agro 1/2026"
       }
      ]
+    },
+    "pests": [
+     {
+      "k": "Ganoderma census Agro 2/2026",
+      "v": "Ex-P96 sub-blocks: Y3 55.40 ha 9.81%, Y4 44.60 ha 7.24%, Y5 33.60 ha 8.43%, Y6 53.90 ha 8.76%, Y7 62.60 ha 9.05%, Y8 26.60 ha 8.24%; total 276.70 ha 8.70%",
+      "src": "Agro 2/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Ha",
+        "Infected"
+       ],
+       "rows": [
+        [
+         "P96 Y3",
+         "55.40",
+         "9.81%"
+        ],
+        [
+         "P96 Y4",
+         "44.60",
+         "7.24%"
+        ],
+        [
+         "P96 Y5",
+         "33.60",
+         "8.43%"
+        ],
+        [
+         "P96 Y6",
+         "53.90",
+         "8.76%"
+        ],
+        [
+         "P96 Y7",
+         "62.60",
+         "9.05%"
+        ],
+        [
+         "P96 Y8",
+         "26.60",
+         "8.24%"
+        ],
+        [
+         "Total",
+         "276.70",
+         "8.70%"
+        ]
+       ]
+      }
+     }
+    ],
+    "fertNext": {
+     "year": 2027,
+     "rows": [
+      {
+       "k": "Feb",
+       "v": "Comp A 800 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Mar",
+       "v": "RP 1,500 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "May",
+       "v": "Comp A 900 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Comp A 1,000 g",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Printed as P26/H 282 ha.",
+       "src": "Agro 2/2026"
+      },
+      {
+       "k": "Note",
+       "v": "2027 programme, Agro 2/2026 Appendix 1(c). Rates converted to grams per palm. Comp A = 14:13:9:2.5; RP = 28-30% P2O5.",
+       "src": "Agro 2/2026"
+      }
+     ]
     }
    }
   }
  ],
- "blockPeriod": "Jan–Dec 2025",
- "blockSrc": "Agronomy Report 1/2026 Table 19 (FFB yield 2024 vs 2025); P21B Jan–Aug 2025 from PA Report 2/2025 Appendix 5",
+ "blockPeriod": "Jan–Aug 2026",
+ "blockSrc": "Agronomy Report 2/2026 Table 14 (yield as of August, 2026 vs 2025, t/ha); 2025 areas differ: P96Y 335.40 ha, P94M 240.50 ha, P21B 92.00 ha",
  "blockEstateWide": {
   "manuring": [
+   {
+    "k": "Manuring as of Sep 2026",
+    "v": "NK2 programme 466.40, delivered 466.40, applied 466.40 t, 100%; Mixture B 150.00, 150.00, 150.00, 100%; Compound 25 182.95, 147.30, 116.80, 79%; Compound 44 77.50, 77.50, 77.50, 100%; RP 116.60, 116.00, 116.00, 100%; total 993.45, 957.20, 926.70, 93%. Slight delay vs programme",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Fertiliser",
+      "Programme t",
+      "Delivered t",
+      "Applied t",
+      "Done"
+     ],
+     "rows": [
+      [
+       "NK2",
+       "466.40",
+       "466.40",
+       "466.40",
+       "100%"
+      ],
+      [
+       "Mixture B",
+       "150.00",
+       "150.00",
+       "150.00",
+       "100%"
+      ],
+      [
+       "Compound 25",
+       "182.95",
+       "147.30",
+       "116.80",
+       "79%"
+      ],
+      [
+       "Compound 44",
+       "77.50",
+       "77.50",
+       "77.50",
+       "100%"
+      ],
+      [
+       "RP",
+       "116.60",
+       "116.00",
+       "116.00",
+       "100%"
+      ],
+      [
+       "Total",
+       "993.45",
+       "957.20",
+       "926.70",
+       "93%"
+      ]
+     ]
+    },
+    "note": "Slight delay vs programme. % as printed. No split by block."
+   },
+   {
+    "k": "Fertiliser store Sep 2026",
+    "v": "Wet floor still unresolved; even the empty area is wet, so likely caused by more than hygroscopic fertilizer. Batu Anam stores had no wet floor at its visit on 30 June 2026: study whether a peripheral drain round the store helped",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Wet floor unresolved, including the empty area",
+     "Likely more than hygroscopic fertiliser alone",
+     "Study a peripheral drain, as at Batu Anam stores A and B"
+    ]
+   },
+   {
+    "k": "Placement",
+    "v": "Annual rainfall 3,535 mm, 25.4 mm per rainy day, 12 rainy days per month: high leaching and runoff risk. Frond stacking across the interrow (two palm rows) done in most fields; continue, with proper placement",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Rainfall 3,535 mm a year, 25.4 mm per rainy day",
+     "12 rainy days per month: high leaching and runoff risk",
+     "Keep frond stacking (two palm rows) and proper placement"
+    ]
+   },
+   {
+    "k": "Priority after delays",
+    "v": "Apply first to young mature (4–7 yr) and prime (8–19 yr) palms before over-mature (20+ yr)",
+    "src": "Agro 2/2026"
+   },
+   {
+    "k": "New planting / supply",
+    "v": "600 g CRF (20:6:14:3) + 500 g RP in planting hole, then none up to 9 months",
+    "src": "Agro 2/2026"
+   },
+   {
+    "k": "2027 programme",
+    "v": "In Appendix 1(a)–(c). No manuring for blocks scheduled for replanting in 2027 and 2028. Estate should narrow the gap between programme and actual application",
+    "src": "Agro 2/2026",
+    "pts": [
+     "In Appendix 1(a)–(c), by block",
+     "No manuring for blocks to be replanted in 2027 and 2028",
+     "Narrow the gap between programme and actual application"
+    ]
+   },
+   {
+    "k": "EFB Sep 2026",
+    "v": "EFB application limited to mulching at P26H: limited EFB from the mill and transport lorry without a jack",
+    "src": "Agro 2/2026"
+   },
    {
     "k": "2026 to Feb manuring",
     "v": "Required 415.25 t (B/F 2025 15.00 t: Comp 25 3.90, Mix B 11.10); delivered 32.00 t, applied 7.00 t. Jan NK2 132.35 t req, 32.00 delivered, 7.00 applied (in progress); Feb NK2 183.85, Mix B 47.35, Compound 25 29.00, Compound 44 22.80 t not started. Delayed by heavy rain Nov 2025–Feb 2026 and flooding",
@@ -4641,34 +6876,91 @@
       "d": "budget RM821.48 (−23%)"
      }
     ]
-   },
-   {
-    "k": "Fertiliser store",
-    "v": "Wet floor in fertiliser store; check for leaks or rain through ventilation windows",
-    "src": "Agro 1/2026"
-   },
-   {
-    "k": "Placement",
-    "v": "Rainfall 25.4 mm per rainy day, 3,535 mm a year (5-yr average), 12 rain days/month: keep recommended frond stacking (two palm rows wide) and correct placement",
-    "src": "Agro 1/2026",
-    "pts": [
-     "Rainfall 25.4 mm per rainy day, 3,535 mm a year (5-yr average)",
-     "12 rain days/month",
-     "Keep recommended frond stacking (two palm rows wide) and correct placement"
-    ]
-   },
-   {
-    "k": "Priority after delays",
-    "v": "Apply first to young mature (4–7 yr) and prime (8–19 yr) palms before over-mature (20+ yr)",
-    "src": "Agro 1/2026"
-   },
-   {
-    "k": "New planting / supply",
-    "v": "600 g CRF (20:6:14:3) + 500 g RP in planting hole, then none up to 9 months",
-    "src": "Agro 1/2026"
    }
   ],
   "spraying": [
+   {
+    "k": "Weeding as of Sep 2026",
+    "v": "Estate total: interrow 1st rd 100%, 2nd rd 100%, 3rd rd 14%; circle 1st rd 100%, 2nd rd 91%, 3rd rd 14%. Fields listed: P94K, P94M, P95S, P95T, P96Y, P05W, P21B",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Round",
+      "Interrow",
+      "Circle"
+     ],
+     "rows": [
+      [
+       "1st",
+       "100%",
+       "100%"
+      ],
+      [
+       "2nd",
+       "100%",
+       "91%"
+      ],
+      [
+       "3rd",
+       "14%",
+       "14%"
+      ]
+     ]
+    },
+    "note": "Block rounds are in each block's bars. Immature blocks not listed."
+   },
+   {
+    "k": "Ground vegetation Sep 2026",
+    "v": "Improved vs Agro 1/2026: sparse patches 28% (52% previously), acceptable soft grasses 61% (36%), grassy low-lying 11% (12%). Clidemia hirta, Stenochlaena palustris, Dicranopteris linearis, VOPs and woody species in localized patches, mainly low-lying P21A and P21B",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Condition",
+      "Sep 2026",
+      "Previous visit"
+     ],
+     "rows": [
+      [
+       "Sparse patches",
+       "28%",
+       "52%"
+      ],
+      [
+       "Acceptable soft grasses",
+       "61%",
+       "36%"
+      ],
+      [
+       "Grassy low-lying",
+       "11%",
+       "12%"
+      ]
+     ]
+    },
+    "pts": [
+     "Soft grasses now the predominant ground cover",
+     "Aggressive and woody weeds in patches, mainly P21A, P21B"
+    ]
+   },
+   {
+    "k": "Weed control advice Sep 2026",
+    "v": "Incomplete weed kill has decreased significantly; keep inspecting and follow up, especially seed-producing species. Follow the PA and Agronomist programme. Use mist blowers with one-sided nozzles or baffle-screen covers for selective interrow spraying",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Incomplete kill much reduced; keep follow-up spraying",
+     "Watch seed-producing species",
+     "Mist blowers with one-sided nozzle or baffle for selective spraying"
+    ]
+   },
+   {
+    "k": "Young mature ground cover Sep 2026",
+    "v": "Higher ground keeps acceptable soft cover through selective weeding; low-lying, flood-prone areas are mainly grassy. Eradicate tall-growing weeds there and promote soft vegetation, with better drainage where feasible",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Higher ground: acceptable soft cover, keep selective weeding",
+     "Low-lying: grassy; eradicate tall weeds, improve drainage"
+    ]
+   },
    {
     "k": "Estate weeding 2025",
     "v": "4,293.51 of 4,381.80 ha (98%), 3.11 of 3.22 rounds; only P94M11 short (flooding). RM30.00/ha/round contract | 4,381.80 ha (100%; text says 4,407.80 ha) at RM75.00/ha/round",
@@ -4754,44 +7046,9 @@
     ]
    },
    {
-    "k": "Agro weeding status",
-    "v": "2025: inter-row and circle 3 rounds 100% in all mature fields. As of Feb 2026 inter-row rd 1 41% total; no circle rounds",
-    "src": "Agro 1/2026",
-    "pts": [
-     "2025: inter-row and circle 3 rounds 100% in all mature fields",
-     "As of Feb 2026 inter-row rd 1 41% total",
-     "No circle rounds"
-    ]
-   },
-   {
-    "k": "Ground vegetation (Mar 2026)",
-    "v": "Borderline acceptable: 52% sparse patches, 36% acceptable soft grasses, 12% grassy low-lying; Clidemia hirta, Stenochlaena palustris, Dicranopteris linearis, VOPs and woody weeds sporadic",
-    "src": "Agro 1/2026",
-    "tbl": {
-     "cols": [
-      "Condition",
-      "Share"
-     ],
-     "rows": [
-      [
-       "Sparse patches",
-       "52%"
-      ],
-      [
-       "Acceptable soft grasses",
-       "36%"
-      ],
-      [
-       "Grassy low-lying",
-       "12%"
-      ]
-     ]
-    },
-    "pts": [
-     "Borderline acceptable",
-     "Clidemia hirta, Stenochlaena palustris, Dicranopteris linearis sporadic",
-     "VOPs and woody weeds sporadic"
-    ]
+    "k": "Agro weeding status 2025",
+    "v": "2025: inter-row and circle 3 rounds 100% in all mature fields",
+    "src": "Agro 1/2026"
    },
    {
     "k": "Recommended programme",
@@ -4806,6 +7063,65 @@
    }
   ],
   "pests": [
+   {
+    "k": "Rats Sep 2026",
+    "v": "Tall palm areas generally lower than short palm areas. Apr–Jun 2026 baiting done in P21A, P21B, P22C, P22D, P25G, P24F after flood although below the 10% threshold; post-baiting census Jul 2026. No block above 10%, so second round not required at this stage. Table 12: 1,632.14 ha listed, 1st round 804.73 ha, 2nd round 291 ha",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "1st round",
+      "v": "804.73 ha",
+      "d": "Apr–Jun 2026"
+     },
+     {
+      "l": "2nd round",
+      "v": "291 ha"
+     },
+     {
+      "l": "Listed",
+      "v": "1632.14 ha"
+     }
+    ],
+    "pts": [
+     "Baiting after flood in six young blocks, below 10% threshold",
+     "Post-baiting census Jul 2026: no block above 10%",
+     "Second round not required at this stage"
+    ]
+   },
+   {
+    "k": "Rat baiting advice Sep 2026",
+    "v": "Group sub-blocks above the 10% threshold, bait systematically in one direction from short palms to tall palms. Do not split manpower between replacement and first-round baiting; finish the first round across all affected areas quickly. Brodifacoum residue persists in rats (half-life about 113–350 days) and may reduce reproduction and feeding",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Group sub-blocks above 10%; bait in one direction, short to tall palms",
+     "Do not split manpower between replacement and 1st round",
+     "Finish 1st round quickly across all affected areas",
+     "Brodifacoum residue may cut rat reproduction and feeding"
+    ]
+   },
+   {
+    "k": "Barn owls Agro 2/2026",
+    "v": "73 boxes, 1666.5 ha, average occupancy 90%, acceptable. Clean and maintain boxes annually; repair or replace damaged units",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Boxes",
+      "v": "73",
+      "d": "1666.5 ha"
+     },
+     {
+      "l": "Occupancy",
+      "v": "90%",
+      "d": "acceptable"
+     }
+    ],
+    "note": "Clean yearly; repair or replace damaged units."
+   },
+   {
+    "k": "Ganoderma Agro 2/2026",
+    "v": "Palm census done together with the Ganoderma census; results printed only for P96Y3–Y8: 8.70% infected on 276.70 ha",
+    "src": "Agro 2/2026"
+   },
    {
     "k": "Rats",
     "v": "Damage below 10% in tall palms; baiting in young mature areas. 2025 baiting 374.70 ha done of 1,879.23 ha listed",
@@ -4873,6 +7189,90 @@
    }
   ],
   "other": [
+   {
+    "k": "Flood-prone area Sep 2026",
+    "v": "Approximately 318 ha identified by the estate as flood-prone. Set an annual schedule for desilting and drain maintenance, especially in low-lying areas",
+    "src": "Agro 2/2026"
+   },
+   {
+    "k": "De-silting 2024–2026 (chains)",
+    "v": "2024 programme 2740, progress 1,322.00; 2025 programme 1,460.00, progress 143.54; 2026 programme 1,090.00, no progress printed",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Year",
+      "Programme",
+      "Progress"
+     ],
+     "rows": [
+      [
+       "2024",
+       "2740",
+       "1,322.00"
+      ],
+      [
+       "2025",
+       "1,460.00",
+       "143.54"
+      ],
+      [
+       "2026",
+       "1,090.00",
+       "–"
+      ]
+     ]
+    }
+   },
+   {
+    "k": "Rainfall 2021–2025",
+    "v": "Rain days / mm: 2021 120 / 2550; 2022 124 / 2416; 2023 167 / 4643; 2024 138 / 4756; 2025 148 / 3309; average 139 / 3535",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Year",
+      "Rain days",
+      "mm"
+     ],
+     "rows": [
+      [
+       "2021",
+       "120",
+       "2550"
+      ],
+      [
+       "2022",
+       "124",
+       "2416"
+      ],
+      [
+       "2023",
+       "167",
+       "4643"
+      ],
+      [
+       "2024",
+       "138",
+       "4756"
+      ],
+      [
+       "2025",
+       "148",
+       "3309"
+      ],
+      [
+       "Average",
+       "139",
+       "3535"
+      ]
+     ]
+    },
+    "note": "25.4 mm per rainy day, 12 rainy days per month."
+   },
+   {
+    "k": "Immature follow-up Sep 2026",
+    "v": "Report records as executed: no repeat of excessive frond removal; Oryctes chemical treatment to stop if infestation falls below threshold",
+    "src": "Agro 2/2026"
+   },
    {
     "k": "Floods",
     "v": "Three floods mid-Dec 2025 to mid-Jan 2026 hit 363.00 ha mature and 446.00 ha immature; about 800 ha low-lying with water entering from five inlets; outlet Sungai Rompin. Agro lists 318 ha flood-prone (45% of 710.10 ha)",
@@ -5004,10 +7404,273 @@
     "v": "72.22 + 12.78 ha abandoned after floods; to be categorised unplantable",
     "src": "PA 1/2026"
    }
+  ],
+  "yield": [
+   {
+    "k": "Jan–Aug 2026 vs Jan–Aug 2025",
+    "v": "Fields listed: 12.33 t/ha Jan–Aug 2026 (1,145.50 ha) vs 11.50 t/ha Jan–Aug 2025 (1,292.61 ha), +0.83 t/ha, 7%. P21B improved as young mature; flooding in Jan 2026 hit P95S",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Jan–Aug 2026",
+      "v": "12.33 t/ha",
+      "d": "1,145.50 ha"
+     },
+     {
+      "l": "Jan–Aug 2025",
+      "v": "11.50 t/ha",
+      "d": "1,292.61 ha"
+     },
+     {
+      "l": "Change",
+      "v": "+0.83 t/ha",
+      "d": "7%"
+     }
+    ]
+   }
+  ],
+  "harvesting": [
+   {
+    "k": "Crop recovery Sep 2026",
+    "v": "Overripe bunches remain the main yield loss: 7–8% now vs 5–10% at the previous visit (P94M1 7%, P96Y2 8%). Overnight or uncollected bunches occasional, low incidence; rotten bunch heaps no longer seen; loose fruit losses minimal. Keep a 15-day interval and strengthen supervision",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Overripe",
+      "v": "7–8%",
+      "d": "5–10% previous visit"
+     },
+     {
+      "l": "Target interval",
+      "v": "15 days"
+     }
+    ],
+    "pts": [
+     "Overripe bunches remain the main yield loss",
+     "Overnight or uncollected bunches occasional, low incidence",
+     "Rotten bunch heaps no longer seen; loose fruit losses minimal",
+     "Strengthen supervision; collect all bunches the same day"
+    ]
+   }
+  ],
+  "pruning": [
+   {
+    "k": "Pruning to Aug 2026",
+    "v": "1,150.71 ha programme: previously 880.78, this month 35.00, to date 915.78, balance 234.93, 80%. Quality: 44% of the area better, 56% little change; around acceptable but not yet satisfactory because of sporadic dry hanging fronds",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "To date",
+      "v": "915.78 ha",
+      "d": "of 1,150.71 ha"
+     },
+     {
+      "l": "Done",
+      "v": "80%"
+     },
+     {
+      "l": "Balance",
+      "v": "234.93 ha"
+     }
+    ],
+    "pts": [
+     "Quality better in 44% of area, little change in 56%",
+     "Around acceptable, not yet satisfactory: dry hanging fronds in patches"
+    ]
+   }
+  ],
+  "nutrients": [
+   {
+    "k": "Leaf samples Agro 2/2026",
+    "v": "High K in all samples. B and Ca normal. N and Mg varied between samples, Mg most. P is the main concern: most samples low or moderately low",
+    "src": "Agro 2/2026",
+    "pts": [
+     "K high in all samples; B and Ca normal",
+     "N and Mg varied, Mg most",
+     "P is the main concern: most samples low or moderately low"
+    ],
+    "note": "Appendix 2 figures not available: the page is an image with no text."
+   }
+  ],
+  "field": [
+   {
+    "k": "Area statement Aug 2026",
+    "v": "Table 1 total 2,190.23 ha (2,165.23 previously), including a 26E 50 ha line not in Table 2; Table 2 total 2140.23 ha. Palms above 26 years 47% (1,014.7 ha); young mature 4–7 years 406.0 ha; immature 32.7% (700.73 ha)",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Table 1 total",
+      "v": "2,190.23 ha",
+      "d": "2,165.23 ha previously"
+     },
+     {
+      "l": "Table 2 total",
+      "v": "2140.23 ha"
+     },
+     {
+      "l": "Over 26 years",
+      "v": "1,014.7 ha",
+      "d": "47%"
+     }
+    ],
+    "tbl": {
+     "cols": [
+      "Field",
+      "Previous ha",
+      "Latest ha"
+     ],
+     "rows": [
+      [
+       "94K",
+       "375.6",
+       "375.6"
+      ],
+      [
+       "94M",
+       "534.79",
+       "328.79"
+      ],
+      [
+       "95S",
+       "155.91",
+       "155.91"
+      ],
+      [
+       "95T",
+       "74.4",
+       "69.1"
+      ],
+      [
+       "96Y",
+       "362",
+       "85.3"
+      ],
+      [
+       "05W",
+       "18.8",
+       "18.8"
+      ],
+      [
+       "21A",
+       "138",
+       "139"
+      ],
+      [
+       "21B",
+       "108",
+       "112"
+      ],
+      [
+       "22D",
+       "105",
+       "105"
+      ],
+      [
+       "22C",
+       "80",
+       "50"
+      ],
+      [
+       "24F",
+       "212.73",
+       "212.73"
+      ],
+      [
+       "25G",
+       "-",
+       "206"
+      ],
+      [
+       "26 H",
+       "-",
+       "282"
+      ],
+      [
+       "26E",
+       "-",
+       "50"
+      ]
+     ]
+    },
+    "note": "Table 1 as printed. Young mature 406.0 ha, immature 32.7% (700.73 ha)."
+   },
+   {
+    "k": "Palm census Agro 2/2026",
+    "v": "Table 3 total 2,165.23 ha, 282,703 palms, 136 palms/ha vs 140 previously (-4). Census done with the Ganoderma census. Keep annual censuses in P21A, P21B, P22D, P22C, P24F and P25G after flooding and supply promptly to the standard 148 palms/ha",
+    "src": "Agro 2/2026",
+    "stats": [
+     {
+      "l": "Palms",
+      "v": "282,703",
+      "d": "2,165.23 ha"
+     },
+     {
+      "l": "Stand (SPH)",
+      "v": "136",
+      "d": "140 previously"
+     }
+    ],
+    "pts": [
+     "Annual census in P21A, P21B, P22D, P22C, P24F, P25G after floods",
+     "Supply promptly to 148 palms/ha: age gap under five years"
+    ]
+   },
+   {
+    "k": "Supply palms 2022–2025",
+    "v": "2022 3434, 2023 14839, 2024 10230, 2025 6557; total 35060 (P21A, P21B, P22D, P24F)",
+    "src": "Agro 2/2026",
+    "tbl": {
+     "cols": [
+      "Year",
+      "Palms supplied"
+     ],
+     "rows": [
+      [
+       "2022",
+       "3434"
+      ],
+      [
+       "2023",
+       "14839"
+      ],
+      [
+       "2024",
+       "10230"
+      ],
+      [
+       "2025",
+       "6557"
+      ],
+      [
+       "Total",
+       "35060"
+      ]
+     ]
+    }
+   },
+   {
+    "k": "Sub-block split",
+    "v": "Further split P22D, P24F, P25G and P26H into sub-blocks of 30–50 ha to help leaf sampling for site-specific fertiliser recommendations",
+    "src": "Agro 2/2026"
+   },
+   {
+    "k": "Replant drainage Sep 2026",
+    "v": "Do a feasibility study of the drainage network for replanting areas (drain capacity, connectivity, outfall). At Rangkaian Estate, drains at both sides of cambered bunds with mounding improved palm vigour in mature P13D5, P14E2, P14G3 and P14F4",
+    "src": "Agro 2/2026",
+    "pts": [
+     "Feasibility study: drain capacity, connectivity, outfall",
+     "Rangkaian mature blocks: side drains and mounding improved vigour"
+    ]
+   },
+   {
+    "k": "Bund results 2025 plantings",
+    "v": "2025 plantings in P25A, P25B and P25C showed low mortality after recent flooding: cambered and burger bunds helped reduce flood impact",
+    "src": "Agro 2/2026"
+   }
   ]
  },
- "blockGaps": "No block-level 2026 manuring split (only estate monthly fertiliser table; bars assign Jan NK2 to blocks programmed for Jan, Feb NK2/Mix B/Comp 25 by programme month, figures shared). No 2026 block yields printed (only estate Jan–Feb 2026 3,209.70 t). No block budgets/estimates in t/ha (PA 2/2025 gives 2025 annual estimates in tonnes only). Foliar results only for P05W, P21A, P21B1, P21B2 (samples Mar 2025). No Ganoderma counts except P96Y 8.59% (Jun 2025). No block data for immature blocks' yields beyond scout totals. Agro Table 12 (pruning 2025) is an image copy of the PA table.",
- "blockMap": "Dashboard ids are the main fields. P94K = K3–K9 (K1, K2 now P21B). P94M = M1–M5 + M11 (PA splits 94M 117.40, 94M LSG / Sg Gayung Division 123.10, 94M11 Far East / Sg Marung Division 88.29). P95S = S1, S3, S4. P95T = T5 (69.10 ha after 5.30 ha to PR26H; PA still 74.40). P96Y = Y1, Y2 from 2026 (85.30 ha); 2025 figures cover 362 ha incl. Y8 (Far East Division 26.60). P21A = ex-P95T1-4; P21B = ex-P94K1, K2, P95S1; P22D = ex-M7, M8; P22C 2025 replant printed in fertiliser table as 'P25/C 80 ha'; P25G = PR25G; P26H = PR26H / 'P26 237.7 ha' in Appendix 1(c). P22E1/E2 abandoned (not a block).",
+ "blockGaps": "Agro 2/2026 merge, kept as printed. NO BLOCK SPLIT: 2026 manuring is estate-wide (Table 6); all old block manuring bars removed; block bars now spraying only (Table 10, seven blocks). No bars for P21A, P22D, P22C, P24F, P25G, P26H. Table 6 Compound 25 printed 79%: 116.80 of programme 182.95 t would be 64%; 79% matches applied vs delivered 147.30 t. Table 14 P94M printed 3% though 13.88 to 14.58 is about 5%; P94M and P96Y sizes differ between years; P94M 13.88 vs PA 2/2025 13.87. Para 7.2 words the +7% as a drop (not repeated). Table 8 Jul–Sep 2026 and many other months match the 2025 intervals in Agro 1/2026 exactly (possible carry-over), and its Jan and Feb 2026 differ from Agro 1/2026 (e.g. P94K Jan 13-18 vs 15-16). Para 4.1.1 says first half of 2026, para 7.3(a) says first half of 2025. Table 11 vs Agro 1/2026 same month: Jan 2026 P96Y 4.2 vs 5.30, P21B 7.2 vs 13.40, P21A 8.8 vs 12.60, P22D 10.5 vs 9.60; Agro 1/2026 Feb 2026 P21B 9.40 and P21A 8.90 after baiting are not in Table 11 and were dropped with them. Table 11 kept as current. Table 12 shows 2nd rounds in P22D and P25G while para 4.5.4 says a second round is not required; mature blocks have no rounds printed; 94 M listed at 117.4 ha only. Table 15 2025 progress 143.54 chains vs PA 1/2026 470.54. Table 5 total 8.70% vs Agro 1/2026 8.59% for P96Y (Jun 2025). No Ganoderma result for P94K, P94M, P95S, P95T, P05W although item 1 says work executed. Replanting: Appendix 1(a) marks M3, M4, M11 and S1, S4 for 2027 vs Agro 1/2026 M3, M4, M5 (2027), M1, M2, M11 (2028), S1, S3, S4 (2029); para 8.1 says no manuring for 2027 and 2028 replants yet K5, K7, M1, M2 (2028 per Agro 1/2026) are programmed. Appendix 1(a) prints P96 Y3–Y8 and P95T5 74.4 ha; Table 11, 12 P22D 85 ha vs 105. Appendix 1(a) P95S subtotal line repeats 2.50/2.50. Older Mar 2026 rows are hide:true where superseded. Foliar Appendix 2 of Agro 2/2026 is an image, no figures; foliar rows remain the Mar 2025 samples for P05W, P21A, P21B1, P21B2. No block budgets in t/ha. Block top-level ytd/prevYtd not touched here. Agro Table 12 (pruning 2025) of Agro 1/2026 is an image copy of the PA table.",
+ "blockMap": "Dashboard ids are the main fields. P94K = K3–K9 (K1, K2 now P21B). P94M = M1–M5 + M11 (PA splits 94M 117.40, 94M LSG / Sg Gayung Division 123.10, 94M11 Far East / Sg Marung Division 88.29). P95S = S1, S3, S4. P95T = T5 (69.10 ha after 5.30 ha to PR26H; PA still 74.40). P96Y = Y1, Y2 from 2026 (85.30 ha); 2025 figures cover 362 ha incl. Y8 (Far East Division 26.60). P21A = ex-P95T1-4; P21B = ex-P94K1, K2, P95S1; P22D = ex-M7, M8; P22C 2025 replant printed in fertiliser table as 'P25/C 80 ha'; P25G = PR25G; P26H = PR26H / P26/H 282 ha in Agro 2/2026 Appendix 1(c). P22E1/E2 abandoned (not a block). Agro 2/2026: Table 1 26E 50 ha has no dashboard block and no line in Table 2; section 5 heading prints P21C (50 HA), not assigned to a block; para 6.5 P25A, P25B have no dashboard id, P25C = P22C. Table 9 94 M(LSG) and 94 M11 are lines of P94M; 95 T5 = P95T.",
  "yieldHistory": [
   {
    "year": 2019,
@@ -5077,11 +7740,11 @@
   }
  ],
  "summary": [
-  "2025 FFB 19,296.70 t (16.28 t/ha), 2% above budget of 19,100 t but below 2024's 20,547.89 t; Jan–Feb 2026 3,209.70 t, 23% above budget (PA 1/2026).",
-  "Ex-estate cost RM280.79/t in Jan–Dec 2025, 21% below the RM356.02 budget.",
-  "Floods (mid-Dec 2025 to mid-Jan 2026) hit 363 ha mature and 446 ha immature; 2026 manuring only 7 of 415 t done by Feb.",
-  "Overripe bunches (5–10%) remain the main crop loss; 2025 yield fell 2.62 t/ha vs 2024 per Agronomy report.",
-  "Replanting P26H (282 ha ex-P96Y3–8) under way: felling done, planting 25–50%; P22E abandoned as unplantable."
+  "Jan–Aug 2026 yield 12.33 t/ha, up 7% on Jan–Aug 2025 (11.50 t/ha); P21B +31%, P96Y +19%, P95S -12% after the January flood (Agro 2/2026).",
+  "2025 FFB 19,296.70 t (16.28 t/ha), 2% above budget; Jan–Feb 2026 3,209.70 t; ex-estate cost RM280.79/t in Jan–Dec 2025 vs budget RM356.02 (PA 1/2026).",
+  "Manuring 93% as of Sep 2026 (926.70 of 993.45 t); Compound 25 lagging; the wet fertiliser store floor is still unresolved.",
+  "Overripe bunches 7–8% remain the main yield loss; pruning 80% as of Aug 2026; ground cover much better, sparse areas down from 52% to 28%.",
+  "P26H planting 98% done by Aug 2026; Ganoderma 8.70% across 276.70 ha of P96Y3–Y8; no block above the 10% rat threshold in the July census."
  ],
  "ffbProd": {
   "years": [
@@ -5125,7 +7788,7 @@
    "t": 3209.7,
    "src": "PA Report 1/2026 para 8.4 (as of February 2026)"
   },
-  "notes": "2020–2023 come from the Agronomy yield statistics appendix and their t/ha (19.60, 19.99, 15.09, 14.91) differ from the estate yields in the same report (21.38, 19.17, 14.20, 15.03). Jan–Aug 2025 13,171.37 t (PA 2/2025). PA area statement includes Sg Gayung Division (123.10 ha) and Sg Marung/Far East Division (114.89 ha in 2025) mature areas; the 1,185.51 ha basis of the 2025 crop table excludes them and the PA does not say whether their crop is in the 19,296.70 t."
+  "notes": "2020–2023 come from the Agronomy yield statistics appendix and their t/ha (19.60, 19.99, 15.09, 14.91) differ from the estate yields in the same report (21.38, 19.17, 14.20, 15.03). Jan–Aug 2025 13,171.37 t (PA 2/2025). PA area statement includes Sg Gayung Division (123.10 ha) and Sg Marung/Far East Division (114.89 ha in 2025) mature areas; the 1,185.51 ha basis of the 2025 crop table excludes them and the PA does not say whether their crop is in the 19,296.70 t. Agro 2/2026 prints Jan–Aug 2026 yield only (12.33 t/ha), no tonnes, so the ytd stays Jan–Feb."
  },
  "issues": [
   {
@@ -5182,9 +7845,69 @@
    "sev": "warn",
    "title": "Trap check: 12 months and last year",
    "detail": "PA 1/2026 '12 months' 2025 figures are Jan–Dec 2025. 'Last year' columns (20,547.89 t) are 2024 actuals, not budget (same in PA 2/2025). No Jan–Nov totals found."
+  },
+  {
+   "sev": "bad",
+   "title": "Para 7.2 calls a yield rise a drop",
+   "detail": "Agro 2/2026 Table 14: 12.33 vs 11.50 t/ha = +7%, but para 7.2 says an average drop of 0.83 MT/ha (7%). The dashboard follows the table. Averages are on different areas (1,145.50 vs 1,292.61 ha) and neither is the simple area-weighted result of the rows."
+  },
+  {
+   "sev": "bad",
+   "title": "2027 fertiliser programme lists felled blocks",
+   "detail": "Agro 2/2026 Appendix 1(a) programmes NK3 and Mix B for P96/Y3–Y8 (276.7 ha), replanted as P26H in 2026, and P95/T5 at 74.4 ha (69.1 in Table 1). Para 8.1 says no manuring for 2027 and 2028 replants, but K5, K7, M1, M2 (2028 per Agro 1/2026) are programmed. Appendix replant list also differs from Agro 1/2026."
+  },
+  {
+   "sev": "bad",
+   "title": "Planted area differs",
+   "detail": "Table 1 totals 2,190.23 ha (includes 26E 50 ha); Table 2 and para 2.5 2,140.23 ha; Table 3 and PARAS status report 2,165.23 ha (old 96Y 362, 22C 80). Immature 700.73 ha (para 2.5) vs 712.73 ha (PA). Tables 3 and 13 still use old areas; P21A/P21B 139/112 in Table 1 vs 138/108."
+  },
+  {
+   "sev": "warn",
+   "title": "Compound 25 and RP completion",
+   "detail": "Table 6 prints Compound 25 79%, but 116.80 of 182.95 t is 64%; 79% is applied ÷ delivered. RP 116.00 of 116.60 printed 100%. Table total 93% is on programme."
+  },
+  {
+   "sev": "warn",
+   "title": "Rat text vs tables",
+   "detail": "Para 4.5.2 says damage had not reached 10%, but Table 11 shows P22D 10.5 and 10.2, P25G 10.9 and 10.0. Table 11 Jan 2026 differs from Agro 1/2026 (P96Y 4.2 vs 5.30, P21B 7.2 vs 13.40, P21A 8.8 vs 12.60, P22D 10.5 vs 9.60). Table 12 shows second rounds in P22D, P25G though para 4.5.4 says none needed."
+  },
+  {
+   "sev": "warn",
+   "title": "Harvest intervals may be carried over",
+   "detail": "Many Table 8 months, including nearly all Jul–Sep 2026, equal the 2025 intervals exactly. Para 4.1.1 says first half of 2026, para 7.3(a) says 2025. Jun P96Y prints 17-15."
+  },
+  {
+   "sev": "warn",
+   "title": "Other Agro 2/2026 inconsistencies",
+   "detail": "Table 14 P94M printed 3% but figures give about 5%; P96Y 19% compares 335.40 and 85.30 ha. Table 15 2025 desilting 143.54 chains vs 470.54 in PA 1/2026. Section 5 'P21C (50 HA)' vs 22C. Comment letter dated 4 Nov 2026 but emailed 3 Nov 2026."
   }
  ],
  "actions": [
+  {
+   "item": "Split P22D, P24F, P25G and P26H into 30–50 ha sub-blocks for site-specific leaf sampling",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Spray Alika ZC in P22D supply areas for rhinoceros beetle: 30 ml per 16 L, every 3 weeks, 2 weeks in rainy season",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Stop over-pruning in P21B; keep at least two fronds below the lowest bunch whorl",
+   "src": "Agro 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Monitor burger-bund areas for palm mortality and re-mound eroded platforms",
+   "src": "Agro 2/2026",
+   "status": "open"
+  },
+  {
+   "item": "Set an annual desilting schedule for about 318 ha flood-prone areas; 2026 programme 1,090 chains, none reported done",
+   "src": "Agro 2/2026",
+   "status": "repeat"
+  },
   {
    "item": "Recruit additional workers (ideal 1 worker per 14 ha, 1 harvester per 22 ha)",
    "src": "PA 1/2026",
@@ -5206,8 +7929,8 @@
    "status": "repeat"
   },
   {
-   "item": "Expedite delayed 2026 manuring (7 of 415.25 t by Feb); avoid manuring in Nov–Dec monsoon",
-   "src": "PA 1/2026",
+   "item": "Bring 2026 manuring up to date: 926.70 of 993.45 t as of Sep 2026, Compound 25 lagging; avoid manuring in Nov–Dec monsoon",
+   "src": "Agro 2/2026",
    "status": "open"
   },
   {
@@ -5281,14 +8004,14 @@
    "status": "done"
   },
   {
-   "item": "Reduce overripe bunches: closer harvest supervision, keep 15-day interval",
-   "src": "Agro 1/2026",
+   "item": "Reduce overripe bunches, 7–8% in P94M1 and P96Y2: closer harvest supervision, keep 15-day interval",
+   "src": "Agro 2/2026",
    "status": "repeat"
   },
   {
    "item": "Knock out loose fruit from excessively overripe bunches (rotten heap in P96Y2)",
    "src": "Agro 1/2026",
-   "status": "open"
+   "status": "done"
   },
   {
    "item": "Remove dry hanging fronds; raise progressive pruning to satisfactory standard",
@@ -5301,9 +8024,9 @@
    "status": "open"
   },
   {
-   "item": "Kieserite 1,000 g per palm to Mg-deficient palms in P21A3; monitor other sub-blocks",
-   "src": "Agro 1/2026",
-   "status": "open"
+   "item": "Kieserite 1,000 g per palm to Mg-deficient palms in P21A3, P21B and P22D (P21A3 dose not yet applied)",
+   "src": "Agro 2/2026",
+   "status": "repeat"
   },
   {
    "item": "Eradicate weeds at vacant points during selective spraying; check sprayed areas after two weeks and touch up",
@@ -5316,8 +8039,8 @@
    "status": "open"
   },
   {
-   "item": "Quarterly rat census in young mature areas; group sub-blocks above 10% and bait in one direction",
-   "src": "Agro 1/2026",
+   "item": "Keep quarterly rat census; bait only above the 10% threshold, one direction, finish round 1 first",
+   "src": "Agro 2/2026",
    "status": "repeat"
   },
   {
@@ -5331,14 +8054,14 @@
    "status": "repeat"
   },
   {
-   "item": "Ganoderma census to include de-boled and toppled palms",
-   "src": "Agro 1/2026",
+   "item": "Ganoderma census: 8.70% infected in P96Y3–Y8 (276.70 ha); clarify containment and extend the census to other mature blocks",
+   "src": "Agro 2/2026",
    "status": "repeat"
   },
   {
-   "item": "Investigate wet floor in fertiliser store (leaks, rain through vents)",
-   "src": "Agro 1/2026",
-   "status": "open"
+   "item": "Fix wet floor in fertiliser store, also wet in empty areas; study a peripheral drain as at Batu Anam",
+   "src": "Agro 2/2026",
+   "status": "repeat"
   },
   {
    "item": "Rhinoceros beetle: keep Alika ZC, spray early morning/evening at entry points with spreader-sticker",
@@ -5401,40 +8124,41 @@
    "status": "repeat"
   }
  ],
- "kb": "LADANG SUNGAI MARUNG - FACT PACK (Far East Holdings Berhad, Far East group). Regional Senior Manager En. Musa bin Abdul Halim; Estate Manager En. Mohd Awis Bin Md Akin; Assistant Manager Muhamad Ridzuan bin Md Ramli (from Nov 2025).\n\nSOURCES. (1) PA Report 1/2026 (Planting Advisory), visit 16 March 2026 (introduction says 18 March), period reviewed January to December 2025 and January to February 2026, Planting Advisor En. Mohd Sufian Bin Yusoff. Previous PA visit 10 September 2025 (PA 2/2025, Jan-Aug 2025). (2) Agronomy Report 1/2026, visit 3 March 2026, Senior Agronomist Mr. Lai Hong Heng; previous visit 12 November 2025 (Agronomy 2/2025, which set the 2026 programme, later amended).\n\nAREA (PA 1/2026). Total 2,264.90 ha. 2026: mature 1,145.50 ha (934.11 + Sg Gayung Division 123.10 + Sg Marung Division 88.29), immature 712.73 ha, replanting 282.00 ha (P26H), total planted 2,140.23 ha, buildings 4.17 ha, unplantable 120.50 ha (up from 10.50 after P22E and 30 ha of P22C were abandoned after floods). 2025: mature 1,423.50, immature 455.73, replanting 371.00. Age profile (Agro): 47% over 26 years (1,014.7 ha), 33% 0-3 years, 19% 4-7, none 8-19, 1% 20-25. Main fields (ha): P94K 375.60, P94M 328.79, P95S 155.91, P95T 69.10 (74.40 before 5.30 ha went to P26H), P96Y 85.30 (Y1, Y2; was 362), P05W 18.80, P21A 138, P21B 108, P22D 105, P22C 50, P24F 212.73, P25G 206, P26H 282. SPH (census): P94K 127, P94M 125, P95S 128, P95T 125, P96Y 128, P05W 120, young plantings 142-148; estate 136.\n\nCROP (PA 1/2026 section 8, 1,185.51 ha mature). Jan-Dec 2025 FFB 19,296.70 t vs budget 19,100.00 t (+2%); 2024 20,547.89 t. Yield 16.28 t/ha vs budget 16.11; 2024 18.16. CPO 3,662.45 t, OER 18.98%, KER 4.77%. Highest fields 2025: P05W 27.11 t/ha, P94M 20.50; lowest P95S 15.95, P96Y 15.09 (flood-prone). Jan-Feb 2026 FFB 3,209.70 t, 23% above budget and in line with the same period of 2025. PA 2/2025: Jan-Aug 2025 13,171.37 t (11.11 t/ha) vs budget 11,380 t and 11,820.40 t same period 2024. Scout harvesting: P21A 15 ha gave 245 t in 2025; P22D 318.70 t in 12 months. P21B declared mature 2025: 838.92 t = 9.12 t/ha Jan-Aug 2025.\n\nYIELD HISTORY (Agro 1/2026 chart, t/ha): 2019 18.08, 2020 21.38, 2021 19.17, 2022 14.20, 2023 15.03, 2024 19.50, 2025 16.88. Agro Table 19 2025 vs 2024: P94K 17 vs 19.79, P94M 20.41 vs 22.26, P95S 15.95 vs 19.95, P95T 16.42 vs 17, P96Y 15.09 vs 16.66, P05W 27.11 vs 28.51; average drop 2.62 t/ha (13.65%), blamed on floods in Mar and mid-Apr 2025 that cut off P94K, P95S and P96Y for about 40 days. Agro 2/2025: bunch weight steady, bunches per palm fell from 5.9 (2024) to 5.4 (Jan-Oct 2025). Older tonnes (Agro 2/2024 Appendix 3): 2020 28,619.87 t, 2021 23,815.45, 2022 18,122.80, 2023 16,856.84. Note the PA and Agro estate yields differ (see issues).\n\nCOST (PA 1/2026, Jan-Dec 2025). Ex-estate cost RM280.79/t FFB vs budget RM356.02 (-21%): general charges RM95.14 (budget 140.99), upkeep and cultivation RM80.37 (102.01), harvesting and collection RM105.28 (113.01): harvesting 59.73, internal transport 30.11, external transport 15.44. Processing RM70.00, palm oil transport 7.41, cess 37.67, depreciation 25.70; total RM421.57/t vs 461.94. General charges RM1,835,882.30 = RM1,190.42/ha on 1,542.21 ha vs RM1,746.18 (-32%); overspent items staff welfare (Family Day), paid leave/VLP RM127,556.51 (+32%), SOCSO, medical VMO, recruitment RM199,438.28 vs RM74,560 (66 foreign workers vs 30 budgeted), all-risk insurance, workmen compensation (deceased worker), MSPO/ISCC RM14,751.91. Upkeep RM1,550,830 = RM1,308.15/ha on 1,185.51 ha vs RM1,643.56: weeding 223.20 (249.12), manuring 633.69 (821.48), pest and disease 90.52 (111.85), census 6.86 (19.52), drains 71.96 (81.47), roads 98.51 (153.32), pruning 176.69 (188.80).\n\nLABOUR AND STAFF (PA 1/2026, Feb 2026). 143 workers vs requirement 140 (1 worker per 15 ha): harvesters 75 (req 73), drivers/loaders 6 (15), weeding 21 (16), manuring 14 (12), general 3 (8), others 24 (16). 41 checkroll, 102 contract. Up from 113 at the last visit; 54 recruited in 2025, 20 repatriated, 16 absconded. Harvester ratio 1:18 ha over 1,145.50 ha mature plus 243 ha scout harvesting. Concluding remarks quote 151 workers.\n\nHARVESTING (PA and Agro). Average interval 15 days, 23.58 rounds in 2025; extended in P95S, P95T, P96Y. Jan-Feb 2026 intervals up to 23 days in P95S and P96Y. 70% of FFB direct to Sawira POM, 30% via ramp to Merchong POM. Mechanisation 2025: MBI 9 units 8.22 t/day, Timac 4 units 10.22 t/day, Badang 1 unit 8.25 t/day; 46 harvesters, 1 machine to 3.5 harvesters; harvesters about 3 t/day. PA recommends 1 machine per 140 ha and 5 harvesters per machine. Agro: overripe bunches are the main yield loss with no improvement: P94K5 5%, P94K8 8%, P94K9 10%, P94M4 8% (Mar 2026); rotten bunch heap in P96Y2.\n\nMANURING. 2025 completed (PA: required 915.55 t, applied 927.95 t, balance 104.27 t; Agro: 851.25 t, 100% by Nov 2025; Mix B delayed in flooded young blocks). 2026 to Feb: 7.00 t applied of 415.25 t required (Jan NK2 in progress; Feb NK2 183.85 t, Mix B 47.35, Compound 25 29.00, Compound 44 22.80 not started) due to heavy rain Nov 2025-Feb 2026 and floods. Semi-mechanised application 35-40 bags per worker per day; RM2.00-2.50 per bag, about RM75/day.\n\n2026 FERTILISER PROGRAMME (Agro 1/2026 Appendix 1, revised, grams per palm). P94K: NK2 2,500 Feb. P94M: NK2 2,500 Jan. P95S and P95T: NK2 2,000 Feb and Sep. P96Y1-Y2: NK2 2,000 Jan and Sep (Y3-Y8 replanted). P05W: NK2 2,000 Feb, NK2 1,500 Jun, Mix B 1,500 Oct. P21A and P21B: Mix B 1,750 Feb, 1,500 May, RP 2,000 Jun, Mix B 1,500 Aug and Nov; supply palms Comp B 1,000 Feb, 1,200 May, RP 2,000 Jun, Comp B 1,200 Aug and Nov. P22D: Mix B 1,500 Feb, May, Aug, Nov, RP 2,000 Jun. P24F: Comp A 1,000 Feb, May, Aug, RP 1,750 Oct, Comp A 1,200 Nov. P22C (printed P25/C 80 ha): Comp A 800 May, RP 1,500 Jun, Comp A 900 Aug, 1,000 Nov. P25G: Comp A 800 Mar, RP 1,500 Apr, Comp A 900 Jun, 1,000 Sep and Dec. P26: 600 g CRF + 500 g RP at planting, Comp A 800 month 10, RP 1,500 month 11. No manuring for blocks replanting in 2026-2027. The Nov 2025 draft had a second NK2 round for P94K (Aug) and P94M (Jul), Mix B in P95S/P95T/P96Y/P05W and 1,750 g Mix B rounds for P21A/B. 2025 programme (Agro 2/2024): NK2 2,500 x2 in P94K and M1-M3, <NK2 2,000> x2 in M4, M5, M11, Mix A 2,000 x3 in P95S, P95T, P96Y, Mix A 2,000 x4 + RP 1,500 in P05W.\n\nWEEDING. 2025 circle and path 98% (P94M11 2 of 3 rounds, flooding); selective 100%. Feb 2026: circle 456.80 ha (77%), selective 980.54 ha (87%). Agro: ground vegetation borderline acceptable (52% sparse, 36% acceptable soft grass, 12% grassy low-lying), sporadic Clidemia, Stenochlaena, Dicranopteris, VOPs. Recommended 3 selective, 2 circle, 1 spot round.\n\nPRUNING. 2025 progressive pruning 1,414.82 of 1,423.50 ha (99%). Agro: quality improved, slightly above acceptable, sporadic dry hanging fronds; slight over-pruning in P21A3.\n\nPESTS AND DISEASES. Rats below 10% in tall palms (Jan 2026: P94K 8.30, P94M 6.80, P95S 8.70, P96Y 5.30%); P21B 13.40% and P21A 12.60% in Jan 2026 fell to 9.40% and 8.90% after baiting. 73 barn owl nests (PA 100% occupied, Agro 90%), target 139. No bagworm in 2025. Rhinoceros beetle controlled with Alika ZC every 3 weeks in P21A supply, P24F, P25G. Ganoderma: P96Y census Jun 2025 8.59%; P94K and P94M in progress; P95S, P95T, P05W not started. Mg deficiency in flood-prone P21A3: kieserite 1 kg per palm. Foliar (Mar 2025 samples): P05W N 2.59, K 1.00, Mg 0.29; P21A N 2.61, K 1.12, Mg 0.28; P21B1 Mg 0.24.\n\nFLOODS AND DRAINS. Three floods mid-Dec 2025 to mid-Jan 2026 affected 363 ha mature and 446 ha immature; about 800 ha low-lying, five inlets from neighbours and Kampung Asli, outlet Sungai Rompin. Agro lists 318 ha flood-prone in mature sub-blocks (P95S3 100%, P95S4 85%, P96Y4 67%, P96Y3 63%). Desilting 2025 470.54 chains (programme 1,400-1,460). Road grading 2,291 of 4,810 chains in 2025.\n\nIMMATURE AND REPLANTING. P21A: 4,776 palms planted on 30 flooded ha; cost to maturity RM3,085.49/ha (budget 3,474.33). P22D: 1,650 supplied; RM2,987.00 (3,356.40). P22C: 50 ha replanted May 2025, 2,713 palms; other 30 ha abandoned. P24F (212.73 ha): good Mucuna on terraces, palms 14 months, ready for ablation, banana and watermelon intercrops. P25G (206 ha): 29,086 palms, infilling in progress, watermelon lease 2 years, cost RM8,415.63/ha (10,449.25). P26H (282 ha ex-P96Y3-8 and part of P95T5): felling Jan-Feb 2026, bunds 60%, planting 25% (Agro) to about 50% (PA). Replanting plan 2027 277.30 ha, 2028 309.19, 2029 273.81, 2030 173.20.\n\nRAINFALL (mm, days). 2021 2,550/120, 2022 2,416/124, 2023 4,643/167, 2024 4,756/138, 2025 3,309/148 (Dec 2025 1,034.5 mm). Five-year average 3,535 mm.\n\nKEY ACTIONS. Recruit workers; resume Rhinoceros treatment; study flooding; improve machine ratio; expedite 2026 manuring; desilt drains; Ganoderma census; more owl boxes; cut overripe bunches; fix pruning quality; quarterly rat census in young mature; palm census after floods; apply EFB.\n",
+ "kb": "LADANG SUNGAI MARUNG - FACT PACK (Far East Holdings Berhad, Far East group). Regional Senior Manager En. Musa bin Abdul Halim; Estate Manager En. Mohd Awis Bin Md Akin; Assistant Manager Muhamad Ridzuan bin Md Ramli (from Nov 2025).\n\nSOURCES. (0) Agronomy Report 2/2026, visit 30 September 2026 (sets the 2027 programme), Mr. Lai Hong Heng, with Senior Executive Director comments dated 4 November 2026. (1) PA Report 1/2026 (Planting Advisory), visit 16 March 2026 (introduction says 18 March), period reviewed January to December 2025 and January to February 2026, Planting Advisor En. Mohd Sufian Bin Yusoff. Previous PA visit 10 September 2025 (PA 2/2025, Jan-Aug 2025). (2) Agronomy Report 1/2026, visit 3 March 2026, Senior Agronomist Mr. Lai Hong Heng; previous visit 12 November 2025 (Agronomy 2/2025, which set the 2026 programme, later amended).\n\nAREA (PA 1/2026). Total 2,264.90 ha. 2026: mature 1,145.50 ha (934.11 + Sg Gayung Division 123.10 + Sg Marung Division 88.29), immature 712.73 ha, replanting 282.00 ha (P26H), total planted 2,140.23 ha, buildings 4.17 ha, unplantable 120.50 ha (up from 10.50 after P22E and 30 ha of P22C were abandoned after floods). 2025: mature 1,423.50, immature 455.73, replanting 371.00. Age profile (Agro): 47% over 26 years (1,014.7 ha), 33% 0-3 years, 19% 4-7, none 8-19, 1% 20-25. Main fields (ha): P94K 375.60, P94M 328.79, P95S 155.91, P95T 69.10 (74.40 before 5.30 ha went to P26H), P96Y 85.30 (Y1, Y2; was 362), P05W 18.80, P21A 138, P21B 108, P22D 105, P22C 50, P24F 212.73, P25G 206, P26H 282. SPH (census): P94K 127, P94M 125, P95S 128, P95T 125, P96Y 128, P05W 120, young plantings 142-148; estate 136.\n\nCROP (PA 1/2026 section 8, 1,185.51 ha mature). Jan-Dec 2025 FFB 19,296.70 t vs budget 19,100.00 t (+2%); 2024 20,547.89 t. Yield 16.28 t/ha vs budget 16.11; 2024 18.16. CPO 3,662.45 t, OER 18.98%, KER 4.77%. Highest fields 2025: P05W 27.11 t/ha, P94M 20.50; lowest P95S 15.95, P96Y 15.09 (flood-prone). Jan-Feb 2026 FFB 3,209.70 t, 23% above budget and in line with the same period of 2025. PA 2/2025: Jan-Aug 2025 13,171.37 t (11.11 t/ha) vs budget 11,380 t and 11,820.40 t same period 2024. Scout harvesting: P21A 15 ha gave 245 t in 2025; P22D 318.70 t in 12 months. P21B declared mature 2025: 838.92 t = 9.12 t/ha Jan-Aug 2025.\n\nYIELD HISTORY (Agro 1/2026 chart, t/ha): 2019 18.08, 2020 21.38, 2021 19.17, 2022 14.20, 2023 15.03, 2024 19.50, 2025 16.88. Agro Table 19 2025 vs 2024: P94K 17 vs 19.79, P94M 20.41 vs 22.26, P95S 15.95 vs 19.95, P95T 16.42 vs 17, P96Y 15.09 vs 16.66, P05W 27.11 vs 28.51; average drop 2.62 t/ha (13.65%), blamed on floods in Mar and mid-Apr 2025 that cut off P94K, P95S and P96Y for about 40 days. Agro 2/2025: bunch weight steady, bunches per palm fell from 5.9 (2024) to 5.4 (Jan-Oct 2025). Older tonnes (Agro 2/2024 Appendix 3): 2020 28,619.87 t, 2021 23,815.45, 2022 18,122.80, 2023 16,856.84. Note the PA and Agro estate yields differ (see issues).\n\nCOST (PA 1/2026, Jan-Dec 2025). Ex-estate cost RM280.79/t FFB vs budget RM356.02 (-21%): general charges RM95.14 (budget 140.99), upkeep and cultivation RM80.37 (102.01), harvesting and collection RM105.28 (113.01): harvesting 59.73, internal transport 30.11, external transport 15.44. Processing RM70.00, palm oil transport 7.41, cess 37.67, depreciation 25.70; total RM421.57/t vs 461.94. General charges RM1,835,882.30 = RM1,190.42/ha on 1,542.21 ha vs RM1,746.18 (-32%); overspent items staff welfare (Family Day), paid leave/VLP RM127,556.51 (+32%), SOCSO, medical VMO, recruitment RM199,438.28 vs RM74,560 (66 foreign workers vs 30 budgeted), all-risk insurance, workmen compensation (deceased worker), MSPO/ISCC RM14,751.91. Upkeep RM1,550,830 = RM1,308.15/ha on 1,185.51 ha vs RM1,643.56: weeding 223.20 (249.12), manuring 633.69 (821.48), pest and disease 90.52 (111.85), census 6.86 (19.52), drains 71.96 (81.47), roads 98.51 (153.32), pruning 176.69 (188.80).\n\nLABOUR AND STAFF (PA 1/2026, Feb 2026). 143 workers vs requirement 140 (1 worker per 15 ha): harvesters 75 (req 73), drivers/loaders 6 (15), weeding 21 (16), manuring 14 (12), general 3 (8), others 24 (16). 41 checkroll, 102 contract. Up from 113 at the last visit; 54 recruited in 2025, 20 repatriated, 16 absconded. Harvester ratio 1:18 ha over 1,145.50 ha mature plus 243 ha scout harvesting. Concluding remarks quote 151 workers.\n\nHARVESTING (PA and Agro). Average interval 15 days, 23.58 rounds in 2025; extended in P95S, P95T, P96Y. Jan-Feb 2026 intervals up to 23 days in P95S and P96Y. 70% of FFB direct to Sawira POM, 30% via ramp to Merchong POM. Mechanisation 2025: MBI 9 units 8.22 t/day, Timac 4 units 10.22 t/day, Badang 1 unit 8.25 t/day; 46 harvesters, 1 machine to 3.5 harvesters; harvesters about 3 t/day. PA recommends 1 machine per 140 ha and 5 harvesters per machine. Agro: overripe bunches are the main yield loss with no improvement: P94K5 5%, P94K8 8%, P94K9 10%, P94M4 8% (Mar 2026); rotten bunch heap in P96Y2.\n\nMANURING. 2025 completed (PA: required 915.55 t, applied 927.95 t, balance 104.27 t; Agro: 851.25 t, 100% by Nov 2025; Mix B delayed in flooded young blocks). 2026 to Feb: 7.00 t applied of 415.25 t required (Jan NK2 in progress; Feb NK2 183.85 t, Mix B 47.35, Compound 25 29.00, Compound 44 22.80 not started) due to heavy rain Nov 2025-Feb 2026 and floods. Semi-mechanised application 35-40 bags per worker per day; RM2.00-2.50 per bag, about RM75/day.\n\n2026 FERTILISER PROGRAMME (Agro 1/2026 Appendix 1, revised, grams per palm). P94K: NK2 2,500 Feb. P94M: NK2 2,500 Jan. P95S and P95T: NK2 2,000 Feb and Sep. P96Y1-Y2: NK2 2,000 Jan and Sep (Y3-Y8 replanted). P05W: NK2 2,000 Feb, NK2 1,500 Jun, Mix B 1,500 Oct. P21A and P21B: Mix B 1,750 Feb, 1,500 May, RP 2,000 Jun, Mix B 1,500 Aug and Nov; supply palms Comp B 1,000 Feb, 1,200 May, RP 2,000 Jun, Comp B 1,200 Aug and Nov. P22D: Mix B 1,500 Feb, May, Aug, Nov, RP 2,000 Jun. P24F: Comp A 1,000 Feb, May, Aug, RP 1,750 Oct, Comp A 1,200 Nov. P22C (printed P25/C 80 ha): Comp A 800 May, RP 1,500 Jun, Comp A 900 Aug, 1,000 Nov. P25G: Comp A 800 Mar, RP 1,500 Apr, Comp A 900 Jun, 1,000 Sep and Dec. P26: 600 g CRF + 500 g RP at planting, Comp A 800 month 10, RP 1,500 month 11. No manuring for blocks replanting in 2026-2027. The Nov 2025 draft had a second NK2 round for P94K (Aug) and P94M (Jul), Mix B in P95S/P95T/P96Y/P05W and 1,750 g Mix B rounds for P21A/B. 2025 programme (Agro 2/2024): NK2 2,500 x2 in P94K and M1-M3, <NK2 2,000> x2 in M4, M5, M11, Mix A 2,000 x3 in P95S, P95T, P96Y, Mix A 2,000 x4 + RP 1,500 in P05W.\n\nWEEDING. 2025 circle and path 98% (P94M11 2 of 3 rounds, flooding); selective 100%. Feb 2026: circle 456.80 ha (77%), selective 980.54 ha (87%). Agro: ground vegetation borderline acceptable (52% sparse, 36% acceptable soft grass, 12% grassy low-lying), sporadic Clidemia, Stenochlaena, Dicranopteris, VOPs. Recommended 3 selective, 2 circle, 1 spot round.\n\nPRUNING. 2025 progressive pruning 1,414.82 of 1,423.50 ha (99%). Agro: quality improved, slightly above acceptable, sporadic dry hanging fronds; slight over-pruning in P21A3.\n\nPESTS AND DISEASES. Rats below 10% in tall palms (Jan 2026: P94K 8.30, P94M 6.80, P95S 8.70, P96Y 5.30%); P21B 13.40% and P21A 12.60% in Jan 2026 fell to 9.40% and 8.90% after baiting. 73 barn owl nests (PA 100% occupied, Agro 90%), target 139. No bagworm in 2025. Rhinoceros beetle controlled with Alika ZC every 3 weeks in P21A supply, P24F, P25G. Ganoderma: P96Y census Jun 2025 8.59%; P94K and P94M in progress; P95S, P95T, P05W not started. Mg deficiency in flood-prone P21A3: kieserite 1 kg per palm. Foliar (Mar 2025 samples): P05W N 2.59, K 1.00, Mg 0.29; P21A N 2.61, K 1.12, Mg 0.28; P21B1 Mg 0.24.\n\nFLOODS AND DRAINS. Three floods mid-Dec 2025 to mid-Jan 2026 affected 363 ha mature and 446 ha immature; about 800 ha low-lying, five inlets from neighbours and Kampung Asli, outlet Sungai Rompin. Agro lists 318 ha flood-prone in mature sub-blocks (P95S3 100%, P95S4 85%, P96Y4 67%, P96Y3 63%). Desilting 2025 470.54 chains (programme 1,400-1,460). Road grading 2,291 of 4,810 chains in 2025.\n\nIMMATURE AND REPLANTING. P21A: 4,776 palms planted on 30 flooded ha; cost to maturity RM3,085.49/ha (budget 3,474.33). P22D: 1,650 supplied; RM2,987.00 (3,356.40). P22C: 50 ha replanted May 2025, 2,713 palms; other 30 ha abandoned. P24F (212.73 ha): good Mucuna on terraces, palms 14 months, ready for ablation, banana and watermelon intercrops. P25G (206 ha): 29,086 palms, infilling in progress, watermelon lease 2 years, cost RM8,415.63/ha (10,449.25). P26H (282 ha ex-P96Y3-8 and part of P95T5): felling Jan-Feb 2026, bunds 60%, planting 25% (Agro) to about 50% (PA). Replanting plan 2027 277.30 ha, 2028 309.19, 2029 273.81, 2030 173.20.\n\nRAINFALL (mm, days). 2021 2,550/120, 2022 2,416/124, 2023 4,643/167, 2024 4,756/138, 2025 3,309/148 (Dec 2025 1,034.5 mm). Five-year average 3,535 mm.\n\nKEY ACTIONS. Recruit workers; resume Rhinoceros treatment; study flooding; improve machine ratio; expedite 2026 manuring; desilt drains; Ganoderma census; more owl boxes; cut overripe bunches; fix pruning quality; quarterly rat census in young mature; palm census after floods; apply EFB.\n\n\nAGRONOMY REPORT 2/2026 (visit 30 September 2026; newest source, where it differs from the older sections above it is later).\nAREA (updated as at August 2026). 94K 375.6, 94M 328.79, 95S 155.91, 95T 69.1, 96Y 85.3, 05W 18.8, 21A 139, 21B 112, 22D 105, 22C 50, 24F 212.73, 25G 206, 26H 282, 26E 50 ha; Table 1 total 2,190.23 ha; planted 2,140.23 ha in para 2.5. About 80 ha of P22C flooded with high mortality, about 3 ha survived; 50 ha reclassified as planted. 47% (1,014.7 ha) over 26 years, 406.0 ha young mature 4-7 years, 32.7% (700.73 ha) immature. Supplying 2022-2025: 35,060 palms. Split P22D, P24F, P25G, P26H into 30-50 ha sub-blocks.\nGANODERMA (Table 5). P96Y3 9.81%, Y4 7.24%, Y5 8.43%, Y6 8.76%, Y7 9.05%, Y8 8.24%; 276.70 ha, 8.70%.\nYIELD Jan-Aug 2026 vs Jan-Aug 2025 (t/ha, Table 14). P94K 11.33 vs 11.70 (-3%), P94M 14.58 vs 13.88 (3%), P95S 9.84 vs 11.14 (-12%), P95T 11.80 vs 10.77 (10%), P96Y 12.17 vs 10.21 (19%), P05W 18.11 vs 17.89 (1%), P21B 11.99 vs 9.12 (31%), average 12.33 vs 11.50 (+7%). No tonnes printed. January 2026 flood left P95S inaccessible. Report text wrongly says a drop; the table shows a rise.\nMANURING as of September 2026 (Table 6, t programme/delivered/applied). NK2 466.40 all 100%; Mix B 150.00 all 100%; Compound 25 182.95/147.30/116.80 printed 79%; Compound 44 77.50 all 100%; RP 116.60/116.00/116.00 printed 100%; total 993.45/957.20/926.70, 93%. Fertiliser store wet floor unresolved, even in empty areas; study a peripheral drain as at Batu Anam. EFB limited to mulching in P26H.\nHARVESTING. Intervals mostly 13-17 days, over 20 days in P95S, P95T, P96Y in some months of early 2026 (flood). Overripe P94M1 7%, P96Y2 8%, against 5-10% at the last visit: main yield loss. Rotten heaps gone, loose fruit losses minimal, occasional overnight bunches.\nPRUNING as of August 2026. 915.78 of 1,150.71 ha, 80% (94K 80%, 95S 69%, 05W 100%). Standards better in 44% of the area, little change in 56%. Dry hanging fronds in patches.\nLEAF. K high in all samples, B and Ca normal, N and Mg vary, P low or moderately low in most. Mg deficiency in low-lying P21A3, P21B, P22D; kieserite 1 kg per palm advised.\nWEEDING as of September 2026. Inter-row round 2 100%, circle round 2 91%; P21B three rounds done. Sparse cover down from 52% to 28%, soft vegetation up from 36% to 61%, grassy 12% to 11%. Aggressive weeds in P21A, P21B.\nPESTS. Rat census July-August 2026 below 10% in all blocks (highest P25G 7.2, P95T 6.7, P21A 6.7); baited April-June 804.73 ha round 1 and 291 ha round 2 with Storm; no second round needed now. Barn owls 73 boxes, 90%. Rhinoceros beetle damage in P22D supply areas: Alika ZC 30 ml per 16 L, every 3 weeks.\nIMMATURE. P24F: palms with banana grew better than with watermelon but slightly etiolated. Sporadic over-pruning in P21B.\nP26H. Felling, roads, drains and bunds 100%, planting 98% as of August 2026. Burger bunds raised planting platforms 3-6 feet; low mortality in 2025 plantings after flooding; watch erosion.\nFLOODS AND DRAINS. About 318 ha flood-prone. Desilting 2024 1,322 of 2,740 chains, 2025 143.54 of 1,460, 2026 programme 1,090 none reported. Rainfall average 3,535 mm, 12 rainy days a month.\n2027 FERTILISER (g/palm, Appendix 1). P94K K5, K7-K9 NK3 2,500 Feb and Aug; P94M M1, M2, M5 NK3 2,500 Jan and Jul; P95S3, P95T5 NK3 2,500 x2; K3, K4, K6, M3, M4, M11, S1, S4 replanting 2027, none; P96 NK3 2,000 Jan, May, Mix B 2,000 Sep; P05W Mix B 2,500 Feb, NK3 2,000 Jun, Mix B 2,500 Oct; P21A, P21B Mix B 2,000 x4, RP 2,000; P22D Mix B 1,750 and 2,000, RP 2,000; P24F Comp B 1,200-1,500, RP 1,750; P25G and P22C Comp A 1,000-1,200, RP 1,750; P26H Comp A 800-1,000, RP 1,500. Directors agreed the programme.\nSENIOR EXECUTIVE DIRECTOR COMMENTS (4 November 2026). Proceed with sub-blocking; Ganoderma results concerning, clarify measures; clarify store floor; improve crop recovery; progressive pruning in all fields; second rat baiting not needed but keep censuses; correct over-pruning in P21B; continue evaluating burger bunds.\n",
  "top": {
   "limits": [
    {
-    "t": "Floods in low-lying fields",
-    "s": "Flooding",
-    "d": "Floods in Mar and mid-Apr 2025 cut off P94K, P95S and P96Y for about 40 days; 2025 yield fell 2.62 t/ha (13.65%). Three more floods mid-Dec 2025 to mid-Jan 2026 hit 363 ha mature.",
-    "src": "Agro 1/2026 · PA 1/2026",
+    "t": "Overripe bunches the main loss",
+    "s": "Overripe bunches",
+    "d": "7–8% overripe in P94M1 and P96Y2 at the Sep 2026 visit, only slight improvement on 5–10% in Mar 2026. Report names this the main yield loss.",
+    "src": "Agro 2/2026 s.4.1",
     "rep": true
    },
    {
-    "t": "Overripe bunches and long intervals",
-    "s": "Overripe bunches",
-    "d": "Overripe bunches the main yield loss, no improvement: P94K5 5%, P94K8 8%, P94K9 10%, P94M4 8% (Mar 2026). Intervals up to 23 days in P95S and P96Y, Jan–Feb 2026.",
-    "src": "Agro 1/2026 · PA 1/2026",
+    "t": "Floods in low-lying fields",
+    "s": "Flooding",
+    "d": "January 2026 flood left P95S inaccessible; 9.84 t/ha Jan–Aug 2026 vs 11.14 (-12%). Intervals over 20 days in P95S, P95T, P96Y; about 318 ha flood-prone, 2026 desilting none of 1,090 chains.",
+    "src": "Agro 2/2026 s.7.2, 7.5",
     "rep": true
    },
    {
     "t": "Old, thinning palm stands",
     "s": "Old palms",
-    "d": "47% of area (1,014.7 ha) is over 26 years old; tall-palm stands down to SPH 125–128 vs 136 in Feb 2019. P95S 15.95 and P96Y 15.09 t/ha in 2025, lowest fields.",
-    "src": "Agro 1/2026 · PA 1/2026"
+    "d": "47% of planted area (1,014.7 ha) is over 26 years old, with falling yield potential and harvest difficulty; tall-palm stands 120–128 SPH vs 136 before.",
+    "src": "Agro 2/2026 s.2.5, T.3"
    },
    {
-    "t": "2026 manuring badly delayed",
-    "s": "Late manuring",
-    "d": "Only 7.00 of 415.25 t applied by Feb 2026 after heavy rain Nov 2025–Feb 2026 and floods; revised programme dropped second NK2 rounds for P94K and P94M.",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "t": "Ganoderma in old palms",
+    "s": "Ganoderma",
+    "d": "Census 8.70% infected over 276.70 ha of P96Y3–Y8, 7.24–9.81% by sub-block. Results for other mature blocks are not printed.",
+    "src": "Agro 2/2026 T.5",
+    "rep": true
    },
    {
-    "t": "Rats in young mature blocks",
-    "s": "Rat damage",
-    "d": "Jan 2026 rat damage P21B 13.40% and P21A 12.60% (above 10%); 73 owl nests vs 139 target; 2025 baiting 374.70 of 1,879.23 ha.",
-    "src": "Agro 1/2026 · PA 1/2026",
+    "t": "Low leaf P, Mg in wet areas",
+    "s": "Low P, Mg",
+    "d": "Most leaf samples low or moderately low in P; mild to moderately severe Mg deficiency in low-lying P21B, P22D. Kieserite 1 kg per palm not yet applied to P21A3.",
+    "src": "Agro 2/2026 s.4.3",
     "rep": true
    }
   ],
@@ -5474,5 +8198,12 @@
     "rep": true
    }
   ]
+ },
+ "ytdCurrent": {
+  "year": 2026,
+  "period": "Jan–Aug 2026",
+  "yph": 12.33,
+  "prevSame": 11.5,
+  "src": "Agronomy Report 2/2026 Table 14 (1,145.50 ha in 2026, 1,292.61 ha in 2025)"
  }
 }
